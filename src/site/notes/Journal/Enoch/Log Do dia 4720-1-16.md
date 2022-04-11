@@ -11,7 +11,7 @@ Como ficamos até de madrugada por conta do [[Personagens/Michel Decon|Michel De
 A noite fomos à [[Esplendorosa Biblioteca de Magia]] tentar abrir o portal com a ajuda da madeira da criação... E deu certo! Um portal para o plano exterior da magia se abriu, onde fomos [[Journal/Quase Batalha com gigante das nuvens|atacados]] por um [[Gigante das Nuvens]].
 
 Decidimos por não engajar essa fantástica criatura, e portanto corremos em direção ao que acreditávamos ser o "sexto andar" da [[Esplendorosa Biblioteca de Magia|biblioteca]].
-Graças a [[Heironeous]] o Gigante parou de nos atacar (parece ter caído) e conseguimos adentrar o prédio que buscávamos.
+Graças a [[Heironeous]] o Gigante parou de nos atacar (parece ter caído) e conseguimos adentrar o prédio que buscávamos.^[[[Journal/Quase Batalha com gigante das nuvens|Quase Batalha com gigante das nuvens]]]
 
 Assim que adentramos o magnífico prédio, clamei por [[Personagens/Mirian, o grande mago da antiguidade|Mirian, o grande mago da antiguidade]] pois precisávamos de sua ajuda para salvar [[Mundo/Teia|Teia]] e derrotar o terrível [[Personagens/Nemis - O demonio|demônio Nemis]].
 Foi como se o próprio [[Heironeous]] estivesse pronunciando as palavras através de mim, e o fantasma do [[Mirian, o grande mago]], apareceu para o nosso grupo de forma amigável, e nos explicou que ele só poderia deixar passar aqueles que além de uma causa justa provassem a sua inteligência e sabedoria.
