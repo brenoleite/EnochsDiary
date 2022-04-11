@@ -5,7 +5,7 @@
 
 <- Dia Anterior | [[Journal/Enoch/Log do dia 4720-1-17|Próximo dia ->]]
 
-# `=this.file.name`
+# Log Do dia 4720-1-16
 Como ficamos até de madrugada por conta do [[Personagens/Michel Decon|Michel Decon]], dormimos durante toda a manha e maior parte da tarde.
 
 A noite fomos à [[Esplendorosa Biblioteca de Magia]] tentar abrir o portal com a ajuda da madeira da criação... E deu certo! Um portal para o plano exterior da magia se abriu, onde fomos [[Journal/Quase Batalha com gigante das nuvens|atacados]] por um [[Gigante das Nuvens]].
