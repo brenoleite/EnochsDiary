@@ -3,7 +3,7 @@
 ---
 #EnochsJournal 
 
-<- Dia Anterior | [[Journal/Enoch/Log do dia 4720-1-17|Próximo dia ->]]
+<- Dia Anterior | [[EnochsDiary|Home]] | [[Journal/Enoch/Log do dia 4720-1-17|Próximo dia ->]]
 
 # Log Do dia 4720-1-16
 Como ficamos até de madrugada por conta do [[Personagens/Michel Decon|Michel Decon]], dormimos durante toda a manha e maior parte da tarde.
