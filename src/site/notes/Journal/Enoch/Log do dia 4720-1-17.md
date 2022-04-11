@@ -3,14 +3,14 @@
 ---
 #EnochsJournal 
 
-[[Journal/Enoch/Log Do dia 4720-1-16|<- Dia anterior]] | [[Journal/Enoch/Log do dia 4720-1-18|Próximo Dia ->]]
+[[Journal/Enoch/Log Do dia 4720-1-16|<- Dia anterior]] | [[EnochsDiary|Home]] | [[Journal/Enoch/Log do dia 4720-1-18|Próximo Dia ->]]
 
 # Log Do dia 4720-1-17
 
 saímos do plano da magia na fonte da vitória praça durante a madrugada e fomos dormir.
 Quando acordamos, percebemos que tínhamos que pesquisar sobre o melhor ferreiro para construir a arma a ser transformada pela magia ensinada por [[Boccob, O velho]].
 Para isso dividimos nosso grupo, indo [[Li]] e [[Lhoris]] para a [[Grande Biblioteca de história e religião]] enquanto eu e [[Aladrail]] fomos visitar o templo de [[Heretiru, o deus da guerra]].^[a idéia de ir para esse templo foi de [[Aladrail]], e ao reconhecer sua grande ideia, mas sabendo que os seguidores de [[Heretiru, o deus da guerra]], não respeitam muito pessoas de roupas finas, decidi acompanhá-lo]
-Chegando ao templo fomos recebidos pelo clérigo com armas em punho (como era de se esperar). Uma arma excepcionalmente forjada, sendo que no momento que a vi, soube que havíamos feito a coisa certa indo ao templo. Porém, mesmo minha armadura demonstrando que sou um guerreiro já de várias batalhas, minhas palavras não foram suficientes para que ele nos passasse a informação que queríamos. Foi necessário que eu arrancasse dele a informação em um duelo.
+Chegando ao templo fomos recebidos pelo clérigo com armas em punho (como era de se esperar). Uma arma excepcionalmente forjada, sendo que no momento que a vi, soube que havíamos feito a coisa certa indo ao templo. Porém, mesmo minha armadura demonstrando que sou um guerreiro já de várias batalhas, minhas palavras não foram suficientes para que ele nos passasse a informação que queríamos. Foi necessário que eu arrancasse dele a informação em um duelo.^[ [[Journal/Duelo contra clerigo de Heretiru|Duelo contra clerigo de Heretiru]] ]
 
 Durante o duelo; sentindo aquela áurea imunda de maldade, que mais se assemelha à áurea de um demonio à áurea de um humano, acabei me excedendo e quase acabei com a vida dele ali mesmo. Mais uma vez devo agradecer ao meu grande deus [[Heironeous]] por não ter permitido que eu ceifasse a vida daquele homem repugnante, afinal, há algo maior em jogo no momento. Uma maldade muito maior a espreita e que precisa ser evitada.
 
