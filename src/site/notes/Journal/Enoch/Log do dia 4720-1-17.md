@@ -3,9 +3,9 @@
 ---
 #EnochsJournal 
 
-[[Journal/Enoch/Log Do dia 4720-1-16|<- Dia anterior]] |
+[[Journal/Enoch/Log Do dia 4720-1-16|<- Dia anterior]] | [[Journal/Enoch/Log do dia 4720-1-18|Próximo Dia ->]]
 
-# `= this.file.name`
+# Log Do dia 4720-1-17
 
 saímos do plano da magia na fonte da vitória praça durante a madrugada e fomos dormir.
 Quando acordamos, percebemos que tínhamos que pesquisar sobre o melhor ferreiro para construir a arma a ser transformada pela magia ensinada por [[Boccob, O velho]].
