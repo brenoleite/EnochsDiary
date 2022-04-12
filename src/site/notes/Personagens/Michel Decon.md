@@ -1,9 +1,10 @@
 ---
 {"dg-publish":true,"permalink":"/personagens/michel-decon/"}
 ---
-[[personagem]] [[NPC]] [[enemigo]] [[vampiro]] [[monge]] 
+%%
+[[personagem]] [[NPC]] [[inimigo]] [[vampiro]] [[monge]] 
 tags: 
-
+%%
 # Michel Decon
 nome: Michel Decon
 tipo: Humanoide
