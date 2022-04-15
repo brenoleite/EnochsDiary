@@ -7,10 +7,10 @@
 [[DeD pelo mundo]] [[DeD 3.5]] [[aventura]] 
 %%
 
-# Diário sagrado para contemplação das bençãos de [[Heironeous]]
+# Diário sagrado para contemplação das bençãos de [[Heironeous|Heironeous]]
 por [[Personagens/Enoch|Enoch Kimbao]]
 
-Com a ajuda destas páginas, pratico parte da minha meditação diária como forma de relembrar e agradecer todas as bençãos que o grande [[Heironeous]] me concedeu, bem como para que ele me ajude a me manter no caminho da justiça.
+Com a ajuda destas páginas, pratico parte da minha meditação diária como forma de relembrar e agradecer todas as bençãos que o grande [[Heironeous|Heironeous]] me concedeu, bem como para que ele me ajude a me manter no caminho da justiça.
 
 **Quest Atual:** [[Quests/Destruir o Demonio Nemis|Destruir o Demonio Nemis]] 
 
