@@ -17,7 +17,7 @@ A arma, para fazer efeito contra Nemis, precisa ser empunhada por alguém de cor
 </div>
 
 
-
+[[EnochsDiary]] | [[Destruir o Demonio Nemis]] | [[Log Do dia 4720-1-16]] | [[Mirian, o grande mago da antiguidade]]
 # Arma da mortalidade
 Esta arma faz com que seres imortais se tornem mortais por 1d8 turnos.
 
