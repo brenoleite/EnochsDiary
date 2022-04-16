@@ -1,7 +1,11 @@
 ---
 {"dg-publish":true,"permalink":"/journal/duelo-contra-clerigo-de-heretiru/"}
 ---
-O clérigo de [[Personagens/Heretiru, o deus da guerra|Heretiru, o deus da guerra]] não quis compartilhar a informação de quem era o melhor ferreiro de teia, portanto [[Personagens/Enoch|Enoch]] o desafiou a um duelo até a metade do sangue.
+#EnochsJournal 
+
+# Duelo contra clerigo de Heretiru
+
+Fomos ao templo de [[Personagens/Heretiru, o deus da guerra|Heretiru, o deus da guerra]] em [[Mundo/Cidade de Nemis|Nemis]] para tentar obter a informação de quem é o ferreiro mais habilidoso de toda a [[Mundo/Teia|Teia]], porém o clérigo de lá não quis compartilhar a informação de quem era o melhor ferreiro de teia, portanto [[Personagens/Enoch|Enoch]] o desafiou a um duelo até a metade do sangue.
 A princípio o clérigo quis envolver [[Personagens/Aladrail|Aladrail]], porém [[Personagens/Enoch|Enoch]] o convenceu a ser apenas um duelo simples.
 O clérigo começou a conjurar magias, o que pegou [[Personagens/Enoch|Enoch]] um pouco desprevinido pois esperava uma luta mais centrada nas armas e habilidades de combate.
 [[Personagens/Enoch|Enoch]] então foi para cima e, com a sua habilidade de [[destruir o mal]] acertou o clérigo, que foi obrigado a usar seu turno para se recuperar.
