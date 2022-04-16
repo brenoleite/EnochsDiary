@@ -12,7 +12,7 @@ raça: Vampiro Humano
 classe: Monge Dançarino das sombras
 
 ### primeiro contato
-local: [[Esplendorosa Biblioteca de Magia|Esplendorosa Biblioteca de Magia]]
+local: [[Mundo/Esplendorosa Biblioteca de Magia|Esplendorosa Biblioteca de Magia]]
 circunstância: [[Personagens/Aladrail|Aladrail]] pecebeu que ele estava nos seguindo. Confrontado ele negou. Foi visto nos seguindo novamente, e acabou fugindo. Na terceira vez rolamos iniciativa
 
 ### outras informações
