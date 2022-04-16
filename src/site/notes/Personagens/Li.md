@@ -10,7 +10,7 @@ tags:
 nome: Li Jimbao
 Raça: [[Humano]]
 Classe: [[monge]]
-Deus: [[Heironeous|Heironeous]]
+Deus: [[Personagens/Heironeous|Heironeous]]
 Alinhamento: Leal Bom
 Nível: 11
 
