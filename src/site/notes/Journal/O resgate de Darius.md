@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/journal/o-resgate-de-darius/"}
 ---
 [[EnochsDiary|EnochsDiary]] | [[Journal/Enoch/Log do dia 4720-1-17|Log do dia 4720-1-17]] | [[Personagens/Anão Dárius|Anão Dárius]] | [[Magias/itens magicos/Arma da mortalidade|Arma da mortalidade]] 
+#EnochsJournal 
 
 # O resgate de Darius
 Ao chegarmos na casa do grande ferreiro [[Personagens/Anão Dárius|Dárius]] e ela estava toda fechada, sem guardas e parecendo abandonada.
