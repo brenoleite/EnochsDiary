@@ -5,17 +5,19 @@
 #EnochsJournal 
 
 # O resgate de Darius
-Ao chegarmos na casa do grande ferreiro [[Personagens/Anão Dárius|Dárius]] e ela estava toda fechada, sem guardas e parecendo abandonada.
+Ao chegarmos na casa do grande ferreiro [[Personagens/Anão Dárius|Dárius]] ela estava toda fechada, sem guardas e parecendo abandonada.
 
-Ao batermos na porta escutamos uma voz falando que não queria visitas, proém, neste momento [[Personagens/Li|Li]]e [[Personagens/Lhoris|Lhoris]] avistaram um [[Criaturas/Babau|Babau]] olhando pela fresta da janela
+Resolvemos bater na porta, e ao faze-lo, escutamos uma voz falando que não queria visitas, prorém, neste momento [[Personagens/Li|Li]]e [[Personagens/Lhoris|Lhoris]] avistaram um [[Criaturas/Babau|Babau]] olhando pela fresta da janela
 
 [[Personagens/Lhoris|Lhoris]] ficou invisível e entrou pela porta dos fundos.
-viu um demonio diferente aparentemente dando ordens aos [[Criaturas/Dretch|dretts]]
-[[Personagens/Lhoris|Lhoris]] destrancou a porta da frente e continuou vasculhando a casa.
-[[Personagens/Aladrail|Aladrail]] foi para os fundos para tentar chamar a atenção dos demonios foi atacado pelo [[Criaturas/Babau|Babau]] no meio do caminho, mas o ataque errou e como ele estava invisivel, continuou indo para o fundo da casa e se escondeu
-Dentro da casa ele avistou um demônio diferente de todos que já haviamos enfrentado.
 
-Fizemos então um plano no qual [[Personagens/Lhoris|Lhoris]] tentaria um ataque mortal neste demônio diferente, pois aparenta ser a maior ameaça dentro da casa já que ele que estava dando as ordens. e na hora que ele fosse realizar o ataque, me avisaria telepaticamente e invadiríamos a casa. Eu pela frente, [[Personagens/Li|Li]] e [[Personagens/Aladrail|Aladrail]] pelos fundos.
+Dentro da casa ele viu um demônio diferente aparentemente dando ordens aos [[Criaturas/Dretch|dretchs]].
+
+[[Personagens/Lhoris|Lhoris]] destrancou a porta da frente e continuou vasculhando a casa.
+
+[[Personagens/Aladrail|Aladrail]] foi para os fundos para tentar chamar a atenção dos demonios, e no caminho o [[Criaturas/Babau|Babau]] lhe atirou um dardo, mas o ataque errou, e como ele estava invisivel, continuou indo para o fundo da casa e se escondeu
+
+Fizemos então um plano no qual [[Personagens/Lhoris|Lhoris]] tentaria um ataque mortal neste demônio diferente, pois ele aparenta ser a maior ameaça dentro da casa já que que estava dando as ordens. e na hora que ele fosse realizar o ataque, me avisaria telepaticamente e invadiríamos a casa. Eu pela frente, [[Personagens/Li|Li]] e [[Personagens/Aladrail|Aladrail]] pelos fundos.
 
 Logo que [[Personagens/Lhoris|Lhoris]] me deu o sinal, entrei na casa onde havia um [[Criaturas/Dretch|Dretch]] e eu acabei com ele facilmente, mas também comecei a sentir um pavor vindo de [[Personagens/Lhoris|Lhoris]] toda vez que tentava me comunicar com ele.
 
