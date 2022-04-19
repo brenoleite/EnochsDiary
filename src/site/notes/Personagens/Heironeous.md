@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/heironeous/"}
+{"dg-publish":true,"permalink":"/personagens/heironeous/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 %%
-[[personagem]] [[NPC]] 
+[[personagem|personagem]] [[NPC|NPC]] 
 tags: 
 %%
 [[EnochsDiary|EnochsDiary]] | [[Personagens/Enoch|Enoch]] | [[Mundo/Monasterio de Heironeous|Monastério]] 
