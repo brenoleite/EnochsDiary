@@ -1,16 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/lhoris/"}
+{"dg-publish":true,"permalink":"/personagens/lhoris/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 %%
-[[personagem]] [[jogadores]]
+[[personagem|personagem]] [[jogadores|jogadores]]
 tags: 
 %%
 
 # Li
 nome: Lhoris Brynenor
-Raça: [[Elfo]]
-Classe: [[ladino]]
-Deus: [[St Cuthbert]]
+Raça: [[Elfo|Elfo]]
+Classe: [[ladino|ladino]]
+Deus: [[St Cuthbert|St Cuthbert]]
 Alinhamento: neutro neutro
 Nível: 11
 
