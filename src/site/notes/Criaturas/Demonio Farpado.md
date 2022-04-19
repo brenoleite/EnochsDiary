@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/criaturas/demonio-farpado/"}
+{"dg-publish":true,"permalink":"/criaturas/demonio-farpado/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+
 %%
-assuntos: [[criatura]] [[DeD 3.5]] [[DeD pelo mundo]] 
+assuntos: [[criatura|criatura]] [[DeD 3.5|DeD 3.5]] [[DeD pelo mundo|DeD pelo mundo]] 
 tags:
 %%
 
