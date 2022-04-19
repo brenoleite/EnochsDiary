@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/journal/o-resgate-de-darius/"}
+{"dg-publish":true,"permalink":"/journal/o-resgate-de-darius/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 [[EnochsDiary|EnochsDiary]] | [[Journal/Enoch/Log do dia 4720-1-17|Log do dia 4720-1-17]] | [[Personagens/Anão Dárius|Anão Dárius]] | [[Magias/itens magicos/Arma da mortalidade|Arma da mortalidade]] 
 #EnochsJournal 
 
@@ -37,4 +38,4 @@ Derrotamos o [[Criaturas/Babau|Babau]], mas mesmo tendo tomado a poção de cura
 Discutimos algumas estratégias para a próxima vez que encontrarmos aquele demônio, e,  após vislumbrarmos um bom plano para lidar com ele, [[Personagens/Aladrail|Aladrail]] quis voltar e acabar com ele, mas, por mais que eu que eu odeie deixar um ser desprezível como aquele sobreviver, e meu coração mandasse eu concordar com ele, como guerreiro fui treinado para aprender a hora que é necessário recuar para poder lutar em outro dia.
 
 ---
-[[DeD pelo mundo]] 
+[[DeD pelo mundo|DeD pelo mundo]] 
