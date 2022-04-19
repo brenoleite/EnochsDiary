@@ -3,11 +3,7 @@
 ---
 
 
-%%
 #EnochsJournal 
-[[DeD pelo mundo|DeD pelo mundo]] [[DeD 3.5|DeD 3.5]] [[aventura|aventura]] 
-%%
-
 # Diário sagrado para contemplação das bençãos de [[Personagens/Heironeous|Heironeous]]
 por [[Personagens/Enoch|Enoch Kimbao]]
 
@@ -26,3 +22,8 @@ Com a ajuda destas páginas, pratico parte da minha meditação diária como for
 [[Journal/Quase Batalha com gigante das nuvens|Quase Batalha com gigante das nuvens]]
 [[Journal/Duelo contra clerigo de Heretiru|Duelo contra clerigo de Heretiru]]
 [[Journal/O resgate de Darius|O resgate de Darius]]
+
+---
+%%
+[[DeD pelo mundo|DeD pelo mundo]] [[DeD 3.5|DeD 3.5]] [[aventura|aventura]] 
+%%
