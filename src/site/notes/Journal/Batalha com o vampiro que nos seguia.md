@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/journal/batalha-com-o-vampiro-que-nos-seguia/"}
+{"dg-publish":true,"permalink":"/journal/batalha-com-o-vampiro-que-nos-seguia/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 [[EnochsDiary|EnochsDiary]] | [[Journal/Enoch/Log Do dia 4720-1-16|Log Do dia 4720-1-16]] | [[Mundo/Cidade de Nemis|Cidade de Nemis]] 
 #EnochsJournal 
 
@@ -13,4 +14,4 @@ Havia alguns guardas protegendo o local, além de um "armário animado", porém 
 junto de seu caixão achamos o seu diário, através do qual descobrimos que ele era um estimado membro da sociedade vampírica, sendo uma espécie de caçador de caçadores de vampiro, tendo sido ele responsável pelo morte de inúmeros heróis.
 
 ---
-[[DeD pelo mundo]] 
+[[DeD pelo mundo|DeD pelo mundo]] 
