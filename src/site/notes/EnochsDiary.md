@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/enochs-diary/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/enochs-diary/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 %%
 #EnochsJournal 
-[[DeD pelo mundo]] [[DeD 3.5]] [[aventura]] 
+[[DeD pelo mundo|DeD pelo mundo]] [[DeD 3.5|DeD 3.5]] [[aventura|aventura]] 
 %%
 
 # Diário sagrado para contemplação das bençãos de [[Personagens/Heironeous|Heironeous]]
