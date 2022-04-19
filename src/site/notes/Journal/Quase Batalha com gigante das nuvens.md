@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/journal/quase-batalha-com-gigante-das-nuvens/"}
+{"dg-publish":true,"permalink":"/journal/quase-batalha-com-gigante-das-nuvens/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
-[[DeD pelo mundo]] [[DeD 3.5]]
+
+[[DeD pelo mundo|DeD pelo mundo]] [[DeD 3.5|DeD 3.5]]
 #EnochsJournal
 
 # Quase Batalha com gigante das nuvens
