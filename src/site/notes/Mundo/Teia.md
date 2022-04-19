@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/mundo/teia/"}
+{"dg-publish":true,"permalink":"/mundo/teia/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 %%
 assuntos:
 tags:
