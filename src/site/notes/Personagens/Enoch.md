@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/enoch/"}
+{"dg-publish":true,"permalink":"/personagens/enoch/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
-%%[[personagem]] [[jogadores]]%% 
+
+%%[[personagem|personagem]] [[jogadores|jogadores]]%% 
 # Enoch
 ![[Enoch paladin.jpg\|100]] | ![[Enoch Paladin35e screenshot.png\|100]]
 ---|---
@@ -9,14 +10,14 @@
 
 
 Nome completo: Enoch Kimbao
-Raça: [[Humano]]
-Classe: [[Paladino]] da Justiça
+Raça: [[Humano|Humano]]
+Classe: [[Paladino|Paladino]] da Justiça
 Deus: [[Personagens/Heironeous|Heironeous]]
 Alinhamento: Leal Bom
 Nível: 11
 
 Irmão: [[Personagens/Li|Li]]
-Animal: [[Arkantos]]
+Animal: [[Arkantos|Arkantos]]
 
 [Ficha](https://docs.google.com/spreadsheets/d/1N_DWE0-fEj9ikydNN_grxt86FTaS__yTqt4nsGQJN5Y/edit#gid=16228907)
 
