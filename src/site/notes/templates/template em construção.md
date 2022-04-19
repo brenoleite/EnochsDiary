@@ -1,4 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/templates/template-em-construcao/"}
+{"dg-publish":true,"permalink":"/templates/template-em-construcao/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 Página em construção
