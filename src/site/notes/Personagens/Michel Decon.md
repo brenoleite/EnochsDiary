@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/michel-decon/"}
+{"dg-publish":true,"permalink":"/personagens/michel-decon/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 %%
-[[personagem]] [[NPC]] [[inimigo]] [[vampiro]] [[monge]] 
+[[personagem|personagem]] [[NPC|NPC]] [[inimigo|inimigo]] [[vampiro|vampiro]] [[monge|monge]] 
 tags: 
 %%
 # Michel Decon
