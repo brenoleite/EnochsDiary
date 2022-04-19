@@ -1,15 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/li/"}
+{"dg-publish":true,"permalink":"/personagens/li/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 %%
-[[personagem]] [[jogadores]]
+[[personagem|personagem]] [[jogadores|jogadores]]
 tags: 
 %%
 
 # Li
 nome: Li Jimbao
-Raça: [[Humano]]
-Classe: [[monge]]
+Raça: [[Humano|Humano]]
+Classe: [[monge|monge]]
 Deus: [[Personagens/Heironeous|Heironeous]]
 Alinhamento: Leal Bom
 Nível: 11
