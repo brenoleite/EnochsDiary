@@ -23,16 +23,19 @@ A arma, para fazer efeito contra Nemis, precisa ser empunhada por alguém de cor
 Esta arma faz com que seres imortais se tornem mortais por 1d8 turnos.
 
 - Para produzir a arma é necessário ser feita
-	- de madeira original da criação de Teia
-	-  pelas mãos mais habilidosas
-	- imbuída com a mais poderosa magia
-		- Para a magia são necessários
-			- Sangue de demônio
-				- compramos o liquido para manter
+	- de madeira original da criação de Teia ✅️ 
+	-  pelas mãos mais habilidosas ✅️ 
+	- imbuída com a mais poderosa magia 
+		- Para a magia são necessários ✅️ 
+			- Sangue de demônio ✅️ 
 			- Diamantes com descrição ✅️ - Compramos
 			- Puro hidromel ✅️ - Compramos
 			- Energia divina ✅️ - Conseguimos no plano da magia
 
+Fizemos a arma, um bordão para o [[Li]].
+Uma arma excepcional OP+4
+1d6 de roubo de vida contra inimigos mals
+ressurreição verdadeira
 
 </div></div>
 
