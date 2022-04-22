@@ -51,3 +51,12 @@ Discutimos algumas estratégias para a próxima vez que encontrarmos aquele dem�
 Agora que reflito sobre o dia, me sinto ainda pior por ter perdido a cabeça com aquele reles clérigo, e desprendido tanto das minhas energias nele. Talvez pudéssemos ter acabado com o demônio se eu tivesse me controlado melhor.
 
 Por [[Personagens/Heironeous|Heironeous]], hei de ser melhor no futuro.
+
+Como os demônio haviam cortado os braços de [[Personagens/Anão Dárius|Anão Dárius]], o levamos a um templo de [[Pelor|Pelor]] para que pudesse ter os seus mebros restaurados.
+Lá fomo atendidos pelo sacerdote de nome Paulo, que, após eu explicar toda a situação com os demônios, e o perigo da iminente volta do [[Personagens/Nemis - O demonio|demonio Nemis]], nos concedeu o serviço sem cobrar nada.
+
+Além disso, [[Personagens/Jade, esposa de Darius|Jade, esposa de Darius]] ao ouvir nossa história, e saber que encontramos com [[Personagens/Boccob, O velho|Boccob, O velho]], o seu Deus, concedeu uma magia para permitir mais vigor para o combate.
+
+Com os braços de [[Personagens/Anão Dárius|Dárius]] restaurados, nós decidimos o tipo de arma que queríamos (uma arma para o [[Personagens/Li|Li]]) e combinamos com o anão, que nos disse que precisaria de 2 dias para finalizar a arma.
+
+Após esse dia tão longo recebemos hospedagem gratuita no templo.
