@@ -9,7 +9,7 @@ por [[Personagens/Enoch|Enoch Kimbao]]
 
 Com a ajuda destas páginas, pratico parte da minha meditação diária como forma de relembrar e agradecer todas as bençãos que o grande [[Personagens/Heironeous|Heironeous]] me concedeu, bem como para que ele me ajude a me manter no caminho da justiça.
 
-**Quest Atual:** Entre quests
+**Quest Atual:** <mark style="background: #FF5582A6;">Entre quests</mark>
 **Ultima Quest:** [[Quests/Destruir o Demonio Nemis|Destruir o Demonio Nemis]] 
 
 ## Meus dias
