@@ -28,5 +28,5 @@ Com a ajuda destas páginas, pratico parte da minha meditação diária como for
 
 ---
 %%
-[[DeD pelo mundo|DeD pelo mundo]] [[DeD 3.5|DeD 3.5]] [[aventura|aventura]] 
+[[DeD pelo mundo|DeD pelo mundo]] [[DeD 3.5|DeD 3.5]] [[aventura|aventura]] [[exemplo|exemplo]]
 %%
