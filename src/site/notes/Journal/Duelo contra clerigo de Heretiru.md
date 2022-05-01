@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/journal/duelo-contra-clerigo-de-heretiru/","dgHomeLink":true,"dgPassFrontmatter":false}
+fc-calendar: Calendar of Golarion
+fc-date: 4720-1-17
+fc-category: Batalha
+fc-display-name: "Duelo contra clerigo de Heretiru"
+dg-publish: true
 ---
-
 #EnochsJournal 
 
 # Duelo contra clerigo de Heretiru
