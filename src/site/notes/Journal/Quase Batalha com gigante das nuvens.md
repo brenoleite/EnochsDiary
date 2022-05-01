@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/journal/quase-batalha-com-gigante-das-nuvens/","dgHomeLink":true,"dgPassFrontmatter":false}
+fc-calendar: Calendar of Golarion
+fc-date: 4720-1-16
+fc-category: Batalha
+fc-display-name: Quase Batalha com gigante das nuvens
+dg-publish: true
 ---
-
 [[DeD pelo mundo|DeD pelo mundo]] [[DeD 3.5|DeD 3.5]]
 #EnochsJournal
 
