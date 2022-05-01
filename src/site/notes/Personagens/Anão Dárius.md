@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/anao-darius/","dgHomeLink":true,"dgPassFrontmatter":false}
+dg-publish: true
 ---
-
 Página em construção
 
 O melhor ferreiro de [[Mundo/Teia|Teia]].
