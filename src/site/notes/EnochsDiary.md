@@ -1,7 +1,7 @@
 ---
-dg-home: true
-dg-publish: true
+{"dg-publish":true,"permalink":"/enochs-diary/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 #EnochsJournal 
 # Diário sagrado para contemplação das bençãos de [[Personagens/Heironeous|Heironeous]]
@@ -20,11 +20,11 @@ Com a ajuda destas páginas, pratico parte da minha meditação diária como for
 [[log do dia 4720-1-20|log do dia 4720-1-20]]
 
 ## Eventos memoráveis
-[[Journal/Batalha com cao infernal nas matas da cidade de Nemis|Batalha com cao infernal nas matas da cidade de Nemis]]
+[[Journal/Batalha com cao infernal nas matas da cidade de Nemis|Batalha com o cão infernal nas matas de Nemis]]
 [[Journal/Batalha com o vampiro que nos seguia|Batalha com o vampiro que nos seguia]]
 [[Journal/Quase Batalha com gigante das nuvens|Quase Batalha com gigante das nuvens]]
-[[Journal/Duelo contra clerigo de Heretiru|Duelo contra clerigo de Heretiru]]
-[[Journal/O resgate de Darius|O resgate de Darius]]
+[[Journal/Duelo contra clerigo de Heretiru|Duelo contra clérigo de Heretiru]]
+[[Journal/O resgate de Darius|O resgate de Dárius]]
 
 ---
 %%
