@@ -25,6 +25,7 @@ Com a ajuda destas páginas, pratico parte da minha meditação diária como for
 [[Journal/Quase Batalha com gigante das nuvens|Quase Batalha com gigante das nuvens]]
 [[Journal/Duelo contra clerigo de Heretiru|Duelo contra clérigo de Heretiru]]
 [[Journal/O resgate de Darius|O resgate de Dárius]]
+[[Journal/A batalha contra Nemis|A batalha contra Nemis]] 
 
 ---
 %%
