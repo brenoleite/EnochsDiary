@@ -1,10 +1,7 @@
 ---
-fc-calendar: Calendar of Golarion
-fc-date: 4720-1-15
-fc-category: Batalha
-fc-display-name: Batalha com cao infernal nas matas da cidade de Nemis
-dg-publish: true
+{"dg-publish":true,"permalink":"/journal/batalha-com-cao-infernal-nas-matas-da-cidade-de-nemis/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 [[EnochsDiary|EnochsDiary]] | [[Journal/Enoch/Log Do dia 4720-1-16|Log Do dia 4720-1-16]]
 #EnochsJournal 
 
