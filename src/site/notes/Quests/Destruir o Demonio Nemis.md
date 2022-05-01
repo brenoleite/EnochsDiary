@@ -1,8 +1,7 @@
 ---
-statblock: true
-alias: Combater Demônio Nemis
-dg-publish: true
+{"dg-publish":true,"permalink":"/quests/destruir-o-demonio-nemis/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # Destruir o demonio Nemis
 Há fortes indícios de que [[Personagens/Nemis - O demonio|Nemis - O demonio]] está para voltar para aterrorizar [[Mundo/Teia|Teia]].
 Precisamos estar prontos para quando ele chegar, e para isso é necessário produzir uma [[Magias/itens magicos/Arma da mortalidade|arma]] que pode tornar Nemis mortal por 1d8 turnos
