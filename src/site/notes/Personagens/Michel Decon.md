@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/michel-decon/","dgHomeLink":true,"dgPassFrontmatter":false}
+tipo: NPC
+posicionamento: Hostil
+alias: vampiro que nos seguia
+dg-publish: true
 ---
-
 %%
 [[personagem|personagem]] [[NPC|NPC]] [[inimigo|inimigo]] [[vampiro|vampiro]] [[monge|monge]] 
 tags: 
