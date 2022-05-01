@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/boccob-o-velho/","dgHomeLink":true,"dgPassFrontmatter":false}
+dg-publish: true
 ---
-
 [[EnochsDiary|EnochsDiary]] | [[Journal/Enoch/Log Do dia 4720-1-16|Log Do dia 4720-1-16]] 
 
 # Boccob, O Velho
