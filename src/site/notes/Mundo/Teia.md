@@ -17,7 +17,7 @@ width: 95%
 height: 300px
 darkMode: false
 scale: 1
-bounds: [[0, 0], [560.82, 1016.08]]
+bounds: [[0, 0], [560.82, 1016.08|0, 0], [560.82, 1016.08]]
 lat: 280 
 long: 508 
 zoomDelta: 0.25
