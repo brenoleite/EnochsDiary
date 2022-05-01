@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/quests/destruir-o-demonio-nemis/","dgHomeLink":true,"dgPassFrontmatter":false}
+statblock: true
+alias: Combater Demônio Nemis
+dg-publish: true
 ---
-
 # Destruir o demonio Nemis
 Há fortes indícios de que [[Personagens/Nemis - O demonio|Nemis - O demonio]] está para voltar para aterrorizar [[Mundo/Teia|Teia]].
 Precisamos estar prontos para quando ele chegar, e para isso é necessário produzir uma [[Magias/itens magicos/Arma da mortalidade|arma]] que pode tornar Nemis mortal por 1d8 turnos
@@ -17,7 +18,10 @@ A arma, para fazer efeito contra Nemis, precisa ser empunhada por alguém de cor
 
 </div>
 
-
+---
+criado:2022-03-16
+dg-publish: true
+---
 [[EnochsDiary]] | [[Destruir o Demonio Nemis]] | [[Log Do dia 4720-1-16]] | [[Mirian, o grande mago da antiguidade]]
 # Arma da mortalidade
 Esta arma faz com que seres imortais se tornem mortais por 1d8 turnos.
