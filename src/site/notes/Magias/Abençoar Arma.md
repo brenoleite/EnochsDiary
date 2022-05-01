@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/magias/abencoar-arma/","dgHomeLink":true,"dgPassFrontmatter":false}
+alias:
+dg-publish: true
 ---
-
 [[DeD 3.5|DeD 3.5]] [[magia|magia]]
 
 # `=this.file.name`
