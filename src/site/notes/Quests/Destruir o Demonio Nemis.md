@@ -21,7 +21,7 @@ A arma, para fazer efeito contra Nemis, precisa ser empunhada por alguém de cor
 criado:2022-03-16
 dg-publish: true
 ---
-[[EnochsDiary]] | [[Destruir o Demonio Nemis]] | [[Log Do dia 4720-1-16]] | [[Mirian, o grande mago da antiguidade]]
+[[EnochsDiary|EnochsDiary]] | [[Quests/Destruir o Demonio Nemis|Destruir o Demonio Nemis]] | [[Journal/Enoch/Log Do dia 4720-1-16|Log Do dia 4720-1-16]] | [[Personagens/Mirian, o grande mago da antiguidade|Mirian, o grande mago da antiguidade]]
 # Arma da mortalidade
 Esta arma faz com que seres imortais se tornem mortais por 1d8 turnos.
 
@@ -35,7 +35,7 @@ Esta arma faz com que seres imortais se tornem mortais por 1d8 turnos.
 			- Puro hidromel ✅️ - Compramos
 			- Energia divina ✅️ - Conseguimos no plano da magia
 
-Fizemos a arma, um bordão para o [[Li]].
+Fizemos a arma, um bordão para o [[Personagens/Li|Li]].
 Uma arma excepcional OP+4
 1d6 de roubo de vida contra inimigos mals
 ressurreição verdadeira
