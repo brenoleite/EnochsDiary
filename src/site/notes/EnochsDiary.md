@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/enochs-diary/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+dg-home: true
+dg-publish: true
 ---
-
 
 #EnochsJournal 
 # Diário sagrado para contemplação das bençãos de [[Personagens/Heironeous|Heironeous]]
