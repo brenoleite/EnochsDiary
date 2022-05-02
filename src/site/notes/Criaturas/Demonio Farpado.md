@@ -1,8 +1,7 @@
 ---
-dg-publish: true
-statblock: true
-alias: 
+{"dg-publish":true,"permalink":"/criaturas/demonio-farpado/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 %%
 assuntos: [[criatura|criatura]] [[DeD 3.5|DeD 3.5]] [[DeD pelo mundo|DeD pelo mundo]] 
@@ -14,7 +13,7 @@ Agarra muito bem, e usa seus espinhos para causar dano na criatura agarrada.
 Possui uma CA muito alta também
 
 ```statblock
-image: [[demonioFarpado.jpg|demonioFarpado.jpg]]
+image: [[demonioFarpado.jpg]]
 name: Demonio Farpado
 size: médio
 type: outsider
