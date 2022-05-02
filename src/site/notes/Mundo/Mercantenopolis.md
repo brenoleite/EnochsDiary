@@ -1,7 +1,7 @@
 ---
-alias: Mercantenópolis
-dg-publish: true
+{"dg-publish":true,"permalink":"/mundo/mercantenopolis/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 %%
 assuntos: [[mundo|mundo]] [[cidades|cidades]] 
 tags:
