@@ -1,8 +1,7 @@
 ---
-tipo: deus
-dg-publish: true
-posicionamento: 
+{"dg-publish":true,"permalink":"/personagens/heironeous/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 %%
 [[personagem|personagem]] [[NPC|NPC]] 
 tags: 
