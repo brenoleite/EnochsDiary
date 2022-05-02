@@ -12,13 +12,15 @@ Ao chegarmos na [[Mundo/Grande Biblioteca de história e religião|Grande Biblio
 
 [[Personagens/Aladrail|Aladrail]] logo deu algumas magias na besta, e eu também invoquei bençãos do meu poderoso Deus [[Personagens/Heironeous|Heironeous]] e todos partimos para cima.
 
-A adrenalina tomou conta de mim, e pela graça de [[Personagens/Heironeous|Heironeous]], na minha percepção foi como se todo o resto do mundo deixasse de existir, sobrando apenas o nosso grupo, aquele demonio, e o nosso objetivo de destruí-lo. Foi como se tivéssemos sido transportados para uma dimensão privada, e, mesmo agora, poucas horas após derrotar [[Personagens/Nemis - O demonio|Nemis]] os detalhes já me escapam. Lembro apenas de acertar golpes tão certeiros que era como se a lâmina estivesse sido guiada pelo próprio [[Personagens/Heironeous|Heironeous]], até que uma hora, após um golpe de [[Personagens/Li|Li]] com a [[Magias/itens magicos/Arma da mortalidade|Arma da mortalidade]] da mortalidade, a besta veio ao chão e não mais se levantou.
+A adrenalina tomou conta de mim, e pela graça de [[Personagens/Heironeous|Heironeous]], na minha percepção foi como se todo o resto do mundo deixasse de existir, sobrando apenas o nosso grupo, aquele demonio, e o nosso objetivo de destruí-lo. Parecia que tínhamos sido transportados para uma dimensão privada, e tão grande foi a minha adrenalina e foco no momento, que mesmo agora, poucas horas após derrotar [[Personagens/Nemis - O demonio|Nemis]] os detalhes já me escapam. Lembro apenas de acertar golpes tão certeiros que era como se a minha lâmina estivesse sido guiada pelo próprio [[Personagens/Heironeous|Heironeous]], até que uma hora, após um golpe de [[Personagens/Li|Li]] com a [[Magias/itens magicos/Arma da mortalidade|Arma da mortalidade]], a besta veio ao chão e não mais se levantou.
 
 Nunca havia me sentido tão focado e em sintonia com meus companheiros para atingir um objetivo. 
 
-Havíamos derrotado esta terrível ameaça, e eu, portanto, decepei sua cabeça para mostrar a todos os demônios que vieram para o nosso plano a seu mando, o que aconteceria com eles caso não retornassem para o inferno de onde vieram.
+Derrotamos esta terrível ameaça!
 
-Passamos a noite a fazer rondas pela cidade e termos certeza que todos os demonios haviam ido embora.
+Após a queda de [[Personagens/Nemis - O demonio|Nemis]] eu lhe decepei a cabeça para mostrar a todos os demônios que vieram para o nosso plano a seu mando, o que aconteceria com eles caso não retornassem para o inferno de onde vieram.
+
+Passamos a noite a fazer rondas pela cidade até termos certeza que todos os demonios haviam ido embora.
 
 ---
 [[DeD pelo mundo|DeD pelo mundo]] [[DeD 3.5|DeD 3.5]] 
