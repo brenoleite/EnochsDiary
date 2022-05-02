@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/journal/a-batalha-contra-nemis/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+#EnochsJournal 
 [[Journal/Enoch/log do dia 4720-1-19|log do dia 4720-1-19]] | [[EnochsDiary\|Home]] | [[Quests/Destruir o Demonio Nemis|Destruir o Demonio Nemis]] 
 
 # A batalha contra Nemis
