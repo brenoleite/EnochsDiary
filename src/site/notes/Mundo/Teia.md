@@ -1,7 +1,7 @@
 ---
-alias: Mapa de Téia
-dg-publish: true
+{"dg-publish":true,"permalink":"/mundo/teia/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 %%
 assuntos:
 tags:
