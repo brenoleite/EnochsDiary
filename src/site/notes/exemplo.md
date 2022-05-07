@@ -47,6 +47,8 @@ comentário com símbolo de porcentagem
 
 {>>this would be a comment which would be left out in preview<<}
 
+//teste mas nao acho que vai funcionar
+
 ---
 
 Uma tabela:
