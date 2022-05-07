@@ -45,6 +45,7 @@ comentário com símbolo de porcentagem
 
 [//]: # (This may be the most platform independent comment)
 
+{>>this would be a comment which would be left out in preview<<}
 
 ---
 
