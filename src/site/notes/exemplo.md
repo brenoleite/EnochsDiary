@@ -33,7 +33,20 @@ aqui está um ==exemplo== de highlight
 			1. sub sub sub list
 2. and here
 
+## Aqui quero testar formas de comentário
+<!---
+your comment goes here
+and here
+-->
 
+%%
+comentário com símbolo de porcentagem
+%%
+
+[//]: # (This may be the most platform independent comment)
+
+
+---
 
 Uma tabela:
 
