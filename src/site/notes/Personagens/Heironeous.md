@@ -19,7 +19,7 @@ _The Invincible_
 **Worshipers:** Paladins, fighters, monks, judges, constables  
 **Cleric Alignments:** LG, LN, NG  
 **Domains:** Good, Law, War  
-**Favored Weapon:** Longsword2
+**Favored Weapon:** Longsword
 
 The deity of valor, Heironeous (high-roe-nee-us), appears as a tall human male with coppery skin, auburn hair, and amber eyes. He wears a suit of exquisite chain mail and carries a longsword. He wages war against evil of all sorts, especially his half-brother and nemesis, Hextor.
 
