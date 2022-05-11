@@ -17,7 +17,7 @@ Com a ajuda destas páginas, pratico parte da minha meditação diária como for
 [[Journal/Enoch/Log do dia 4720-1-17|Log do dia 4720-1-17]]
 [[Journal/Enoch/Log do dia 4720-1-18|Log do dia 4720-1-18]]
 [[Journal/Enoch/log do dia 4720-1-19|log do dia 4720-1-19]]
-[[log do dia 4720-1-20|log do dia 4720-1-20]]
+[[Journal/Enoch/log do dia 4720-1-20|log do dia 4720-1-20]]
 
 ## Eventos memoráveis
 [[Journal/Batalha com cao infernal nas matas da cidade de Nemis|Batalha com o cão infernal nas matas de Nemis]]
