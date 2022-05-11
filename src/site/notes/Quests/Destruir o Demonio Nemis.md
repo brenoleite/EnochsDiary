@@ -4,7 +4,7 @@
 
 # Destruir o demonio Nemis
 Há fortes indícios de que [[Personagens/Nemis - O demonio|Nemis - O demonio]] está para voltar para aterrorizar [[Mundo/Teia|Teia]].
-Precisamos estar prontos para quando ele chegar, e para isso é necessário produzir uma [[Magias/itens magicos/Arma da mortalidade|arma]] que pode tornar Nemis mortal por 1d8 turnos
+Precisamos estar prontos para quando ele chegar, e para isso é necessário produzir uma [[DNDSRD/35eSRD/Magic Itens/HomeBrew/Arma da mortalidade|arma]] que pode tornar Nemis mortal por 1d8 turnos
 A arma, para fazer efeito contra Nemis, precisa ser empunhada por alguém de coração puro (bom)
 ![Nemis|right hsmall](https://i.imgur.com/bHqjm8A.jpg)
 
