@@ -21,4 +21,6 @@ A festa no templo de [[Personagens/Heironeous|Heironeous]] foi revigorante. Este
 
 Durante a cermônio, [[Iuxor|Iuxor]] fez um belo discurso nos agradecendo, e me deu um medalhão belo, e poderoso, o qual agora me sinto muito honrado de usar.
 
-Ao final das celebrações voltei para os meus aposentos. O restante da [[Personagens/tríade|tríade]] saiu, mas não sei para onde foram. [[Personagens/Aladrail|Aladrail]] deve ter convencido eles a continuar a festejar em outro lugar.
+Ao final das celebrações [[Josias|Josias]], que nos auxiliou na luta contra [[Personagens/Nemis - O demonio|Nemis]] veio conversar comigo. Ele falou que a experiência de lutar ao nosso lado foi algo tão magnífico que ele tem dificuldade em colocar em palavras, e que 
+
+O restante da [[Personagens/tríade|tríade]] saiu, mas não sei para onde foram. [[Personagens/Aladrail|Aladrail]] deve ter convencido eles a continuar a festejar em outro lugar.
