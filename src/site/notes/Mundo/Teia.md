@@ -2,10 +2,7 @@
 {"dg-publish":true,"permalink":"/mundo/teia/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-%%
-assuntos:
-tags:
-%%
+[[EnochsDiary|EnochsDiary]] 
 # Téia
 O mundo onde se passa a história.
 
