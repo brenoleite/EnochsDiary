@@ -9,8 +9,10 @@ por [[Personagens/Enoch|Enoch Kimbao]]
 
 Com a ajuda destas páginas, pratico parte da minha meditação diária como forma de relembrar e agradecer todas as bençãos que o grande [[Personagens/Heironeous|Heironeous]] me concedeu, bem como para que ele me ajude a me manter no caminho da justiça.
 
+
 **Quest Atual:** <mark style="background: #FF5582A6;">Entre quests</mark>
-**Ultima Quest:** [[Quests/Destruir o Demonio Nemis|Destruir o Demonio Nemis]] 
+**Quests em aberto:** [[Exercito de Heironeous|Exército de Heironeous]]
+**Quests concluídas:** [[Quests/Destruir o Demonio Nemis|Destruir o Demonio Nemis]] 
 
 ## Meus dias
 [[Journal/Enoch/Log Do dia 4720-1-16|Log Do dia 4720-1-16]]
@@ -29,6 +31,3 @@ Com a ajuda destas páginas, pratico parte da minha meditação diária como for
 [[Journal/A batalha contra Nemis|A batalha contra Nemis]] 
 
 ---
-%%
-[[DeD pelo mundo|DeD pelo mundo]] [[DeD 3.5|DeD 3.5]] [[aventura|aventura]] [[exemplo|exemplo]] [[Ficha Auxiliar Josias|Ficha Auxiliar Josias]] [[Ficha Auxiliar Enoch|Ficha Auxiliar Enoch]]
-%%
