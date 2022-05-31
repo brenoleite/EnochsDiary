@@ -4,7 +4,8 @@
 
 [[EnochsDiary|EnochsDiary]] | [[Mundo/Cidade de Nemis|Cidade de Nemis]]
 
-Página em construção
+# [[Mundo/Grande Biblioteca de história e religião|Grande Biblioteca de história e religião]]
+Uma grande biblioteca com vários metros de altura onde se encontra praticamente toda informação conhecida sobre história e religião.
 
 ---
 [[DeD pelo mundo|DeD pelo mundo]] 
