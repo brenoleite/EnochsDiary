@@ -2,10 +2,7 @@
 {"dg-publish":true,"permalink":"/personagens/aladrail/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-%%
-[[personagem|personagem]] [[jogadores|jogadores]]
-tags: 
-%%
+
 
 # Li
 nome: Aladrail Duoborn
