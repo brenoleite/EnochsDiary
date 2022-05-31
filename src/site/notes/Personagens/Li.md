@@ -2,10 +2,7 @@
 {"dg-publish":true,"permalink":"/personagens/li/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-%%
-[[personagem|personagem]] [[jogadores|jogadores]]
-tags: 
-%%
+
 
 # Li
 nome: Li Jimbao
