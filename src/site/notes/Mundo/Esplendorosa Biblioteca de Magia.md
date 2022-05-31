@@ -4,7 +4,10 @@
 
 [[Mundo/Cidade de Nemis|Cidade de Nemis]] | [[EnochsDiary|EnochsDiary]] | [[Journal/Enoch/Log Do dia 4720-1-16|Log Do dia 4720-1-16]] | 
 
-Página em construção
+# [[Mundo/Esplendorosa Biblioteca de Magia|Esplendorosa Biblioteca de Magia]]
+É uma biblioteca maravilhosa com 05 andares no plano normal.
+
+Após ouvir rumores a [[Personagens/tríade|tríade]] descobriu como acessar um sexto andar da biblioteca, localizado no plano da magia.
 
 
 ---
