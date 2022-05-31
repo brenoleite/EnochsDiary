@@ -39,9 +39,7 @@ your comment goes here
 and here
 -->
 
-%%
-comentário com símbolo de porcentagem
-%%
+
 
 [//]: # (This may be the most platform independent comment)
 
