@@ -9,6 +9,3 @@ Deus médio da magia
 
 página em cosntrução
 
-%%
-tags: [[DeD pelo mundo|DeD pelo mundo]] [[DeD 3.5|DeD 3.5]] 
-%%
