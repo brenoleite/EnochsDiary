@@ -2,10 +2,7 @@
 {"dg-publish":true,"permalink":"/personagens/lhoris/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-%%
-[[personagem|personagem]] [[jogadores|jogadores]]
-tags: 
-%%
+
 
 # Li
 nome: Lhoris Brynenor
