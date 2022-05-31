@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/personagens/enoch/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-%%[[personagem|personagem]] [[jogadores|jogadores]]%% 
+ 
 # Enoch
 ![[Enoch paladin.png\|200]] | ![[Enoch Paladin35e screenshot.png\|200]]
 ---|---
