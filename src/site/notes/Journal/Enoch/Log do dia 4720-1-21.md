@@ -4,7 +4,7 @@
 
 #EnochsJournal 
 
-[[Journal/Enoch/log do dia 4720-1-20|<- dia anterior]] | [[EnochsDiary\|Home]] |
+[[Journal/Enoch/log do dia 4720-1-20|<- dia anterior]] | [[EnochsDiary\|Home]] | [[4720-01-22 log diario|próximo dia ->]]
 
 # [[Journal/Enoch/Log do dia 4720-1-21|Log do dia 4720-1-21]]
 Após dormirmos o resto do dia anterior. Quando acordamos neste dia, já com as nossas forças renovadas, recebemos um convite para uma comemoração no templo de [[Personagens/Heironeous|Heironeous]] hoje a noite, fomos nos encontrar novamente com o [[Conde Julian|Conde Julian]].
@@ -15,12 +15,14 @@ Para contáctá-los, precisamos ir ao "**Alasão veloz**" e falar com o bartende
 
 Após, ele deu a entender que precisava conversar sobre dinheiro, e eu e [[Personagens/Li|Li]] então nos retiramos para ajudar no templo de [[Personagens/Heironeous|Heironeous]], enquanto [[Personagens/Aladrail|Aladrail]] e [[Personagens/Lhoris|Lhoris]] ficaram conversando com ele.
 
-Durante o caminho recebemos também um convite para uma celebração oficial amanhã, na qual nós da [[Personagens/tríade|tríade]] iremos ser condecorados pelos nossos serviços.
+Durante o caminho recebemos também um convite para uma celebração oficial amanhã, na qual nós da [[Personagens/triade|triade]] iremos ser condecorados pelos nossos serviços.
 
 A festa no templo de [[Personagens/Heironeous|Heironeous]] foi revigorante. Este sentimento de estar vivo após sobrevivermos uma grande ameaça é algo que sem dúvida nos faz apreciar mais a vida!
 
 Durante a cermônio, [[Iuxor|Iuxor]] fez um belo discurso nos agradecendo, e me deu um medalhão belo, e poderoso, o qual agora me sinto muito honrado de usar.
 
-Ao final das celebrações [[Josias|Josias]], que nos auxiliou na luta contra [[Personagens/Nemis - O demonio|Nemis]] veio conversar comigo. Ele falou que a experiência de lutar ao nosso lado foi algo tão magnífico que ele tem dificuldade em colocar em palavras, e que 
+Ao final das celebrações [[Josias|Josias]], o clérigo que nos auxiliou na luta contra [[Personagens/Nemis - O demonio|Nemis]] veio conversar comigo. Ele falou que a experiência de lutar ao nosso lado foi algo tão magnífico que ele tem dificuldade em colocar em palavras, e que se sentiria honrado em nos acompanhar.
 
-O restante da [[Personagens/tríade|tríade]] saiu, mas não sei para onde foram. [[Personagens/Aladrail|Aladrail]] deve ter convencido eles a continuar a festejar em outro lugar.
+Mesmo sem conversar com o resto do grupo, senti que ele será uma grande companhia e resolvi me responsabilizar pela decisão de deixá-lo me acompanhar, mesmo quando a tríade não estiver reunida.
+
+O restante da [[Personagens/triade|triade]] saiu, mas não sei para onde foram. [[Personagens/Aladrail|Aladrail]] deve ter convencido eles a continuar a festejar em outro lugar.
