@@ -7,7 +7,7 @@
 # [[Mundo/Esplendorosa Biblioteca de Magia|Esplendorosa Biblioteca de Magia]]
 É uma biblioteca maravilhosa com 05 andares no plano normal.
 
-Após ouvir rumores a [[Personagens/tríade|tríade]] descobriu como acessar um sexto andar da biblioteca, localizado no plano da magia.
+Após ouvir rumores a [[Personagens/triade|triade]] descobriu como acessar um sexto andar da biblioteca, localizado no plano da magia.
 
 
 ---
