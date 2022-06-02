@@ -10,7 +10,7 @@ por [[Personagens/Enoch|Enoch Kimbao]]
 Com a ajuda destas páginas, pratico parte da minha meditação diária como forma de relembrar e agradecer todas as bençãos que o grande [[Personagens/Heironeous|Heironeous]] me concedeu, bem como para que ele me ajude a me manter no caminho da justiça.
 
 
-**Quest Atual:** <mark style="background: #FF5582A6;">Entre quests</mark>
+**Quest Atual:** [[Caverna do Dragão|Caverna do Dragão]]
 **Quests em aberto:** [[Exercito de Heironeous|Exército de Heironeous]]
 **Quests concluídas:** [[Quests/Destruir o Demonio Nemis|Destruir o Demonio Nemis]] 
 
@@ -21,6 +21,13 @@ Com a ajuda destas páginas, pratico parte da minha meditação diária como for
 [[Journal/Enoch/log do dia 4720-1-19|log do dia 4720-1-19]]
 [[Journal/Enoch/log do dia 4720-1-20|log do dia 4720-1-20]]
 [[Journal/Enoch/Log do dia 4720-1-21|Log do dia 4720-1-21]]
+[[4720-01-22 log diario|4720-01-22 log diario]]
+
+---
+[[6 meses Apos Nemis|Hiato]]
+
+---
+[[Log Diario 4720-8-1|Log Diario 4720-8-1]]
 
 ## Eventos memoráveis
 [[Journal/Batalha com cao infernal nas matas da cidade de Nemis|Batalha com o cão infernal nas matas de Nemis]]
