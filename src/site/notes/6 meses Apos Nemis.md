@@ -16,6 +16,10 @@ Eu e o [[Josias|Josias]] conseguimos ajudar muitas pessoas que estavam doentes, 
 
 Ajudamos inclusive um feiticeiro que nos prometeu colocar uma proteção contra fogo em algum escudo ou armadura OP que eu comprar eventualmente.
 
+Neste meio também, o grande [[Personagens/Anão Darius|Dárius]] me mandou uma mensagem, afirmando que havia descoberto um jeito de fazer o escudo que eu estava querendo. Um escudo mágico animado, que me protege nas batalhas sem que eu precise segurá-lo com a minha mão, me liberando para usar minha espada de duas mãos, com a segurança de um escudo.
+
+Após pegar meu maravilhoso escudo, levei ele no feiticeiro que havíamos resgatado e ele adicionou um proteção contra fogo nele. Este escudo ficou uma verdadeira obra-prima.
+
 Apesar das dificuldades que vimos todos os dias, foram dias mais tranquilos sem o risco iminente de um demonio invadir e destruir [[Mundo/Teia|Teia]].
 
 Porém, como tudo passa, um dia, recebi notícias de que [[Personagens/Li|Li]] precisava reunir a tríade novamente.
