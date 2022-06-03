@@ -6,7 +6,7 @@
 - [[Mundo/Ilitia|Ilitia]]
 - [[Mundo/Cidade de Nemis|Cidade de Nemis]]
 - [[Mundo/Mercantenopolis|Mercantenopolis]] 
-- [[Etiei|Etiei]]
+- [[Mundo/Etiei|Etiei]]
 
 ## Quests
 - **[[Exército de Heironeous|Exército de Heironeous]]**
