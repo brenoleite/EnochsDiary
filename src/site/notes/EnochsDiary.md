@@ -10,8 +10,8 @@ por [[Personagens/Enoch|Enoch Kimbao]]
 Com a ajuda destas páginas, pratico parte da minha meditação diária como forma de relembrar e agradecer todas as bençãos que o grande [[Personagens/Heironeous|Heironeous]] me concedeu, bem como para que ele me ajude a me manter no caminho da justiça.
 
 
-**Quest Atual:** [[Caverna do Dragão|Caverna do Dragão]]
-**Quests em aberto:** [[Exercito de Heironeous|Exército de Heironeous]]
+**Quest Atual:** [[Quests/Caverna do Dragão|Caverna do Dragão]]
+**Quests em aberto:** [[Quests/Exercito de Heironeous|Exército de Heironeous]]
 **Quests concluídas:** [[Quests/Destruir o Demonio Nemis|Destruir o Demonio Nemis]] 
 
 ## Meus dias
