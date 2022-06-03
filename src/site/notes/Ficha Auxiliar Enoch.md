@@ -3,17 +3,27 @@
 ---
 
 # [[Personagens/Enoch|Enoch]]
+**Level**:: 12
+**FOR**:: 4
+**DES**:: 0
+**CON**:: 2
+**INT**:: 0
+**SAB**:: 2
+**CAR**:: 3
 
 ## Combate
 - **CA**: 19+6 (escudo)
 - **Espada Larga**: (19/20x2)
-	- **Ataque:** d20+18
-	- **Dano:** 2d6+6
+	- **Ataque:** d20+`=this.FOR+this.BBA+2` => (`dice: 1d20+FOR+BBA+2|noform|none|render`)
+	- **Dano:** 2d6+`=this.FOR/2+this.FOR` => (`dice: 2d6+FOR/2+FOR|noform|none|render`)
 - **Espada Longa**: (17/20x2)
 	- **Ataque:** d20+17
 	- **Dano**: 1d8+4
+- **Destruir o mal**: 
+	- **Ataque**: +`=this.CAR` (Carisma)
+	- **Dano**: +`=this.Level` (Nível)
 - **Agarrar:** 16
-- **BBA**: 12
+- **BBA**:: 12
 
 ### Combatendo montado
 - *+1 no bonus de ataque* contra criaturas médias e menores (Pg. 134 PT - Pg. 157 ENG)
@@ -67,21 +77,22 @@ if (lv3s.length > 0) {
 ```
 
 ## **Testes**: 
-- **Fortitude:** 15
-- **Reflexos:** 9
-- **Vontade:** 11
+- **Fortitude:** 15 => (`dice:d20+15|noform|none|render`)
+- **Reflexos:** 9 => (`dice:d20+9|noform|none|render`)
+- **Vontade:** 11 => (`dice:d20+11|noform|none|render`)
 ## Perícias mais usadas
-|                    perícia | pts |
-| --------------------------:|:---:|
-|              **Cavalgar:** | +19 |
-|          **Concentração:** | +10 |
-| **Conhecimento Religião:** | +16 |
-|                  **Cura:** | +7  |
-|            **Diplomacia:** | +14 |
-|              **Observar:** | +2  |
-|                 **Ouvir:** | +2  |
-|      **Sentir Motivação:** | +6  |
+
  
+ |               Perícia |          Modificador          | resultado |
+ | ---------------------:|:-----------------------------:|:---------:|
+ |              Cavalgar |       +`=this.Cavalgar`       |`dice:d20+Cavalgar\|noform\|render\|none`|
+ |          Concentração |     +`=this.Concentracao`     |`dice:d20+Concentracao\|noform\|render\|none`|
+ | Conhecimento Religião | +`=this.ConhecimentoReligiao` |`dice:d20+ConhecimentoReligiao\|noform\|render\|none`|
+ |                  Cura |         +`=this.Cura`         |`dice:d20+Cura\|noform\|render\|none`|
+ |            Diplomacia |      +`=this.Diplomacia`      |`dice:d20+Diplomacia\|noform\|render\|none`|
+ |              Observar |       +`=this.Observar`       |`dice:d20+Observar\|noform\|render\|none`|
+ |                 Ouvir |        +`=this.Ouvir`         |`dice:d20+Ouvir\|noform\|render\|none`|
+ |      Sentir Motivação |   +`=this.SentirMotivacao`    |`dice:d20+SentirMotivacao\|noform\|render\|none`|
  
 ---
 ## Magias
