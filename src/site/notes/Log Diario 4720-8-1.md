@@ -1,0 +1,26 @@
+---
+{"dg-publish":true,"permalink":"/log-diario-4720-8-1/","dgHomeLink":true,"dgPassFrontmatter":false}
+---
+
+#EnochsJournal 
+
+[[6 meses Apos Nemis|<- Anteriormente]] | [[EnochsDiary|EnochsDiary]] | [[Journal/Enoch/Log do dia 4720-08-02|Próximo Dia ->]]
+
+# Log Diário 4720-8-1
+Com a notícia que [[Ravim|Ravim]] entregou a [[Personagens/Li|Li]], a [[Personagens/triade|Tríade]] se reuniu novamente, cada um finalizou qualquer coisa que precisasse ser finalizado, [[Personagens/Lhoris|Lhoris]] foi para a biblioteca estudar um pouco sobre [[Dragao Vermelho|dragões vermelhos]], e após tudo finalizado, [[Personagens/Aladrail|Aladrail]] nos teletransportou para a porta da casa de [[Izolda|Izolda]], logo aos arredores da cidade de [[Renia|Renia]].
+
+Não entendi muito bem o motivo, mas quando contamos à ela o que [[Ravim|Ravim]] havia dito para o [[Personagens/Li|Li]], ela falou que ele mesmo é quem nos levaria à cidade escondida dos elfos.
+
+A minha hipótese é que [[ravim|ravim]] havia pedido nossa ajuda, mas ele precisava da aprovação final de [[Izolda|Izolda]] para poder nos conduzir à cidade secreta de [[Etiei|Etiei]], afinal, com um segredo como esses, todo o cuidado é pouco.
+
+Enfim, ela mandou uma mensagem telepática para ele, que, por sua vez, ficou de chegar em [[Renia|Renia]] amanhã para nos conduzir.
+
+Aproveitando que estávamos ali, comprei um poção de [[Izolda|Izolda]] para me deixar mais resistente nas batalhas. (+5 pv permanente).
+
+Sem nada a mais para fazermos ali, nos dirigimos para a cidade para conseguirmos algum descanso.
+
+No meio do caminho, fomos atacados por um tigre. O animal chegou por trás da nossa turma, e causou um grande susto. Porém, ainda que seja um animal extraordinário, ele não não é capaz de causar nenhum mal real à nossa turma, e eu consegui convencer a todos de não lhe causar nenhum mal permanente, afinal é apenas um animal que segue seus instintos.
+
+Deixamos o tigre inconsciente na floresta e seguimos nosso caminho.
+
+Chegando a cidade
