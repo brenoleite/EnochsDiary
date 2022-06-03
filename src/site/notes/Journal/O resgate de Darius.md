@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/journal/o-resgate-de-darius/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-[[EnochsDiary|EnochsDiary]] | [[Journal/Enoch/Log do dia 4720-1-17|Log do dia 4720-1-17]] | [[Personagens/Anão Dárius|Anão Dárius]] | [[DNDSRD/35eSRD/Magic Itens/HomeBrew/Arma da mortalidade|Arma da mortalidade]] 
+[[EnochsDiary|EnochsDiary]] | [[Journal/Enoch/Log do dia 4720-1-17|Log do dia 4720-1-17]] | [[Personagens/Anão Darius|Anão Darius]] | [[DNDSRD/35eSRD/Magic Itens/HomeBrew/Arma da mortalidade|Arma da mortalidade]] 
 #EnochsJournal 
 
 # O resgate de Darius
-Ao chegarmos na casa do grande ferreiro [[Personagens/Anão Dárius|Dárius]] ela estava toda fechada, sem guardas e parecendo abandonada.
+Ao chegarmos na casa do grande ferreiro [[Personagens/Anão Darius|Dárius]] ela estava toda fechada, sem guardas e parecendo abandonada.
 
 Resolvemos bater na porta, e ao faze-lo, escutamos uma voz falando que não queria visitas, prorém, neste momento [[Personagens/Li|Li]]e [[Personagens/Lhoris|Lhoris]] avistaram um [[Criaturas/Babau|Babau]] olhando pela fresta da janela
 
@@ -34,7 +34,7 @@ Nisso [[Personagens/Aladrail|Aladrail]] entrou em cena conjurando vários tentá
 
 O demônio tbm conseguiu se livrar dos tentáculos e a luta se estendeu, e mesmo caindo sob o efeito das magias de [[Personagens/Aladrail|Aladrail]] o demônio continuava a ser um adversário extraordinário. Ele conseguiu me segurar novamente, ferindo a minha carne com seus espinhos macabros, e quando parecia que meus ferimentos me impediriam de sair de seu abraço demoníaco, mais uma vez [[Personagens/Heironeous|Heironeous]] interviu, na forma de meu irmão [[Personagens/Li|Li]], que administrou uma porção de cura total e, portanto continuamos a luta.
 Em algum momento durante a batalha [[Personagens/Lhoris|Lhoris]] me avisou que eles tinham conseguido libertar os anões, e o [[Criaturas/Babau|Babau]] também apareceu e entrou na batalha.
-Derrotamos o [[Criaturas/Babau|Babau]], mas mesmo tendo tomado a poção de cura, e [[Personagens/Li|Li]] tendo se juntado à batalha, o [[Criaturas/Demonio Farpado|Demonio Farpado]] continuava se mostrando em pleno vigor, enquanto eu, [[Personagens/Li|Li]], e [[Personagens/Aladrail|Aladrail]] ficávamos cada vez mais debilitados. Até que em determinado momento, como os anões já estavam livres, desistimos da batalha e [[Personagens/Aladrail|Aladrail]] nos teletransportou para a portaria de entrada da casa, onde nos juntamos a [[Personagens/Lhoris|Lhoris]], o [[Personagens/Anão Dárius|Anão Dárius]], e a sua [[Personagens/Jade, esposa de Darius|esposa]].
+Derrotamos o [[Criaturas/Babau|Babau]], mas mesmo tendo tomado a poção de cura, e [[Personagens/Li|Li]] tendo se juntado à batalha, o [[Criaturas/Demonio Farpado|Demonio Farpado]] continuava se mostrando em pleno vigor, enquanto eu, [[Personagens/Li|Li]], e [[Personagens/Aladrail|Aladrail]] ficávamos cada vez mais debilitados. Até que em determinado momento, como os anões já estavam livres, desistimos da batalha e [[Personagens/Aladrail|Aladrail]] nos teletransportou para a portaria de entrada da casa, onde nos juntamos a [[Personagens/Lhoris|Lhoris]], o [[Personagens/Anão Darius|Anão Darius]], e a sua [[Personagens/Jade, esposa de Darius|esposa]].
 Discutimos algumas estratégias para a próxima vez que encontrarmos aquele demônio, e,  após vislumbrarmos um bom plano para lidar com ele, [[Personagens/Aladrail|Aladrail]] quis voltar e acabar com ele, mas, por mais que eu que eu odeie deixar um ser desprezível como aquele sobreviver, e meu coração mandasse eu concordar com ele, como guerreiro fui treinado para aprender a hora que é necessário recuar para poder lutar em outro dia.
 
 ---
