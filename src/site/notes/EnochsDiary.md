@@ -22,11 +22,9 @@ Com a ajuda destas páginas, pratico parte da minha meditação diária como for
 [[Journal/Enoch/log do dia 4720-1-20|log do dia 4720-1-20]]
 [[Journal/Enoch/Log do dia 4720-1-21|Log do dia 4720-1-21]]
 [[Journal/Enoch/4720-01-22 log diario|Log do dia 4720-01-22]]
-
----
+<br>
 [[Journal/Enoch/6 meses Apos Nemis|Hiato]]
-
----
+<br>
 [[Journal/Enoch/Log Diario 4720-8-1|Log do dia 4720-08-01]]
 [[Journal/Enoch/Log do dia 4720-08-02|Log do dia 4720-08-02]]
 
