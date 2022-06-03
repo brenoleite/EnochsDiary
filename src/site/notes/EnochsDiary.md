@@ -8,7 +8,7 @@
 por [[Personagens/Enoch|Enoch Kimbao]]
 
 Com a ajuda destas páginas, pratico parte da minha meditação diária como forma de relembrar e agradecer todas as bençãos que o grande [[Personagens/Heironeous|Heironeous]] me concedeu, bem como para que ele me ajude a me manter no caminho da justiça.
-
+<br>
 
 **Quest Atual:** [[Quests/Caverna do Dragão|Caverna do Dragão]]
 **Quests em aberto:** [[Quests/Exercito de Heironeous|Exército de Heironeous]]
