@@ -6,7 +6,7 @@
 
 Página em construção
 
-esposa do [[Personagens/Anão Dárius|Anão Dárius]], considerado o melhor ferreiro de [[Mundo/Teia|Teia]].
+esposa do [[Personagens/Anão Darius|Anão Darius]], considerado o melhor ferreiro de [[Mundo/Teia|Teia]].
 
 ---
 [[DeD pelo mundo|DeD pelo mundo]]
