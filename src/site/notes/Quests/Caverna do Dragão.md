@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/quests/caverna-do-dragao/","dgHomeLink":true,"dgPassFrontmatter":false}
+dg-publish: true
+alias: 
 ---
-
 #EnochsJournal 
 
 | [[EnochsDiary\|Home]] | [[Criaturas/Dragao Vermelho|Dragao Vermelho]] | [[Personagens/Jormandi|Jormandi]]
