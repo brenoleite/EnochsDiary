@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/mundo/esplendorosa-biblioteca-de-magia/","dgHomeLink":true,"dgPassFrontmatter":false}
+alias:
+dg-publish: true
 ---
-
 [[Mundo/Cidade de Nemis|Cidade de Nemis]] | [[EnochsDiary|EnochsDiary]] | [[Journal/Enoch/Log Do dia 4720-1-16|Log Do dia 4720-1-16]] | 
 
 # [[Mundo/Esplendorosa Biblioteca de Magia|Esplendorosa Biblioteca de Magia]]
