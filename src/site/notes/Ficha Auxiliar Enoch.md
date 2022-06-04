@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/ficha-auxiliar-enoch/","dgHomeLink":true,"dgPassFrontmatter":false}
+num1stlevelspell: 2
+num2ndlevelspell: 2
+num3rdlevelspell: 1
+num4thlevelspell: 0
+num5thlevelspell: 0
+dg-publish: true
 ---
-
 # [[Personagens/Enoch|Enoch]]
 **Level**:: 12
 **FOR**:: 4
