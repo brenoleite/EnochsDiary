@@ -1,7 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/ficha-auxiliar-josias/","dgHomeLink":true,"dgPassFrontmatter":false}
+num0levelspell: 6
+num1stlevelspell: 6
+num2ndlevelspell: 5
+num3rdlevelspell: 4
+num4thlevelspell: 3
+num5thlevelspell: 2
+num6thlevelspell: 0
+num7thlevelspell: 0
+num8thlevelspell: 0
+num9thlevelspell: 0
+dg-publish: true
 ---
-
 # Josias
 
 ## Combate
