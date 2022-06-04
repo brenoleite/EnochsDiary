@@ -4,7 +4,7 @@
 
 
 # Fontes para fantasia
-aqui vou testar a fonte
+aqui vou testar fontes
 
 ## aetherian
 The quick brown fox jumps over the lazy dog
