@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/journal/enoch/log-diario-4720-8-1/","dgHomeLink":true,"dgPassFrontmatter":false}
+fc-calendar: Calendar of Golarion
+fc-date: 4720-8-1
+fc-category: Log Diario
+fc-display-name: Log Diario
+dg-publish: true
 ---
-
 #EnochsJournal 
 
 [[Journal/Enoch/6 meses Apos Nemis|<- Anteriormente]] | [[EnochsDiary|EnochsDiary]] | [[Journal/Enoch/Log do dia 4720-08-02|Próximo Dia ->]]
