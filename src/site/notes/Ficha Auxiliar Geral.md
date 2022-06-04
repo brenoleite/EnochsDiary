@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/ficha-auxiliar-geral/","dgHomeLink":true,"dgPassFrontmatter":false}
+alias:
+dg-publish: true
 ---
-
 ## cidades
 - [[Mundo/Ilitia|Ilitia]]
 - [[Mundo/Cidade de Nemis|Cidade de Nemis]]
