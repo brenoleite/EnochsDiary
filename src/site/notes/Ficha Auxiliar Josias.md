@@ -378,7 +378,7 @@ max permitido  (`= this.num3rdlevelspell`)
 	- Creates undead skeletons and zombies.
 - [ ] [[DNDSRD/35eSRD/Spells/Bestow Curse|Bestow Curse]] [preparada:: 0]
 	- 6 to an ability score; -4 on attack rolls, saves, and checks; or 50% chance of losing each action.
-- [ ] [[DNDSRD/35eSRD/Spells/Blindness_Deafness|Blindness_Deafness]] [preparada:: 0]
+- [ ] [[DNDSRD/35eSRD/Spells/Blindness_Deafness m|Blindness_Deafness m]] [preparada:: 0]
 	- Makes subject blind or deaf.
 - [ ] [[DNDSRD/35eSRD/Spells/Contagion|Contagion]] [preparada:: 0]
 	-  Infects subject with chosen disease.
