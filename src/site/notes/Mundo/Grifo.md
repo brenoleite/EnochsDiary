@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/mundo/grifo/","dgHomeLink":true,"dgPassFrontmatter":false}
+alias: 
+dg-publish: true
 ---
-
 
 ==[[Mundo/Teia|Teia]]== | [[EnochsDiary|EnochsDiary]] 
 
