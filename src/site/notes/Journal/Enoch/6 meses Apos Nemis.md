@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/journal/enoch/6-meses-apos-nemis/","dgHomeLink":true,"dgPassFrontmatter":false}
+dg-publish: true
+alias: hiato após Nemis
 ---
-
 #EnochsJournal 
 [[Journal/Enoch/4720-01-22 log diario|<- anterior]] | [[EnochsDiary\|Home]] | [[Journal/Enoch/Log Diario 4720-8-1|próximo ->]]
 
