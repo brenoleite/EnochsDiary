@@ -1,7 +1,7 @@
 ---
-alias: Tríade
-dg-publish: true
+{"dg-publish":true,"permalink":"/personagens/triade/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 
 # Tríade
