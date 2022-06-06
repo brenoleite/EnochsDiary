@@ -1,8 +1,7 @@
 ---
-tipo: deus
-dg-publish: true
-posicionamento: 
+{"dg-publish":true,"permalink":"/personagens/heironeous/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 [[EnochsDiary|EnochsDiary]] | [[Personagens/Enoch|Enoch]] | [[Mundo/Monasterio de Heironeous|Monastério]] 
 
