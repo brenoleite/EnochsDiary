@@ -1,7 +1,7 @@
 ---
-alias: 
-dg-publish: true
+{"dg-publish":true,"permalink":"/mundo/etiei/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 #EnochsJournal 
 [[Mundo/Teia|Teia]] | [[EnochsDiary|EnochsDiary]] 
 # [[Mundo/Etiei|Etiei]]
