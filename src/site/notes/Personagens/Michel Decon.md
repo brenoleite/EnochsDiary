@@ -1,9 +1,7 @@
 ---
-tipo: NPC
-posicionamento: Hostil
-alias: vampiro que nos seguia
-dg-publish: true
+{"dg-publish":true,"permalink":"/personagens/michel-decon/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 # Michel Decon
 nome: Michel Decon
