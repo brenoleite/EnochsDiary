@@ -1,10 +1,7 @@
 ---
-fc-calendar: Calendar of Golarion
-fc-date: 4720-1-15
-fc-category: Batalha
-fc-display-name: batalha com o vampiro que nos seguia
-dg-publish: true
+{"dg-publish":true,"permalink":"/journal/batalha-com-o-vampiro-que-nos-seguia/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 [[EnochsDiary|EnochsDiary]] | [[Journal/Enoch/Log Do dia 4720-1-16|Log Do dia 4720-1-16]] | [[Mundo/Cidade de Nemis|Cidade de Nemis]] 
 #EnochsJournal 
 
