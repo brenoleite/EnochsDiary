@@ -1,10 +1,7 @@
 ---
-fc-calendar: Calendar of Golarion
-fc-date: 4720-1-17
-fc-category: Batalha
-fc-display-name: O resgate de Darius
-dg-publish: true
+{"dg-publish":true,"permalink":"/journal/o-resgate-de-darius/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 [[EnochsDiary|EnochsDiary]] | [[Journal/Enoch/Log do dia 4720-1-17|Log do dia 4720-1-17]] | [[Personagens/Anão Darius|Anão Darius]] | [[DNDSRD/35eSRD/Magic Itens/HomeBrew/Arma da mortalidade|Arma da mortalidade]] 
 #EnochsJournal 
 
