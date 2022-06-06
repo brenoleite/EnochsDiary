@@ -1,16 +1,7 @@
 ---
-num0levelspell: 6
-num1stlevelspell: 6
-num2ndlevelspell: 5
-num3rdlevelspell: 4
-num4thlevelspell: 3
-num5thlevelspell: 2
-num6thlevelspell: 0
-num7thlevelspell: 0
-num8thlevelspell: 0
-num9thlevelspell: 0
-dg-publish: true
+{"dg-publish":true,"permalink":"/ficha-auxiliar-josias/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # Josias
 
 ## Combate
@@ -460,7 +451,7 @@ max permitido  (`= this.num4thlevelspell`)
 	- Grants immunity to death spells and negative energy effects.
 - [ ] [[DNDSRD/35eSRD/Spells/Dimensional Anchor|Dimensional Anchor]] [preparada:: 0]
 	- Bars extradimensional movement.
-- [ ] [[DNDSRD/35eSRD/Spells/Discern Lies|Discern Lies]] [preparada:: 1]
+- [x] [[DNDSRD/35eSRD/Spells/Discern Lies|Discern Lies]] [preparada:: 1]
 	- Reveals deliberate falsehoods.
 - [ ] [[DNDSRD/35eSRD/Spells/Dismissal|Dismissal]] [preparada:: 0]
 	- Forces a creature to return to native plane.
@@ -543,7 +534,7 @@ max permitido  (`= this.num5thlevelspell`)
 	- Triggered rune wracks nearby creatures with pain.
 - [ ] [[DNDSRD/35eSRD/Spells/Symbol of Sleep|Symbol of Sleep]] [preparada:: 0]
 	- Triggered rune puts nearby creatures into catatonic slumber.
-- [ ] [[DNDSRD/35eSRD/Spells/True Seeing|True Seeing]] [preparada:: 0]
+- [ ] [[DNDSRD/35eSRD/Spells/True Seeing|True Seeing]] [preparada:: 1]
 	- Lets you see all things as they really are.
 - [ ] [[DNDSRD/35eSRD/Spells/Unhallow|Unhallow]] [preparada:: 0]
 	- Designates location as unholy.
