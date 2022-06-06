@@ -1,11 +1,8 @@
 ---
-num1stlevelspell: 2
-num2ndlevelspell: 2
-num3rdlevelspell: 1
-num4thlevelspell: 0
-num5thlevelspell: 0
-dg-publish: true
+{"dg-publish":true,"permalink":"/ficha-auxiliar-enoch/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
+
 # [[Personagens/Enoch|Enoch]]
 **Level**:: 12
 **FOR**:: 4
@@ -101,11 +98,11 @@ if (lv3s.length > 0) {
 ---
 ## Magias
 #### level 1
-- [ ] [[DNDSRD/35eSRD/SpellsManual/Abençoar Arma|Abençoar Arma]] [preparada:: 1]
+- [ ] [[DNDSRD/35eSRD/SpellsManual/Abençoar Arma|Abençoar Arma]] [preparada:: 0]
 	- Arma fica boa e é considerada mágica contra inimigos maus.
-- [ ] [[DNDSRD/35eSRD/Spells/Bless|Bless]] [preparada:: 0]
+- [ ] [[DNDSRD/35eSRD/Spells/Bless|Bless]] [preparada:: 1]
 	- Allies gain +1 on attack rolls and +1 on saves against fear. 
-- [ ] [[Bless Water (M)|Bless Water (M)]] [preparada:: 0]
+- [ ] [[DNDSRD/35eSRD/Spells/Bless Water|Bless Water]] [preparada:: 0]
 	- Makes holy water.
 - [ ] [[DNDSRD/35eSRD/Spells/Create Water|DNDSRD/35eSRD/Spells/Create Water]] [preparada:: 0]
 	- Creates 2 gallons/level of pure water.
@@ -121,9 +118,11 @@ if (lv3s.length > 0) {
 	- Exist comfortably in hot or cold environments.
 - [ ] [[DNDSRD/35eSRD/Spells/Magic Weapon|Magic Weapon]] [preparada:: 0]
 	- Weapon gains +1 bonus attack and damage. (Doesn't stack with OP)
-- [ ] [[Protection from Evil Or Chaos|Protection from Evil Or Chaos]] [preparada:: 0]
+- [ ] [[DNDSRD/35eSRD/Spells/Protection from Evil m|Protection from Evil m]] [preparada:: 0]
 	- +2 to AC and saves, counter mind control (including enchantment (charm) effects and enchantment (compulsion), hedge out elementals and outsiders.
-- [ ] [[Read Magic (F)|Read Magic (F)]] [preparada:: 0]
+- [ ] [[DNDSRD/35eSRD/Spells/Protection from Chaos|Protection from Chaos]]  [preparada:: 0]
+	- igual protection from evil mas para o caos
+- [ ] [[DNDSRD/35eSRD/Spells/Read Magic|Read Magic]] [preparada:: 0]
 	- Read scrolls and spellbooks.
 - [ ] [[DNDSRD/35eSRD/Spells/Resistance|Resistance]] [preparada:: 0]
 	- Subject gains +1 on saving throws.
@@ -133,19 +132,19 @@ if (lv3s.length > 0) {
 	- Subject gains 1 temporary hp.
 
 #### level 2
-- [ ] [[Resistência a elementos|Resistência a elementos]]  [preparada:: 0]
+- [ ] [[DNDSRD/35eSRD/Spells/Resist Energy m|Resist Energy m]]  [preparada:: 1]
 	- 10 redução de dano contra 1 elemento escolhido
 - [ ] [[Bull’s Strength|Bull’s Strength]] [preparada:: 1]
 	- Subject gains +4 to Str for 1 min./level.
 - [ ] [[DNDSRD/35eSRD/Spells/Delay Poison|Delay Poison]] [preparada:: 0]
 	- Stops poison from harming subject for 1 hour/level.
-- [ ] [[Eagle’s Splendor|Eagle’s Splendor]] [preparada:: 1]
+- [ ] [[Eagle’s Splendor|Eagle’s Splendor]] [preparada:: 0]
 	- Subject gains +4 to Cha for 1 min./level.
 - [ ] [[Owl’s Wisdom|Owl’s Wisdom]] [preparada:: 0]
 	- Subject gains +4 to Wis for 1 min./level.
 - [ ] [[DNDSRD/35eSRD/Spells/Remove Paralysis|Remove Paralysis]] [preparada:: 0]
 	- Frees one or more creatures from paralysis or slow effect.
-- [ ] [[Shield Other (F)|Shield Other (F)]] [preparada:: 0]
+- [ ] [[DNDSRD/35eSRD/Spells/Shield Other|Shield Other]] [preparada:: 0]
 	- You take half of subject’s damage.
 - [ ] [[DNDSRD/35eSRD/Spells/Undetectable Alignment|Undetectable Alignment]] [preparada:: 0]
 	- Conceals alignment for 24 hours.
@@ -171,7 +170,7 @@ if (lv3s.length > 0) {
 	- +1 bonus on attack and damage per four levels (max +5)
 - [ ] [[DNDSRD/35eSRD/Spells/Prayer|Prayer]] [preparada:: 0]
 	- Allies +1 bonus on most rolls, enemies -1 penalty. (attack rolls, weapon damage rolls, saves, and skill checks)Pe
-- [ ] [[Remove Blindness or Deafness|Remove Blindness or Deafness]] [preparada:: 0]
+- [ ] [[DNDSRD/35eSRD/Spells/Remove Blindness_Deafness m|Remove Blindness_Deafness m]] [preparada:: 0]
 	- Cures normal or magical conditions.
 - [ ] [[DNDSRD/35eSRD/Spells/Remove Curse|Remove Curse]] [preparada:: 0]
 	- Frees object or person from curse. 
