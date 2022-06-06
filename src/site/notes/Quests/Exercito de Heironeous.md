@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-alias: 
+{"dg-publish":true,"permalink":"/quests/exercito-de-heironeous/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 #EnochsJournal 
 
 | [[EnochsDiary\|Home]] |
