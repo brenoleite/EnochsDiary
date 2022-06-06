@@ -1,10 +1,7 @@
 ---
-fc-calendar: Calendar of Golarion
-fc-date: 4720-1-21
-fc-category: Log Diario
-fc-display-name: Log Diario
-dg-publish: true
+{"dg-publish":true,"permalink":"/journal/enoch/log-do-dia-4720-1-21/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 #EnochsJournal 
 
 [[Journal/Enoch/log do dia 4720-1-20|<- dia anterior]] | [[EnochsDiary\|Home]] | [[Journal/Enoch/4720-01-22 log diario|próximo dia ->]]
