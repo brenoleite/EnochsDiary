@@ -35,3 +35,10 @@ Têem uma alta resistência ao fogo
 Tem alta resistência a magia.
 
 O voo dele é ruim ou desajeitado (não paira no ar e precisa de espaço para fazer manobras amplas)
+
+redução de dano mágico (provavelmente 10 pts se a arma não for mágica)
+CA 32 do
+CA de toque 8
+Resistencia a magia 23
+imune ao fogo
+vulnerável ao frio
