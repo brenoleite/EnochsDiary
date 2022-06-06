@@ -20,7 +20,7 @@ A cidade é bem mesclada com a floresta e um pessoa distraída pode não percebe
 ## **Templos e shrines:**
 
 ## **Outras Localizações:**
-- **Castelo de [[Personagens/Jormandi|Jormandi]]**
+- **Castelo de [[Personagens/Jorkman|Jorkman]]**
 	- Centro do governo da cidade
 	- Na sala do trono havia
 		- 8 guardas
@@ -30,7 +30,7 @@ A cidade é bem mesclada com a floresta e um pessoa distraída pode não percebe
 
 ## Outras informações relevantes
 - Eles possuem a [[flauta de eloná|flauta de eloná]], um instrumento mágico que quando tocado é capaz de transportar todos aqueles que o escutam para segurança
-- A cidade está sendo chantageada pelo dragão vermelho [[Personagens/Jormandi|Jormandi]]
+- A cidade está sendo chantageada pelo dragão vermelho [[Personagens/Jorkman|Jorkman]]
 
 ## História
 
