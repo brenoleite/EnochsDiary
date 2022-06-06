@@ -1,14 +1,7 @@
 ---
-dg-publish: true
-tipo: jogador
-jogador: Renato
-alinhamento:
-- caotico
-- neutro
-classe: Feiticeiro
-Deus: Ehlonna
-nivel: 11
+{"dg-publish":true,"permalink":"/personagens/aladrail/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 
 # Li
