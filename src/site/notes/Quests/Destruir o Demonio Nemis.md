@@ -1,8 +1,7 @@
 ---
-statblock: true
-alias: Combater Demônio Nemis
-dg-publish: true
+{"dg-publish":true,"permalink":"/quests/destruir-o-demonio-nemis/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # Destruir o demonio Nemis
 Derrotamos este temido inimigo no dia [[Journal/Enoch/log do dia 4720-1-19|19/01/4720]]
 
@@ -21,10 +20,7 @@ A arma, para fazer efeito contra Nemis, precisa ser empunhada por alguém de cor
 
 </div>
 
----
-criado:2022-03-16
-dg-publish: true
----
+
 [[EnochsDiary|EnochsDiary]] | [[Quests/Destruir o Demonio Nemis|Destruir o Demonio Nemis]] | [[Journal/Enoch/Log Do dia 4720-1-16|Log Do dia 4720-1-16]] | [[Personagens/Mirian, o grande mago da antiguidade|Mirian, o grande mago da antiguidade]]
 # Arma da mortalidade
 Esta arma faz com que seres imortais se tornem mortais por 1d8 turnos.
