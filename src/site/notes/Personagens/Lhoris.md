@@ -1,14 +1,7 @@
 ---
-dg-publish: true
-tipo: jogador
-jogador: Nelson
-alinhamento:
-- neutro
-- neutro
-classe: Ladino
-Deus: St Cuthbert
-nivel: 11
+{"dg-publish":true,"permalink":"/personagens/lhoris/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 
 
 # Li
