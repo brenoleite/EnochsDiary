@@ -4,9 +4,9 @@
 
  
 # Enoch
-![[Enoch paladin.png\|200]] | ![[Enoch Paladin35e screenshot.png\|200]]
----|---
-3x4|corpo
+|![[Enoch paladin.png\|200]] | ![[Enoch Paladin35e screenshot.png\|200]] |
+|---|---|
+|3x4|corpo|
 
 
 Nome completo: Enoch Kimbao
