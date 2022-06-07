@@ -14,7 +14,7 @@ Raça: [[Humano|Humano]]
 Classe: [[Paladino|Paladino]] da Justiça
 Deus: [[Personagens/Heironeous|Heironeous]]
 Alinhamento: Leal Bom
-Nível: 11
+Nível: 12
 
 Irmão: [[Personagens/Li|Li]]
 Animal: [[Arkantos|Arkantos]]
@@ -29,7 +29,6 @@ Se reencontraram novamente em [[Mundo/Mercantenopolis|Mercantenópolis]]
 
 ### Possíveis talentos
 #### Livro do jogador
-- Liderança
 
 - corrida
 	- Percorre 5 vezes o deslocamento padrão, +4 de bônus nos testes de Saltar no final de uma corrida
