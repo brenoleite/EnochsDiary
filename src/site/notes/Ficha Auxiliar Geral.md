@@ -11,4 +11,5 @@
 - [[Mundo/Etiei|Etiei]]
 
 ## Quests
+- [[Quests/Caverna do Dragão|Caverna do Dragão]]
 - **[[Exército de Heironeous|Exército de Heironeous]]**
