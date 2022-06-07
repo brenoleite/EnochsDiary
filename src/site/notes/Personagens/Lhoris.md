@@ -4,7 +4,7 @@
 
 
 
-# Li
+# [[Personagens/Lhoris|Lhoris]]
 nome: Lhoris Brynenor
 Raça: [[Elfo|Elfo]]
 Classe: [[ladino|ladino]]
