@@ -349,7 +349,7 @@ max permitido  (`= this.num2ndlevelspell`)
 	- Subject gains +4 to Wis for 1 min./level.
 - [ ] [[DNDSRD/35eSRD/Spells/Remove Paralysis|Remove Paralysis]] [preparada:: 1]
 	- Frees one or more creatures from paralysis or slow effect.
-- [ ] [[Resist Energy|Resist Energy]] [preparada:: 0]
+- [ ] [[DNDSRD/35eSRD/Spells/Resist Energy|Resist Energy]] [preparada:: 0]
 	- Ignores first 10 (or more) points of damage/attack from specified energy type.
 - [ ] [[DNDSRD/35eSRD/Spells/Restoration, Lesser|Restoration, Lesser]] [preparada:: 0]
 	- Dispels magical ability penalty or repairs 1d4 ability damage.
