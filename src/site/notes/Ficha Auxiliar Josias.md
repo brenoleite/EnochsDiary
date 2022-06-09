@@ -84,7 +84,7 @@
 :--:
 - [ ] [[DNDSRD/35eSRD/Spells/Break Enchantment|Break Enchantment]] [preparada::1]
 	- Frees subjects from enchantments, alterations, curses, and petrification. ^onelinedescription
-- [ ] [[DNDSRD/35eSRD/Spells/Scrying|Scrying]] [preparada::1]
+- [ ] [[DNDSRD/35eSRD/Spells/Scrying m|Scrying]] [preparada::1]
 	- Spies on subject from a distance. ^onelinedescription
 
 
