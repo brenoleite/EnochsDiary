@@ -204,7 +204,7 @@ Dominios: Good, Healing
 	- Feeds three humans (or one horse)/level. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Cure Serious Wounds|Cure Serious Wounds]] [preparada::0] 
 	- Cures 3d8 damage +1/level (max +15). ^onelinedescription
-- [ ] [[DNDSRD/35eSRD/Spells/Daylight|Daylight]] [preparada::0] 
+- [ ] [[DNDSRD/35eSRD/Spells/Daylight|Daylight]] [preparada::1] 
 	- 60-ft. radius of bright light. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Deeper Darkness|Deeper Darkness]] [preparada::0] 
 	- Object sheds supernatural shadow in 60-ft. radius. ^onelinedescription
@@ -216,7 +216,7 @@ Dominios: Good, Healing
 	- Ghostly hand leads subject to you. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Inflict Serious Wounds|Inflict Serious Wounds]] [preparada::0] 
 	- Touch attack, 3d8 damage +1/level (max +15). ^onelinedescription
-- [ ] [[DNDSRD/35eSRD/Spells/Invisibility Purge|Invisibility Purge]] [preparada::1] 
+- [ ] [[DNDSRD/35eSRD/Spells/Invisibility Purge|Invisibility Purge]] [preparada::0] 
 	- Dispels invisibility within 5 ft./level. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Locate Object|Locate Object]] [preparada::1] 
 	- Senses direction toward object (specific or type). ^onelinedescription
