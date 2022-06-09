@@ -274,7 +274,7 @@ Dominios: Good, Healing
 	- Reveals deliberate falsehoods. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Dismissal|Dismissal]] [preparada::0] 
 	- Forces a creature to return to native plane. ^onelinedescription
-- [ ] [[DNDSRD/35eSRD/Spells/Divination|Divination]] [preparada::0] 
+- [ ] [[DNDSRD/35eSRD/Spells/Divination m|Divination]] [preparada::0] 
 	- Provides useful advice for specific proposed actions. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Divine Power|Divine Power]] [preparada::0] 
 	- You gain attack bonus, +6 to Str, and 1 hp/level. ^onelinedescription
