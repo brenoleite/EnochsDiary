@@ -79,7 +79,7 @@
 - [ ] [[DNDSRD/35eSRD/Spells/Restoration|Restoration]] [preparada::1]
 	- Restores level and ability score drains. ^onelinedescription
 ##### Level 05 (max 2+1)
-- [ ] [[DNDSRD/35eSRD/Spells/Cure Light Wounds, Mass |Cure Light Wounds, Mass ]] [preparada::1]  
+- [ ] [[DNDSRD/35eSRD/Spells/Cure Light Wounds, Mass|Cure Light Wounds, Mass ]] [preparada::1]  
 	- Cures 1d8 damage +1/level for one creature/level, no two of which can be more than 30 ft. apart. ^onelinedescription
 :--:
 - [ ] [[DNDSRD/35eSRD/Spells/Break Enchantment|Break Enchantment]] [preparada::1]
