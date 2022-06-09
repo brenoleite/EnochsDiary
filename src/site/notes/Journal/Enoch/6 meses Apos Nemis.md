@@ -7,12 +7,12 @@
 
 Após derrotar [[Personagens/Nemis - O demonio|Nemis]] a [[Personagens/triade|Tríade]] se separou por um tempo. Sem nenhuma grande ameaça iminente, cada membro do grupo seguiu um pouco os seus próprios interesses.
 
-[[Josias|Josias]] seguiu comigo, para que pudéssemos ajudar o máximo de pessoas possíveis.
+[[Personagens/Josias|Josias]] seguiu comigo, para que pudéssemos ajudar o máximo de pessoas possíveis.
 
 Me lembrei de um lugar, uma pousada, pela qual passamos enquanto íamos para o [[Mundo/Monasterio de Heironeous|Monastério]], que emanava uma áurea terrível, e resolvi investigar.
 Na pousada havia um culto a [[Neru|Neru]], e com a graça de [[Personagens/Heironeous|Heironeous]] eu consegui colocar um fim as maldades que eles praticavam.
 
-Eu e o [[Josias|Josias]] conseguimos ajudar muitas pessoas que estavam doentes, em perigo, com dificuldades financeiras, ou até mesmo apenas precisando de uma boa conversa
+Eu e o [[Personagens/Josias|Josias]] conseguimos ajudar muitas pessoas que estavam doentes, em perigo, com dificuldades financeiras, ou até mesmo apenas precisando de uma boa conversa
 
 Ajudamos inclusive um feiticeiro que nos prometeu colocar uma proteção contra fogo em algum escudo ou armadura OP que eu comprar eventualmente.
 
