@@ -29,7 +29,7 @@ Dominios: Good, Healing
 	- Cures 3d8 damage +1/level (max +15). ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Cure Critical Wounds|Cure Critical Wounds]] [preparada::1]   
 	- Cures 4d8 damage +1/level (max +20). ^onelinedescription
-- [ ] [[DNDSRD/35eSRD/Spells/Cure Light Wounds, Mass |Cure Light Wounds, Mass ]] [preparada::1]   
+- [ ] [[DNDSRD/35eSRD/Spells/Cure Light Wounds, Mass|Cure Light Wounds, Mass ]] [preparada::1]   
 	- ** Cures 1d8 damage +1/level for one creature/level, no two of which can be more than 30 ft. apart. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Heal|Heal]] [preparada::0]   
 	- Cures 10 points/level of damage, all diseases and mental conditions. ^onelinedescription
@@ -324,7 +324,7 @@ Dominios: Good, Healing
 	- ** Deity answers one yes-or-no question/level. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Cure Light Wounds, Mass|Cure Light Wounds, Mass]] [preparada::0] 
 	- Cures 1d8 damage +1/level for many creatures. ^onelinedescription
-- [ ] [[DNDSRD/35eSRD/Spells/Cure Light Wounds, Mass |Cure Light Wounds, Mass ]] [preparada::0] 
+- [ ] [[DNDSRD/35eSRD/Spells/Cure Light Wounds, Mass|Cure Light Wounds, Mass ]] [preparada::0] 
 	- ** Cures 1d8 damage +1/level for one creature/level, no two of which can be more than 30 ft. apart. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Dispel Chaos|Dispel Chaos]] [preparada::0] 
 	- +4 bonus against attacks by chaotic creatures. ^onelinedescription
