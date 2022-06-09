@@ -11,6 +11,14 @@ Mais ou menos 6 meses após derrotarmos o [[Personagens/Nemis - O demonio|Nemis]
 
 [[Ravim|Ravim]], o líder de um bando de centauros que encontramos quando íamos para [[Mundo/Cidade de Nemis|Cidade de Nemis]], o encontrou e confidenciou nele que a cidade élfica de [[Mundo/Etiei|Etiei]] estava em perigo, sendo ameaçada por um [[Criaturas/Dragao Vermelho|Dragao Vermelho]], e que a [[Rainha Averduia|Rainha Averduia]] clama por ajuda.
 
+### Gatilho
+
+
+### Objetivo
+
+
+
+### Progresso
 - No dia [[Journal/Enoch/Log do dia 4720-08-02|02/08/4720]] chegamos à cidade de [[Mundo/Etiei|Etiei]], conversamos com a [[Rainha Averduia|Rainha Averduia]],  e nos comprometemos à ajudá-la.
 - O nome do dragão é [[Personagens/Jorkman|Jorkman]]
 - [[Personagens/Tiamat, o dourado|Tiamat, o dourado]], amigo dos avós de [[Personagens/Aladrail|Aladrail]], ofereceu nos ajudar com conselhos e recursos
