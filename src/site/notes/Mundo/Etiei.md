@@ -17,7 +17,7 @@ A cidade é bem mesclada com a floresta e um pessoa distraída pode não percebe
 	- [[Personagens/Anastriana Duoborn|Anastriana Duoborn]] - Avó de [[Personagens/Aladrail|Aladrail]]
 	- [[Personagens/Gedania|Gedania]] - mora com os avós de [[Personagens/Aladrail|Aladrail]] (tia dele talvez)
 	- [[Personagens/Tiamat, o dourado|Tiamat, o dourado]] - amigo dos Duoborn (99,9% de chance de ser um dragão)
-- [[Iston, o estudioso|Iston, o estudioso]] - Um estudioso que já tentou ler todos os livros da [[Mundo/Grande Biblioteca de história e religião|Grande Biblioteca de história e religião]] de [[Mundo/Cidade de Nemis|Nemis]]
+- [[Personagens/Iston, o estudioso|Iston, o estudioso]] - Um estudioso que já tentou ler todos os livros da [[Mundo/Grande Biblioteca de história e religião|Grande Biblioteca de história e religião]] de [[Mundo/Cidade de Nemis|Nemis]]
 
 
 ## **Tavernas e hoteis:**
