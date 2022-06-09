@@ -21,7 +21,7 @@ A festa no templo de [[Personagens/Heironeous|Heironeous]] foi revigorante. Este
 
 Durante a cermônio, [[Iuxor|Iuxor]] fez um belo discurso nos agradecendo, e me deu um medalhão belo, e poderoso, o qual agora me sinto muito honrado de usar.
 
-Ao final das celebrações [[Josias|Josias]], o clérigo que nos auxiliou na luta contra [[Personagens/Nemis - O demonio|Nemis]] veio conversar comigo. Ele falou que a experiência de lutar ao nosso lado foi algo tão magnífico que ele tem dificuldade em colocar em palavras, e que se sentiria honrado em nos acompanhar.
+Ao final das celebrações [[Personagens/Josias|Josias]], o clérigo que nos auxiliou na luta contra [[Personagens/Nemis - O demonio|Nemis]] veio conversar comigo. Ele falou que a experiência de lutar ao nosso lado foi algo tão magnífico que ele tem dificuldade em colocar em palavras, e que se sentiria honrado em nos acompanhar.
 
 Mesmo sem conversar com o resto do grupo, senti que ele será uma grande companhia e resolvi me responsabilizar pela decisão de deixá-lo me acompanhar, mesmo quando a tríade não estiver reunida.
 
