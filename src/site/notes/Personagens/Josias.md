@@ -1,0 +1,534 @@
+---
+{"dg-publish":true,"permalink":"/personagens/josias/","dgHomeLink":true,"dgPassFrontmatter":false}
+---
+
+
+# [[Personagens/Josias|Josias]]
+**nome**: Josias
+**alias**: 
+**raça**: Humano
+**idade**: 
+**atividade**: 
+**descrição**: 
+
+### primeiro contato
+**local**: [[Mundo/Cidade de Nemis|Cidade de Nemis]]
+**circunstância**: Ajudou a tríade na luta contra o [[Personagens/Nemis - O demonio|Nemis - O demonio]].
+
+### outras informações
+Clérigo de [[Pelor|Pelor]]
+Dominios: Good, Healing
+
+## Magias
+### Domínio Good
+- [ ] [[DNDSRD/35eSRD/Spells/Cure Light Wounds|Cure Light Wounds]] [preparada::1]   
+	- Cures 1d8 damage +1/level (max +5). ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Cure Moderate Wounds|Cure Moderate Wounds]] [preparada::1]   
+	- Cures 2d8 damage +1/level (max +10). ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Cure Serious Wounds|Cure Serious Wounds]] [preparada::1]   
+	- Cures 3d8 damage +1/level (max +15). ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Cure Critical Wounds|Cure Critical Wounds]] [preparada::1]   
+	- Cures 4d8 damage +1/level (max +20). ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Cure Light Wounds, Mass |Cure Light Wounds, Mass ]] [preparada::1]   
+	- ** Cures 1d8 damage +1/level for one creature/level, no two of which can be more than 30 ft. apart. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Heal|Heal]] [preparada::0]   
+	- Cures 10 points/level of damage, all diseases and mental conditions. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Regenerate|Regenerate]] [preparada::0]   
+	- Subject’s severed limbs grow back, cures 4d8 damage +1/level (max +35). ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Cure Critical Wounds, Mass|Cure Critical Wounds, Mass]] [preparada::0]   
+	- Cures 4d8 damage +1/level for many creatures. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Heal, Mass|Heal, Mass]] [preparada::0]   
+	- As heal, but with several subjects. ^onelinedescription
+
+
+### Level 00
+- [ ] [[DNDSRD/35eSRD/Spells/Create Water|Create Water]] [preparada::0] 
+	- Creates 2 gallons/level of pure water. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Cure Minor Wounds|Cure Minor Wounds]] [preparada::0] 
+	- Cures 1 point of damage. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Detect Magic|Detect Magic]] [preparada::1] 
+	- Detects spells and magic items within 60 ft. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Detect Poison|Detect Poison]] [preparada::1] 
+	- Detects poison in one creature or small object. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Guidance|Guidance]] [preparada::0] 
+	- +1 on one attack roll, saving throw, or skill check. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Inflict Minor Wounds|Inflict Minor Wounds]] [preparada::0] 
+	- Touch attack, 1 point of damage. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Light|Light]] [preparada::1] 
+	- Object shines like a torch. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Mending|Mending]] [preparada::1] 
+	- Makes minor repairs on an object. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Purify Food and Drink|Purify Food and Drink]] [preparada::0] 
+	- Purifies 1 cu. ft./level of food or water. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Read Magic|Read Magic]] [preparada::1] 
+	- Read scrolls and spellbooks. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Resistance|Resistance]] [preparada::1] 
+	- Subject gains +1 on saving throws. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Virtue|Virtue]] [preparada::0] 
+	- Subject gains 1 temporary hp. ^onelinedescription
+
+### Level 01
+- [ ] [[DNDSRD/35eSRD/Spells/Bane|Bane]] [preparada::0] 
+	- Enemies take -1 on attack rolls and saves against fear. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Bless|Bless]] [preparada::0] 
+	- Allies gain +1 on attack rolls and +1 on saves against fear. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Bless Water|Bless Water]] [preparada::1] 
+	- Makes holy water. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Cause Fear|Cause Fear]] [preparada::0] 
+	- One creature of 5 HD or less flees for 1d4 rounds. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Command|Command]] [preparada::1] 
+	- One subject obeys selected command for 1 round. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Comprehend Languages|Comprehend Languages]] [preparada::1] 
+	- You understand all spoken and written languages. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Cure Light Wounds|Cure Light Wounds]] [preparada::0] 
+	- Cures 1d8 damage +1/level (max +5). ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Detect Chaos|Detect Chaos]] [preparada::0] 
+	- Reveals creatures, spells, or objects of selected alignment. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Detect Evil|Detect Evil]] [preparada::0] 
+	- Reveals creatures, spells, or objects of selected alignment. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Detect Good|Detect Good]] [preparada::0] 
+	- Reveals creatures, spells, or objects of selected alignment. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Detect Law|Detect Law]] [preparada::0] 
+	- Reveals creatures, spells, or objects of selected alignment. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Detect Undead|Detect Undead]] [preparada::0] 
+	- Reveals undead within 60 ft. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Divine Favor|Divine Favor]] [preparada::0] 
+	- You gain +1 per three levels on attack and damage rolls. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Doom|Doom]] [preparada::0] 
+	- One subject takes -2 on attack rolls, saves, and checks. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Endure Elements|Endure Elements]] [preparada::1] 
+	- Exist comfortably in hot or cold environments. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Entropic Shield|Entropic Shield]] [preparada::0] 
+	- Ranged attacks against you have 20% miss chance. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Hide from Undead|Hide from Undead]] [preparada::0] 
+	- Undead can’t perceive one subject/level. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Inflict Light Wounds|Inflict Light Wounds]] [preparada::0] 
+	- Touch deals 1d8 damage +1/level (max +5). ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Magic Stone|Magic Stone]] [preparada::0] 
+	- Three stones gain +1 on attack rolls, deal 1d6+1 damage. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Magic Weapon|Magic Weapon]] [preparada::0] 
+	- Weapon gains +1 bonus. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Obscuring Mist|Obscuring Mist]] [preparada::1] 
+	- Fog surrounds you. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Protection from Chaos|Protection from Chaos]] [preparada::0] 
+	- +2 to AC and saves, counter mind control, hedge out elementals and outsiders. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Protection from Evil|Protection from Evil]] [preparada::0] 
+	- +2 to AC and saves, counter mind control, hedge out elementals and outsiders. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Protection from Law|Protection from Law]] [preparada::0] 
+	- +2 to AC and saves, counter mind control, hedge out elementals and outsiders. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Remove Fear|Remove Fear]] [preparada::1] 
+	- Suppresses fear or gives +4 on saves against fear for one subject + one per four levels. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Sanctuary|Sanctuary]] [preparada::0] 
+	- Opponents can’t attack you, and you can’t attack. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Shield of Faith|Shield of Faith]] [preparada::0] 
+	- Aura grants +2 or higher deflection bonus. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Summon Monster I|Summon Monster I]] [preparada::0] 
+	- Calls extraplanar creature to fight for you. ^onelinedescription
+
+### Level 02
+- [ ] [[DNDSRD/35eSRD/Spells/Aid|Aid]] [preparada::0] 
+	- +1 on attack rolls and saves against fear, 1d8 temporary hp +1/level (max +10). ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Align Weapon|Align Weapon]] [preparada::0] 
+	- Weapon becomes good, evil, lawful, or chaotic. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Augury|Augury]] [preparada::1] 
+	- Learns whether an action will be good or bad. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Bear's Endurance|Bear's Endurance]] [preparada::0] 
+	- Subject gains +4 to Con for 1 min./level. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Bull's Strength|Bull's Strength]] [preparada::0] 
+	- Subject gains +4 to Str for 1 min./level. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Calm Emotions|Calm Emotions]] [preparada::1] 
+	- Calms creatures, negating emotion effects. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Consecrate|Consecrate]] [preparada::0] 
+	- Fills area with positive energy, making undead weaker. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Cure Moderate Wounds|Cure Moderate Wounds]] [preparada::0] 
+	- Cures 2d8 damage +1/level (max +10). ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Darkness|Darkness]] [preparada::0] 
+	- 20-ft. radius of supernatural shadow. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Death Knell|Death Knell]] [preparada::0] 
+	- Kills dying creature; you gain 1d8 temporary hp, +2 to Str, and +1 level. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Delay Poison|Delay Poison]] [preparada::0] 
+	- Stops poison from harming subject for 1 hour/ level. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Eagle's Splendor|Eagle's Splendor]] [preparada::0] 
+	- Subject gains +4 to Cha for 1 min./level. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Enthrall|Enthrall]] [preparada::0] 
+	- Captivates all within 100 ft. + 10 ft./level. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Find Traps|Find Traps]] [preparada::0] 
+	- Notice traps as a rogue does. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Gentle Repose|Gentle Repose]] [preparada::0] 
+	- Preserves one corpse. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Hold Person|Hold Person]] [preparada::0] 
+	- Paralyzes one humanoid for 1 round/level. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Inflict Moderate Wounds|Inflict Moderate Wounds]] [preparada::0] 
+	- Touch attack, 2d8 damage +1/level (max +10). ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Make Whole|Make Whole]] [preparada::1] 
+	- Repairs an object. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Owl's Wisdom|Owl's Wisdom]] [preparada::0] 
+	- Subject gains +4 to Wis for 1 min./level. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Remove Paralysis|Remove Paralysis]] [preparada::1] 
+	- Frees one or more creatures from paralysis or slow effect. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Resist Energy|Resist Energy]] [preparada::0] 
+	- Ignores first 10 (or more) points of damage/attack from specified energy type. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Resist Energy m|Resist Energy m]] [preparada::0] 
+	- ** Ignores first 10 (or more) points of damage/attack from specified energy type. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Restoration, Lesser|Restoration, Lesser]] [preparada::0] 
+	- Dispels magical ability penalty or repairs 1d4 ability damage. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Shatter|Shatter]] [preparada::0] 
+	- Sonic vibration damages objects or crystalline creatures. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Shield Other|Shield Other]] [preparada::0] 
+	- You take half of subject’s damage. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Silence|Silence]] [preparada::0] 
+	- Negates sound in 20-ft. radius. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Sound Burst|Sound Burst]] [preparada::0] 
+	- Deals 1d8 sonic damage to subjects; may stun them. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Spiritual Weapon|Spiritual Weapon]] [preparada::0] 
+	- Magic weapon attacks on its own. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Status|Status]] [preparada::1] 
+	- Monitors condition, position of allies. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Summon Monster II|Summon Monster II]] [preparada::0] 
+	- Calls extraplanar creature to fight for you. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Undetectable Alignment|Undetectable Alignment]] [preparada::0] 
+	- Conceals alignment for 24 hours. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Zone of Truth|Zone of Truth]] [preparada::0] 
+	- Subjects within range cannot lie. ^onelinedescription
+
+### Level 03
+- [ ] [[DNDSRD/35eSRD/Spells/Bestow Curse|Bestow Curse]] [preparada::0] 
+	- -6 to an ability score; -4 on attack rolls, saves, and checks; or 50% chance of losing each action. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Blindness_Deafness|Blindness_Deafness]] [preparada::0] 
+	- Makes subject blind or deaf. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Blindness_Deafness m|Blindness_Deafness m]] [preparada::0] 
+	- ** Makes subject blind or deaf. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Continual Flame|Continual Flame]] [preparada::0] 
+	- Makes a permanent, heatless torch. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Create Food and Water|Create Food and Water]] [preparada::0] 
+	- Feeds three humans (or one horse)/level. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Cure Serious Wounds|Cure Serious Wounds]] [preparada::0] 
+	- Cures 3d8 damage +1/level (max +15). ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Daylight|Daylight]] [preparada::0] 
+	- 60-ft. radius of bright light. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Deeper Darkness|Deeper Darkness]] [preparada::0] 
+	- Object sheds supernatural shadow in 60-ft. radius. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Dispel Magic|Dispel Magic]] [preparada::1] 
+	- Cancels magical spells and effects. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Glyph of Warding|Glyph of Warding]] [preparada::0] 
+	- Inscription harms those who pass it. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Helping Hand|Helping Hand]] [preparada::1] 
+	- Ghostly hand leads subject to you. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Inflict Serious Wounds|Inflict Serious Wounds]] [preparada::0] 
+	- Touch attack, 3d8 damage +1/level (max +15). ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Invisibility Purge|Invisibility Purge]] [preparada::1] 
+	- Dispels invisibility within 5 ft./level. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Locate Object|Locate Object]] [preparada::1] 
+	- Senses direction toward object (specific or type). ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Magic Circle against Chaos|Magic Circle against Chaos]] [preparada::0] 
+	- As protection from chaos, but 10-ft. radius and 10 min./level. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Magic Circle against Evil|Magic Circle against Evil]] [preparada::0] 
+	- As protection from evil, but 10-ft. radius and 10 min./level. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Magic Circle against Law|Magic Circle against Law]] [preparada::0] 
+	- As protection spells, but 10-ft. radius and 10 min./level. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Magic Vestment|Magic Vestment]] [preparada::0] 
+	- Armor or shield gains +1 enhancement per four levels. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Meld into Stone|Meld into Stone]] [preparada::0] 
+	- You and your gear merge with stone. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Obscure Object|Obscure Object]] [preparada::0] 
+	- Masks object against scrying. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Prayer|Prayer]] [preparada::0] 
+	- Allies +1 bonus on most rolls, enemies -1 penalty. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Protection from Energy|Protection from Energy]] [preparada::0] 
+	- Absorb 12 points/level of damage from one kind of energy. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Remove Blindness_Deafness|Remove Blindness_Deafness]] [preparada::0] 
+	- Cures normal or magical conditions. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Remove Blindness_Deafness m|Remove Blindness_Deafness m]] [preparada::0] 
+	- ** Cures normal or magical conditions. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Remove Curse|Remove Curse]] [preparada::0] 
+	- Frees object or person from curse. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Remove Disease|Remove Disease]] [preparada::0] 
+	- Cures all diseases affecting subject. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Searing Light|Searing Light]] [preparada::0] 
+	- Ray deals 1d8/two levels damage, more against undead. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Speak with Dead|Speak with Dead]] [preparada::0] 
+	- Corpse answers one question/two levels. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Stone Shape|Stone Shape]] [preparada::0] 
+	- Sculpts stone into any shape. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Summon Monster III|Summon Monster III]] [preparada::0] 
+	- Calls extraplanar creature to fight for you. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Telepathic Bond, Lesser|Telepathic Bond, Lesser]] [preparada::0] 
+	- ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Water Breathing|Water Breathing]] [preparada::0] 
+	- Subjects can breathe underwater. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Water Walk|Water Walk]] [preparada::0] 
+	- Subject treads on water as if solid. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Wind Wall|Wind Wall]] [preparada::0] 
+	- Deflects arrows, smaller creatures, and gases. ^onelinedescription
+
+### Level 04
+- [ ] [[DNDSRD/35eSRD/Spells/Air Walk|Air Walk]] [preparada::0] 
+	- Subject treads on air as if solid (climb at 45-degree angle). ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Control Water|Control Water]] [preparada::0] 
+	- Raises or lowers bodies of water. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Cure Critical Wounds|Cure Critical Wounds]] [preparada::0] 
+	- Cures 4d8 damage +1/level (max +20). ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Death Ward|Death Ward]] [preparada::0] 
+	- Grants immunity to death spells and negative energy effects. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Dimensional Anchor|Dimensional Anchor]] [preparada::0] 
+	- Bars extradimensional movement. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Discern Lies|Discern Lies]] [preparada::1] 
+	- Reveals deliberate falsehoods. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Dismissal|Dismissal]] [preparada::0] 
+	- Forces a creature to return to native plane. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Divination|Divination]] [preparada::0] 
+	- Provides useful advice for specific proposed actions. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Divine Power|Divine Power]] [preparada::0] 
+	- You gain attack bonus, +6 to Str, and 1 hp/level. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Dweomer of Transference|Dweomer of Transference]] [preparada::0] 
+	- ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Freedom of Movement|Freedom of Movement]] [preparada::0] 
+	- Subject moves normally despite impediments. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Giant Vermin|Giant Vermin]] [preparada::0] 
+	- Turns centipedes, scorpions, or spiders into giant vermin. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Imbue with Spell Ability|Imbue with Spell Ability]] [preparada::0] 
+	- Transfer spells to subject. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Inflict Critical Wounds|Inflict Critical Wounds]] [preparada::0] 
+	- Touch attack, 4d8 damage +1/level (max +20). ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Magic Weapon, Greater|Magic Weapon, Greater]] [preparada::0] 
+	- +1/four levels (max +5). ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Neutralize Poison|Neutralize Poison]] [preparada::1] 
+	- Immunizes subject against poison, detoxifies venom in or on subject. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Planar Ally, Lesser|Planar Ally, Lesser]] [preparada::0] 
+	- Exchange services with a 6 HD extraplanar creature. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Planar Ally, Lesser XP|Planar Ally, Lesser XP]] [preparada::0] 
+	- ** Exchange services with a 6 HD extraplanar creature. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Poison|Poison]] [preparada::0] 
+	- Touch deals 1d10 Con damage, repeats in 1 min. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Repel Vermin|Repel Vermin]] [preparada::0] 
+	- Insects, spiders, and other vermin stay 10 ft. away. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Restoration|Restoration]] [preparada::1] 
+	- Restores level and ability score drains. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Sending|Sending]] [preparada::0] 
+	- Delivers short message anywhere, instantly. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Spell Immunity|Spell Immunity]] [preparada::0] 
+	- Subject is immune to one spell per four levels. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Summon Monster IV|Summon Monster IV]] [preparada::0] 
+	- Calls extraplanar creature to fight for you. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Tongues|Tongues]] [preparada::0] 
+	- Speak any language. ^onelinedescription
+
+### Level 05
+- [ ] [[DNDSRD/35eSRD/Spells/Atonement XP|Atonement XP]] [preparada::0] 
+	- ** Removes burden of misdeeds from subject. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Break Enchantment|Break Enchantment]] [preparada::1] 
+	- Frees subjects from enchantments, alterations, curses, and petrification. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Command, Greater|Command, Greater]] [preparada::0] 
+	- As command, but affects one subject/level. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Commune XP|Commune XP]] [preparada::0] 
+	- ** Deity answers one yes-or-no question/level. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Cure Light Wounds, Mass|Cure Light Wounds, Mass]] [preparada::0] 
+	- Cures 1d8 damage +1/level for many creatures. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Cure Light Wounds, Mass |Cure Light Wounds, Mass ]] [preparada::0] 
+	- ** Cures 1d8 damage +1/level for one creature/level, no two of which can be more than 30 ft. apart. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Dispel Chaos|Dispel Chaos]] [preparada::0] 
+	- +4 bonus against attacks by chaotic creatures. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Dispel Evil|Dispel Evil]] [preparada::0] 
+	- +4 bonus against attacks by evil creatures. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Dispel Law|Dispel Law]] [preparada::0] 
+	- +4 bonus against attacks by lawful creatures. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Disrupting Weapon|Disrupting Weapon]] [preparada::0] 
+	- Melee weapon destroys undead. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Flame Strike|Flame Strike]] [preparada::0] 
+	- Smite foes with divine fire (1d6/level damage). ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Hallow m|Hallow]] [preparada::0] 
+	- Designates location as holy. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Inflict Light Wounds, Mass|Inflict Light Wounds, Mass]] [preparada::0] 
+	- Deals 1d8 damage +1/level to many creatures. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Insect Plague|Insect Plague]] [preparada::0] 
+	- Locust swarms attack creatures. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Mark of Justice|Mark of Justice]] [preparada::0] 
+	- Designates action that will trigger curse on subject. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Plane Shift|Plane Shift]] [preparada::0] 
+	- As many as eight subjects travel to another plane. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Psychic Turmoil|Psychic Turmoil]] [preparada::0] 
+	- ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Raise Dead|Raise Dead]] [preparada::0] 
+	- Restores life to subject who died as long as one day/level ago. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Righteous Might|Righteous Might]] [preparada::0] 
+	- Your size increases, and you gain combat bonuses. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Scrying|Scrying]] [preparada::1] 
+	- Spies on subject from a distance. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Slay Living|Slay Living]] [preparada::0] 
+	- Touch attack kills subject. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Spell Resistance|Spell Resistance]] [preparada::0] 
+	- Subject gains SR 12 + level. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Summon Monster V|Summon Monster V]] [preparada::0] 
+	- Calls extraplanar creature to fight for you. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Symbol of Sleep|Symbol of Sleep]] [preparada::0] 
+	- Triggered rune puts nearby creatures into catatonic slumber. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/True Seeing|True Seeing]] [preparada::0] 
+	- Lets you see all things as they really are. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Wall of Stone|Wall of Stone]] [preparada::0] 
+	- Creates a stone wall that can be shaped. ^onelinedescription
+
+### Level 06
+- [ ] [[DNDSRD/35eSRD/Spells/Animate Objects|Animate Objects]] [preparada::0] 
+	- Objects attack your foes. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Antilife Shell|Antilife Shell]] [preparada::0] 
+	- 10-ft.-radius field hedges out living creatures. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Banishment|Banishment]] [preparada::0] 
+	- Banishes 2 HD/level of extraplanar creatures. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Bear's Endurance, Mass|Bear's Endurance, Mass]] [preparada::0] 
+	- As bear’s endurance, affects one subject/level. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Blade Barrier|Blade Barrier]] [preparada::0] 
+	- Wall of blades deals 1d6/level damage. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Bull's Strength, Mass|Bull's Strength, Mass]] [preparada::0] 
+	- As bull’s strength, affects one subject/ level. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Cure Moderate Wounds, Mass|Cure Moderate Wounds, Mass]] [preparada::0] 
+	- Cures 2d8 damage +1/level for many creatures. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Dispel Magic, Greater|Dispel Magic, Greater]] [preparada::0] 
+	- As dispel magic, but +20 on check. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Eagle's Splendor, Mass|Eagle's Splendor, Mass]] [preparada::0] 
+	- As eagle’s splendor, affects one subject/level. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Find the Path|Find the Path]] [preparada::0] 
+	- Shows most direct way to a location. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Forbiddance|Forbiddance]] [preparada::0] 
+	- Blocks planar travel, damages creatures of different alignment. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Geas_Quest|Geas_Quest]] [preparada::0] 
+	- As lesser geas, plus it affects any creature. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Glyph of Warding, Greater|Glyph of Warding, Greater]] [preparada::0] 
+	- As glyph of warding, but up to 10d8 damage or 6th-level spell. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Harm|Harm]] [preparada::0] 
+	- Deals 10 points/level damage to target. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Heal|Heal]] [preparada::0] 
+	- Cures 10 points/level of damage, all diseases and mental conditions. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Heroes' Feast|Heroes' Feast]] [preparada::0] 
+	- Food for one creature/level cures and grants combat bonuses. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Heroes' Feast m|Heroes' Feast m]] [preparada::0] 
+	- ** Food for one creature/level cures and grants combat bonuses. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Inflict Moderate Wounds, Mass|Inflict Moderate Wounds, Mass]] [preparada::0] 
+	- Deals 2d8 damage +1/level to many creatures. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Owl's Wisdom, Mass|Owl's Wisdom, Mass]] [preparada::0] 
+	- As owl’s wisdom, affects one subject/ level. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Planar Ally|Planar Ally]] [preparada::0] 
+	- As lesser planar ally, but up to 12 HD. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Planar Ally XP|Planar Ally XP]] [preparada::0] 
+	- ** As lesser planar ally, but up to 12 HD. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Summon Monster VI|Summon Monster VI]] [preparada::0] 
+	- Calls extraplanar creature to fight for you. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Symbol of Fear|Symbol of Fear]] [preparada::0] 
+	- Triggered rune panics nearby creatures. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Symbol of Persuasion|Symbol of Persuasion]] [preparada::0] 
+	- Triggered rune charms nearby creatures. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Undeath to Death|Undeath to Death]] [preparada::0] 
+	- Destroys 1d4/level HD of undead (max 20d4). ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Wind Walk|Wind Walk]] [preparada::0] 
+	- You and your allies turn vaporous and travel fast. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Word of Recall|Word of Recall]] [preparada::0] 
+	- Teleports you back to designated place. ^onelinedescription
+
+### Level 07
+- [ ] [[DNDSRD/35eSRD/Spells/Control Weather|Control Weather]] [preparada::0] 
+	- Changes weather in local area. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Cure Serious Wounds, Mass|Cure Serious Wounds, Mass]] [preparada::0] 
+	- Cures 3d8 damage +1/level for many creatures. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Destruction|Destruction]] [preparada::0] 
+	- Kills subject and destroys remains. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Dictum|Dictum]] [preparada::0] 
+	- Kills, paralyzes, slows, or deafens nonlawful subjects. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Ethereal Jaunt|Ethereal Jaunt]] [preparada::0] 
+	- You become ethereal for 1 round/level. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Holy Word|Holy Word]] [preparada::0] 
+	- Kills, paralyzes, blinds, or deafens nongood subjects. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Inflict Serious Wounds, Mass|Inflict Serious Wounds, Mass]] [preparada::0] 
+	- Deals 3d8 damage +1/level to many creatures. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Psychic Turmoil, Greater|Psychic Turmoil, Greater]] [preparada::0] 
+	- ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Refuge|Refuge]] [preparada::0] 
+	- Alters item to transport its possessor to you. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Regenerate|Regenerate]] [preparada::0] 
+	- Subject’s severed limbs grow back, cures 4d8 damage +1/level (max +35). ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Repulsion|Repulsion]] [preparada::0] 
+	- Creatures can’t approach you. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Restoration, Greater|Restoration, Greater]] [preparada::0] 
+	- As restoration, plus restores all levels and ability scores. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Restoration, Greater XP|Restoration, Greater XP]] [preparada::0] 
+	- ** As restoration, plus restores all levels and ability scores. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Resurrection|Resurrection]] [preparada::0] 
+	- Fully restore dead subject. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Scrying, Greater|Scrying, Greater]] [preparada::0] 
+	- As scrying, but faster and longer. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Summon Monster VII|Summon Monster VII]] [preparada::0] 
+	- Calls extraplanar creature to fight for you. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Symbol of Stunning|Symbol of Stunning]] [preparada::0] 
+	- Triggered rune stuns nearby creatures. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Symbol of Weakness|Symbol of Weakness]] [preparada::0] 
+	- Triggered rune weakens nearby creatures. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Word of Chaos|Word of Chaos]] [preparada::0] 
+	- Kills, confuses, stuns, or deafens nonchaotic subjects. ^onelinedescription
+
+### Level 08
+- [ ] [[DNDSRD/35eSRD/Spells/Antimagic Field|Antimagic Field]] [preparada::0] 
+	- Negates magic within 10 ft. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Brain Spider|Brain Spider]] [preparada::0] 
+	- ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Cloak of Chaos|Cloak of Chaos]] [preparada::0] 
+	- +4 to AC, +4 resistance, and SR 25 against lawful spells. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Cure Critical Wounds, Mass|Cure Critical Wounds, Mass]] [preparada::0] 
+	- Cures 4d8 damage +1/level for many creatures. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Dimensional Lock|Dimensional Lock]] [preparada::0] 
+	- Teleportation and interplanar travel blocked for one day/level. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Discern Location|Discern Location]] [preparada::0] 
+	- Reveals exact location of creature or object. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Earthquake|Earthquake]] [preparada::0] 
+	- Intense tremor shakes 80-ft.-radius. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Fire Storm|Fire Storm]] [preparada::0] 
+	- Deals 1d6/level fire damage. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Holy Aura|Holy Aura]] [preparada::0] 
+	- +4 to AC, +4 resistance, and SR 25 against evil spells. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Inflict Critical Wounds, Mass|Inflict Critical Wounds, Mass]] [preparada::0] 
+	- Deals 4d8 damage +1/level to many creatures. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Planar Ally, Greater|Planar Ally, Greater]] [preparada::0] 
+	- As lesser planar ally, but up to 18 HD. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Planar Ally, Greater XP|Planar Ally, Greater XP]] [preparada::0] 
+	- undefined
+- [ ] [[DNDSRD/35eSRD/Spells/Shield of Law|Shield of Law]] [preparada::0] 
+	- +4 to AC, +4 resistance, and SR 25 against chaotic spells. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Spell Immunity, Greater|Spell Immunity, Greater]] [preparada::0] 
+	- As spell immunity, but up to 8th-level spells. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Summon Monster VIII|Summon Monster VIII]] [preparada::0] 
+	- Calls extraplanar creature to fight for you. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Symbol of Death|Symbol of Death]] [preparada::0] 
+	- Triggered rune slays nearby creatures. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Symbol of Insanity|Symbol of Insanity]] [preparada::0] 
+	- Triggered rune renders nearby creatures insane. ^onelinedescription
+
+### Level 09
+- [ ] [[DNDSRD/35eSRD/Spells/Astral Projection|Astral Projection]] [preparada::0] 
+	- Projects you and companions onto Astral Plane. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Energy Drain|Energy Drain]] [preparada::0] 
+	- Subject gains 2d4 negative levels. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Etherealness|Etherealness]] [preparada::0] 
+	- Travel to Ethereal Plane with companions. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Gate|Gate]] [preparada::0] 
+	- Connects two planes for travel or summoning. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Gate XP|Gate XP]] [preparada::0] 
+	- ** Connects two planes for travel or summoning. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Heal, Mass|Heal, Mass]] [preparada::0] 
+	- As heal, but with several subjects. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Implosion|Implosion]] [preparada::0] 
+	- Kills one creature/round. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Miracle|Miracle]] [preparada::0] 
+	- Requests a deity’s intercession. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Miracle XP|Miracle XP]] [preparada::0] 
+	- ** Requests a deity’s intercession. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Soul Bind|Soul Bind]] [preparada::0] 
+	- Traps newly dead soul to prevent resurrection. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Storm of Vengeance|Storm of Vengeance]] [preparada::0] 
+	- Storm rains acid, lightning, and hail. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Summon Monster IX|Summon Monster IX]] [preparada::0] 
+	- Calls extraplanar creature to fight for you. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/True Resurrection|True Resurrection]] [preparada::0] 
+	- As resurrection, plus remains aren’t needed. ^onelinedescription
+
+
+
+
+---
+[[personagem|personagem]] [[NPC|NPC]] 
