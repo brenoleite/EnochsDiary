@@ -7,15 +7,13 @@
 | [[EnochsDiary\|Home]] | [[Criaturas/Dragao Vermelho|Dragao Vermelho]] | [[Personagens/Jorkman|Jorkman]]
 
 # [[Quests/Caverna do Dragão|Caverna do Dragão]]
+### Gatilho
 Mais ou menos 6 meses após derrotarmos o [[Personagens/Nemis - O demonio|Nemis]], recebi notícias de que [[Personagens/Li|Li]] precisava reunir a tríade novamente.
 
 [[Ravim|Ravim]], o líder de um bando de centauros que encontramos quando íamos para [[Mundo/Cidade de Nemis|Cidade de Nemis]], o encontrou e confidenciou nele que a cidade élfica de [[Mundo/Etiei|Etiei]] estava em perigo, sendo ameaçada por um [[Criaturas/Dragao Vermelho|Dragao Vermelho]], e que a [[Rainha Averduia|Rainha Averduia]] clama por ajuda.
 
-### Gatilho
-
-
 ### Objetivo
-
+Derrotar o [[Criaturas/Dragao Vermelho|Dragao Vermelho]] conhecido como [[Personagens/Jorkman|Jorkman]], e libertar a cidade, e o povo élfico de sua opressão.
 
 
 ### Progresso
