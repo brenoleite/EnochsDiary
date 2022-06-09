@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/personagens/josias/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-
-# [[Personagens/Josias|Josias]]
+[[EnochsDiary|Home]] | [[Personagens/Enoch|Enoch]] | [[Personagens/triade|Tríade]] 
+# [[Personagens/Josias|Josias]] ([[Ficha Auxiliar Josias|Ficha]])
 **nome**: Josias
 **alias**: 
 **raça**: Humano
@@ -194,10 +194,8 @@ Dominios: Good, Healing
 ### Level 03
 - [ ] [[DNDSRD/35eSRD/Spells/Bestow Curse|Bestow Curse]] [preparada::0] 
 	- -6 to an ability score; -4 on attack rolls, saves, and checks; or 50% chance of losing each action. ^onelinedescription
-- [ ] [[DNDSRD/35eSRD/Spells/Blindness_Deafness|Blindness_Deafness]] [preparada::0] 
+- [ ] [[DNDSRD/35eSRD/Spells/Blindness_Deafness m|Blindness_Deafness]] [preparada::0] 
 	- Makes subject blind or deaf. ^onelinedescription
-- [ ] [[DNDSRD/35eSRD/Spells/Blindness_Deafness m|Blindness_Deafness m]] [preparada::0] 
-	- ** Makes subject blind or deaf. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Continual Flame|Continual Flame]] [preparada::0] 
 	- Makes a permanent, heatless torch. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Create Food and Water|Create Food and Water]] [preparada::0] 
@@ -352,7 +350,7 @@ Dominios: Good, Healing
 	- Restores life to subject who died as long as one day/level ago. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Righteous Might|Righteous Might]] [preparada::0] 
 	- Your size increases, and you gain combat bonuses. ^onelinedescription
-- [ ] [[DNDSRD/35eSRD/Spells/Scrying|Scrying]] [preparada::1] 
+- [ ] [[DNDSRD/35eSRD/Spells/Scrying m|Scrying]] [preparada::1] 
 	- Spies on subject from a distance. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Slay Living|Slay Living]] [preparada::0] 
 	- Touch attack kills subject. ^onelinedescription
