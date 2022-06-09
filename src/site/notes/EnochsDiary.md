@@ -13,6 +13,8 @@ Com a ajuda destas páginas, pratico parte da minha meditação diária como for
 **Quest Atual:** [[Quests/Caverna do Dragão|Caverna do Dragão]]
 **Quests em aberto:** [[Quests/Exercito de Heironeous|Exército de Heironeous]]
 **Quests concluídas:** [[Quests/Destruir o Demonio Nemis|Destruir o Demonio Nemis]] 
+<br>
+**Grupo**: [[Personagens/triade|Tríade]] 
 
 ## Meus dias
 [[Journal/Enoch/Log Do dia 4720-1-16|Log Do dia 4720-1-16]]
