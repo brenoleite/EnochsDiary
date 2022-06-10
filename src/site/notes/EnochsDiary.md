@@ -29,6 +29,12 @@ Com a ajuda destas páginas, pratico parte da minha meditação diária como for
 <br>
 [[Journal/Enoch/Log Diario 4720-8-1|Log do dia 4720-08-01]]
 [[Journal/Enoch/Log do dia 4720-08-02|Log do dia 4720-08-02]]
+[[Journal/Enoch/Log do dia 4720-08-03|Log do dia 4720-08-03]]
+[[Journal/Enoch/Log do dia 4720-08-04|Log do dia 4720-08-04]]
+[[Journal/Enoch/Log do dia 4720-08-05|Log do dia 4720-08-05]]
+[[Journal/Enoch/Log do dia 4720-08-06|Log do dia 4720-08-06]]
+[[Journal/Enoch/Log do dia 4720-08-07|Log do dia 4720-08-07]]
+
 
 
 ## Eventos memoráveis
