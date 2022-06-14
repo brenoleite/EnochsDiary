@@ -10,10 +10,10 @@ Durante o combate josias consegue apenas usar magias como as de cura
 ### Magias Preparadas para o dia
 ##### Level 00 (6)
 - [ ] [[DNDSRD/35eSRD/Spells/Detect Magic|Detect Magic]] [preparada::1]
-	- Detects spells and magic items within 60 ft. ^onelinedescription
+	- Detects spells and magic items within 60 [[DNDSRD/35eSRD/Definicoes/ft|ft]]. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Detect Poison|Detect Poison]] [preparada::1]
 	- Detects poison in one creature or small object. ^onelinedescription
-- [ ] [[DNDSRD/35eSRD/Spells/Light|Light]] [preparada::1]
+- [ ] [[DNDSRD/35eSRD/Spells/Light.md|Light]] [preparada::1]
 	- Object shines like a torch. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Mending|Mending]] [preparada::1]
 	- Makes minor repairs on an object. ^onelinedescription
@@ -48,7 +48,7 @@ Durante o combate josias consegue apenas usar magias como as de cura
 - [ ] [[DNDSRD/35eSRD/Spells/Make Whole|Make Whole]] [preparada::1]
 	- Repairs an object. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Silence|Silence]] [preparada::1]
-	- Negates sound in 20-ft. radius. ^onelinedescription
+	- Negates sound in 20-[[DNDSRD/35eSRD/Definicoes/ft|ft]]. radius. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Status|Status]] [preparada::1]
 	- Monitors condition, position of allies. ^onelinedescription
 ##### Level 03 (4+1)
@@ -56,7 +56,7 @@ Durante o combate josias consegue apenas usar magias como as de cura
 	- Cures 3d8 damage +1/level (max +15). ^onelinedescription
 :--:
 - [ ] [[DNDSRD/35eSRD/Spells/Daylight|Daylight]] [preparada::1]
-	- 60-ft. radius of bright light. ^onelinedescription
+	- 60-[[DNDSRD/35eSRD/Definicoes/ft|ft]]. radius of bright light. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Dispel Magic|Dispel Magic]] [preparada::1]
 	- Cancels magical spells and effects. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Locate Object|Locate Object]] [preparada::1]
@@ -75,15 +75,15 @@ Durante o combate josias consegue apenas usar magias como as de cura
 	- Delivers short message anywhere, instantly. ^onelinedescription
 ##### Level 05 (2+1)
 - [ ] [[DNDSRD/35eSRD/Spells/Cure Light Wounds, Mass|Cure Light Wounds, Mass ]] [preparada::1]  
-	- ** Cures 1d8 damage +1/level for one creature/level, no two of which can be more than 30 ft. apart. ^onelinedescription
+	- ** Cures 1d8 damage +1/level for one creature/level, no two of which can be more than 30 [[DNDSRD/35eSRD/Definicoes/ft|ft]]. apart. ^onelinedescription
 :--:
 - [ ] [[DNDSRD/35eSRD/Spells/Break Enchantment|Break Enchantment]] [preparada::1]
 	- Frees subjects from enchantments, alterations, curses, and petrification. ^onelinedescription
-- [ ] [[DNDSRD/35eSRD/Spells/Scrying m|Scrying]] [preparada::1]
+- [ ] [[DNDSRD/35eSRD/Definicoes/Magic Descriptions/Scrying|Scrying]] [preparada::1]
 	- Spies on subject from a distance. ^onelinedescription
 
 
-#### Magias de Healing
+#### Magias da SubEscola Healing
 ##### Level 00
 - [ ] [[DNDSRD/35eSRD/Spells/Cure Minor Wounds|Cure Minor Wounds]] 
 	- Cures 1 point of damage. ^onelinedescription
@@ -121,16 +121,18 @@ Durante o combate josias consegue apenas usar magias como as de cura
 ##### Level 05
 - [ ] [[DNDSRD/35eSRD/Spells/Raise Dead|Raise Dead]] 
 	- Restores life to subject who died as long as one day/level ago. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Cure Light Wounds, Mass|Cure Light Wounds, Mass]]
+	- Cures 1d8 damage +1/level for one creature/level, no two of which can be more than 30 [[DNDSRD/35eSRD/Definicoes/ft|ft]]. apart.
 
 ##### Level 06
 - [ ] [[DNDSRD/35eSRD/Spells/Cure Moderate Wounds, Mass|Cure Moderate Wounds, Mass]] 
-	- Cures 2d8 damage +1/level for one creature/level, no two of which can be more than 30 ft. apart. ^onelinedescription
+	- Cures 2d8 damage +1/level for one creature/level, no two of which can be more than 30 [[DNDSRD/35eSRD/Definicoes/ft|ft]]. apart. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Heal|Heal]] 
 	- Cures 10 points/level of damage, all diseases and mental conditions. ^onelinedescription
 
 ##### Level 07
 - [ ] [[DNDSRD/35eSRD/Spells/Cure Serious Wounds, Mass|Cure Serious Wounds, Mass]] 
-	- Cures 3d8 damage +1/level for one creature/level, no two of which can be more than 30 ft. apart. ^onelinedescription
+	- Cures 3d8 damage +1/level for one creature/level, no two of which can be more than 30 [[DNDSRD/35eSRD/Definicoes/ft|ft]]. apart. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Regenerate|Regenerate]] 
 	- Subject’s severed limbs grow back, cures 4d8 damage +1/level (max +35). ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Restoration, Greater|Restoration, Greater]] 
@@ -140,7 +142,7 @@ Durante o combate josias consegue apenas usar magias como as de cura
 
 ##### Level 08
 - [ ] [[DNDSRD/35eSRD/Spells/Cure Critical Wounds, Mass|Cure Critical Wounds, Mass]] 
-	- Cures 4d8 damage +1/level for one creature/level, no two of which can be more than 30 ft. apart. ^onelinedescription
+	- Cures 4d8 damage +1/level for one creature/level, no two of which can be more than 30 [[DNDSRD/35eSRD/Definicoes/ft|ft]]. apart. ^onelinedescription
 
 ##### Level 09
 - [ ] [[DNDSRD/35eSRD/Spells/Heal, Mass|Heal, Mass]] 
