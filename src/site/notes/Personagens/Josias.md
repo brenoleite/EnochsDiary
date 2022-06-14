@@ -24,21 +24,33 @@ Josias terminou se treinamento de clérigo de [[Pelor|Pelor]] aos 21 anos de ida
 
 Aos 25 anos já era conhecido por toda a [[Mundo/Teia|Teia]] por seus feitos e poder. Muitos acreditavam que em seu futuro estava a cadeira do Sumo sacerdote de [[Pelor|Pelor]].
 
-Porém, como [[Nimbi|Nimbi]] já havia dito antes mesmo da criação do mundo. É impossível prever com exatidão perfeita o futuro, e um simples ato, como o bater das asas de um borboleta, pode gerar ramificações inimagináveis e de enormes proporções.
+Porém, como [[Nimbi|Nimbi]] já havia dito, é impossível prever o futuro com exatidão perfeita, e um simples bater de asas de um borboleta, pode gerar ramificações inimagináveis e de enormes proporções.
 
-Quando [[Personagens/Josias|Josias]] tinha 37 anos de idade, o seu poder e sua fama já eram tamanhos, que muitos malfeitores ao ouvirem que ele é quem havia sido designado para lidar eles, já abandonavam os seus esquemas fugiam. Porém isso fez com que ele começasse a ser descuidado e arrogante. Ou talvez não fosse arrogância, mas o fato é que ele começou a não levar os seus oponentes tão a sério, até o dia em que ele subestimou o adversário errado e toda sua vida mudou completamente.
+Quando ele tinha 37 anos de idade, o seu poder e sua fama eram tamanhos, que muitos malfeitores ao ouvirem que [[Personagens/Josias|Josias]] havia sido designado para lidar eles, já abandonavam os seus esquemas fugiam. 
 
-Os eventos do dia que mudou a vida de [[Personagens/Josias|Josias]] foram tão dramáticos, e causaram um trauma tão profundo nele, que mesmo quase 20 anos após o ocorrido ele não é capaz de conversar sobre o ocorrido e relatar o que ocorreu. Como ele foi o único sobrevivente, os detalhes continuam um mistério para todos.
+Isso, no entanto, fez com que [[Personagens/Josias|Josias]] começasse a ser descuidado e arrogante. Ou talvez não fosse arrogância, mas o fato é que ele começou a não levar os seus oponentes tão a sério, até o dia em que ele subestimou o adversário errado e toda sua vida mudou completamente.
 
-O que se sabe, porém, é que naquele dia um imensa energia foi liberada por [[Personagens/Josias|Josias]], ou próximo a ele, e desde então ele está imbuído de uma magia [[DNDSRD/35eSRD/Spells/Sanctuary|santuário]] poderosíssima, não sendo ele capaz de atacar e nem ser atacado fisicamente por qualquer criatura, e todo conhecimento prático de magia de batalha parece ter sumido de sua mente. Ele conhece todas as magias, porém não é capaz de conjurá-las... as palavras não lhe vêem a mente na hora, suas mãos simplesmente se negam a fazer os gestos...
+Os eventos do dia que mudou a vida de [[Personagens/Josias|Josias]] foram tão dramáticos, e causaram um trauma tão profundo nele, que mesmo hoje, quase 20 anos após o ocorrido, ele mal é capaz de conversar sobre o ocorrido, muito menos de relatar o que ocorreu. Como ele foi o único sobrevivente, os detalhes continuam um mistério para todos.
 
-Durante os primeiros 2 anos após o ocorrido, [[Personagens/Josias|Josias]] se afastou de todos os seus conhecidos, se mantendo em oração a maior parte do tempo. Comia o mínimo necessário para se manter vivo, e mesmo assim apenas com muita insistência de outros clérigos e colegas do monastério onde ele se refugiou.
+O que se sabe, porém, é que naquele dia um imensa energia foi liberada por [[Personagens/Josias|Josias]], ou algo muito próximo a ele, e desde então ele está imbuído de uma magia [[DNDSRD/35eSRD/Spells/Sanctuary|santuário]] poderosíssima, não sendo ele capaz de atacar e nem ser atacado fisicamente por qualquer criatura, e todo o seu conhecimento prático de magia de batalha parece ter simplesmente sumido de sua mente. 
+
+Ele conhece todas as magias, porém não é capaz de conjurá-las... as palavras não lhe vêem a mente na hora, suas mãos simplesmente se negam a fazer os gestos...
+
+Durante os primeiros 2 anos após o ocorrido, [[Personagens/Josias|Josias]] foi para o santuário de [[Pelor|Pelor]] localizado na cidade de Nemis, e se afastou de todos os seus conhecidos. Durante este período ele se manteve em oração a maior parte do tempo. Comia o mínimo necessário para se manter vivo, e mesmo assim apenas por insistência de outros clérigos e colegas do santuário onde ele se refugiou.
 
 Com o passar do tempo, aos poucos, e dentro de suas limitações recentes, ele foi retomando as suas responsabilidades como clérigo de [[Pelor|Pelor]]. 13 anos após o ocorrido, ele até mesmo começou a ser capaz de ficar próximo de batalhas para fornecer cura aos seus aliados e outras ajudas necessárias. Para quem não o conhecia antes, ele levava uma vida completamente normal.
 
-[[Personagens/Josias|Josias]] estava perfeitamente contente com sua vida, até o dia em que a sua cidade [[Mundo/Cidade de Nemis|Nemis]] voltou a ser ameaçada pelo [[Personagens/Nemis - O demonio|Nemis - O demonio]]. Nos dias que antecederam o ataque de fato do Demonio, a cidade começou a ser assolada por ataques de demonios menores, e o sofrimento e a dor assolaram a sua cidade. [[Personagens/Josias|Josias]] presenciado todo o sofrimento, começou a ficar cada dia mais incomodado, sua inabilidade de fazer qualquer coisa contra esse mal começou a incomodá-lo de tal forma que ele já não dormia mais a noite. Ele já fora um dos maiores guerreiros de [[Mundo/Teia|Teia]] e agora mal era capaz de segurar uma maça. E o Demonio iria destruir sua cidade sem que ele conseguisse fazer para evitar.
+Passados 17 anos, o seu poder era apenas uma fração do que já fora um dia, mas [[Personagens/Josias|Josias]] estava perfeitamente contente com sua vida.
 
-Quando o demônio chegou à cidade ele decidiu que ele precisava fazer MAIS. Assim ele foi ao templo de [[Personagens/Heironeous|Heironeous]], pois tinha ficado sabendo que um grupo de fortes aventureiros que estavam de alguma forma tentanto impedir Nemis, estavam se abrigando lá, e ele ia fazer de tudo para ajudá-los nessa batalha.
+Mas o destino ainda não havia terminado com [[Personagens/Josias|Josias]], e o seu contentamento durou apenas até o dia em que a sua cidade, [[Mundo/Cidade de Nemis|Nemis]], voltou a ser ameaçada pelo [[Personagens/Nemis - O demonio|Nemis - O demonio]]. 
+
+Nos dias que antecederam o ataque em si, a cidade começou a ser assolada por demonios menores, e o sofrimento e a dor assolaram a sua cidade. 
+
+[[Personagens/Josias|Josias]] presenciado todo o sofrimento, começou a ficar cada dia mais incomodado. Sua inabilidade de fazer qualquer coisa contra esse mal começou a "comê-lo vivo", de tal forma que ele já não dormia mais a noite. 
+
+Ele, que já fora um dos maiores guerreiros de [[Mundo/Teia|Teia]], agora mal era capaz de segurar uma maça. E, por causa de sua fraqueza, o Demonio iria destruir sua cidade sem que ele conseguisse fazer nada para evitar.
+
+Quando o demônio chegou à cidade ele percebeu que ele precisava fazer MAIS. Não aguentava mais se sentir um inútil. Se lembrou que há alguns dias ficara sabendo do grupo de grandes aventureiros hospedados no templo de [[Personagens/Heironeous|Heironeous]] e que buscavam uma forma de impedir Nemis. Saiu em disparada para lá decidido que iria fazer de tudo para ajudá-los nessa batalha.
 
 Pouco tempo depois ele se juntou à tríade.
 
@@ -54,7 +66,7 @@ Pouco tempo depois ele se juntou à tríade.
 - [ ] [[DNDSRD/35eSRD/Spells/Cure Critical Wounds|Cure Critical Wounds]] [preparada::1]   
 	- Cures 4d8 damage +1/level (max +20). ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Cure Light Wounds, Mass|Cure Light Wounds, Mass ]] [preparada::1]   
-	- ** Cures 1d8 damage +1/level for one creature/level, no two of which can be more than 30 ft. apart. ^onelinedescription
+	- ** Cures 1d8 damage +1/level for one creature/level, no two of which can be more than 30 [[DNDSRD/35eSRD/Definicoes/ft|ft]]. apart. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Heal|Heal]] [preparada::0]   
 	- Cures 10 points/level of damage, all diseases and mental conditions. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Regenerate|Regenerate]] [preparada::0]   
@@ -70,7 +82,7 @@ Pouco tempo depois ele se juntou à tríade.
 - [ ] [[DNDSRD/35eSRD/Spells/Aid|Aid]] [preparada::0] 
 	- +1 on attack rolls and saves against fear, 1d8 temporary hp +1/level (max +10). ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Magic Circle against Evil|Magic Circle against Evil]] [preparada::0] 
-	- As protection from evil, but 10-ft. radius and 10 min./level. ^onelinedescription
+	- As protection from evil, but 10-[[DNDSRD/35eSRD/Definicoes/ft|ft]]. radius and 10 min./level. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Holy Smite|Holy Smite]] [preparada::0] 
 	- ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Dispel Evil|Dispel Evil]] [preparada::0] 
@@ -90,19 +102,19 @@ Pouco tempo depois ele se juntou à tríade.
 - [ ] [[DNDSRD/35eSRD/Spells/Cure Minor Wounds|Cure Minor Wounds]] [preparada::0] 
 	- Cures 1 point of damage. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Detect Magic|Detect Magic]] [preparada::1] 
-	- Detects spells and magic items within 60 ft. ^onelinedescription
+	- Detects spells and magic items within 60 [[DNDSRD/35eSRD/Definicoes/ft|ft]]. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Detect Poison|Detect Poison]] [preparada::1] 
 	- Detects poison in one creature or small object. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Guidance|Guidance]] [preparada::0] 
 	- +1 on one attack roll, saving throw, or skill check. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Inflict Minor Wounds|Inflict Minor Wounds]] [preparada::0] 
 	- Touch attack, 1 point of damage. ^onelinedescription
-- [ ] [[DNDSRD/35eSRD/Spells/Light|Light]] [preparada::1] 
+- [ ] [[DNDSRD/35eSRD/Spells/Light.md|Light]] [preparada::1] 
 	- Object shines like a torch. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Mending|Mending]] [preparada::1] 
 	- Makes minor repairs on an object. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Purify Food and Drink|Purify Food and Drink]] [preparada::0] 
-	- Purifies 1 cu. ft./level of food or water. ^onelinedescription
+	- Purifies 1 cu. [[DNDSRD/35eSRD/Definicoes/ft|ft]]./level of food or water. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Read Magic|Read Magic]] [preparada::1] 
 	- Read scrolls and spellbooks. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Resistance|Resistance]] [preparada::1] 
@@ -134,7 +146,7 @@ Pouco tempo depois ele se juntou à tríade.
 - [ ] [[DNDSRD/35eSRD/Spells/Detect Law|Detect Law]] [preparada::0] 
 	- Reveals creatures, spells, or objects of selected alignment. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Detect Undead|Detect Undead]] [preparada::0] 
-	- Reveals undead within 60 ft. ^onelinedescription
+	- Reveals undead within 60 [[DNDSRD/35eSRD/Definicoes/ft|ft]]. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Divine Favor|Divine Favor]] [preparada::0] 
 	- You gain +1 per three levels on attack and damage rolls. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Doom|Doom]] [preparada::0] 
@@ -186,7 +198,7 @@ Pouco tempo depois ele se juntou à tríade.
 - [ ] [[DNDSRD/35eSRD/Spells/Cure Moderate Wounds|Cure Moderate Wounds]] [preparada::0] 
 	- Cures 2d8 damage +1/level (max +10). ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Darkness|Darkness]] [preparada::0] 
-	- 20-ft. radius of supernatural shadow. ^onelinedescription
+	- 20-[[DNDSRD/35eSRD/Definicoes/ft|ft]]. radius of supernatural shadow. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Death Knell|Death Knell]] [preparada::0] 
 	- Kills dying creature; you gain 1d8 temporary hp, +2 to Str, and +1 level. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Delay Poison|Delay Poison]] [preparada::0] 
@@ -194,7 +206,7 @@ Pouco tempo depois ele se juntou à tríade.
 - [ ] [[DNDSRD/35eSRD/Spells/Eagle's Splendor|Eagle's Splendor]] [preparada::0] 
 	- Subject gains +4 to Cha for 1 min./level. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Enthrall|Enthrall]] [preparada::0] 
-	- Captivates all within 100 ft. + 10 ft./level. ^onelinedescription
+	- Captivates all within 100 [[DNDSRD/35eSRD/Definicoes/ft|ft]]. + 10 [[DNDSRD/35eSRD/Definicoes/ft|ft]]./level. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Find Traps|Find Traps]] [preparada::0] 
 	- Notice traps as a rogue does. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Gentle Repose|Gentle Repose]] [preparada::0] 
@@ -211,7 +223,7 @@ Pouco tempo depois ele se juntou à tríade.
 	- Frees one or more creatures from paralysis or slow effect. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Resist Energy|Resist Energy]] [preparada::0] 
 	- Ignores first 10 (or more) points of damage/attack from specified energy type. ^onelinedescription
-- [ ] [[DNDSRD/35eSRD/Spells/Resist Energy m|Resist Energy m]] [preparada::0] 
+- [ ] [[DNDSRD/35eSRD/Spells/Resist Energy|Resist Energy m]] [preparada::0] 
 	- Ignores first 10 (or more) points of damage/attack from specified energy type. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Restoration, Lesser|Restoration, Lesser]] [preparada::0] 
 	- Dispels magical ability penalty or repairs 1d4 ability damage. ^onelinedescription
@@ -220,7 +232,7 @@ Pouco tempo depois ele se juntou à tríade.
 - [ ] [[DNDSRD/35eSRD/Spells/Shield Other|Shield Other]] [preparada::0] 
 	- You take half of subject’s damage. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Silence|Silence]] [preparada::1] 
-	- Negates sound in 20-ft. radius. ^onelinedescription
+	- Negates sound in 20-[[DNDSRD/35eSRD/Definicoes/ft|ft]]. radius. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Sound Burst|Sound Burst]] [preparada::0] 
 	- Deals 1d8 sonic damage to subjects; may stun them. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Spiritual Weapon|Spiritual Weapon]] [preparada::0] 
@@ -246,7 +258,7 @@ Pouco tempo depois ele se juntou à tríade.
 - [ ] [[DNDSRD/35eSRD/Spells/Cure Serious Wounds|Cure Serious Wounds]] [preparada::0] 
 	- Cures 3d8 damage +1/level (max +15). ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Daylight|Daylight]] [preparada::1] 
-	- 60-ft. radius of bright light. ^onelinedescription
+	- 60-[[DNDSRD/35eSRD/Definicoes/ft|ft]]. radius of bright light. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Deeper Darkness|Deeper Darkness]] [preparada::0] 
 	- Object sheds supernatural shadow in 60-ft. radius. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Dispel Magic|Dispel Magic]] [preparada::1] 
@@ -279,7 +291,7 @@ Pouco tempo depois ele se juntou à tríade.
 	- Absorb 12 points/level of damage from one kind of energy. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Remove Blindness_Deafness|Remove Blindness_Deafness]] [preparada::0] 
 	- Cures normal or magical conditions. ^onelinedescription
-- [ ] [[DNDSRD/35eSRD/Spells/Remove Blindness_Deafness m|Remove Blindness_Deafness m]] [preparada::0] 
+- [ ] [[DNDSRD/35eSRD/Spells/Remove Blindness_Deafness|Remove Blindness_Deafness m]] [preparada::0] 
 	- ** Cures normal or magical conditions. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Remove Curse|Remove Curse]] [preparada::1] 
 	- Frees object or person from curse. ^onelinedescription
@@ -337,7 +349,7 @@ Pouco tempo depois ele se juntou à tríade.
 	- Immunizes subject against poison, detoxifies venom in or on subject. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Planar Ally, Lesser|Planar Ally, Lesser]] [preparada::0] 
 	- Exchange services with a 6 HD extraplanar creature. ^onelinedescription
-- [ ] [[DNDSRD/35eSRD/Spells/Planar Ally, Lesser XP|Planar Ally, Lesser XP]] [preparada::0] 
+- [ ] [[DNDSRD/35eSRD/Spells/Planar Ally, Lesser|Planar Ally, Lesser XP]] [preparada::0] 
 	- Exchange services with a 6 HD extraplanar creature. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Poison|Poison]] [preparada::0] 
 	- Touch deals 1d10 Con damage, repeats in 1 min. ^onelinedescription
@@ -356,17 +368,15 @@ Pouco tempo depois ele se juntou à tríade.
 
 ### Level 05
 - [ ] [[DNDSRD/35eSRD/Spells/Atonement XP|Atonement XP]] [preparada::0] 
-	- ** Removes burden of misdeeds from subject. ^onelinedescription
+	- Removes burden of misdeeds from subject. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Break Enchantment|Break Enchantment]] [preparada::1] 
 	- Frees subjects from enchantments, alterations, curses, and petrification. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Command, Greater|Command, Greater]] [preparada::0] 
 	- As command, but affects one subject/level. ^onelinedescription
-- [ ] [[DNDSRD/35eSRD/Spells/Commune XP|Commune XP]] [preparada::0] 
-	- ** Deity answers one yes-or-no question/level. ^onelinedescription
-- [ ] [[DNDSRD/35eSRD/Spells/Cure Light Wounds, Mass|Cure Light Wounds, Mass]] [preparada::0] 
-	- Cures 1d8 damage +1/level for many creatures. ^onelinedescription
+- [ ] [[DNDSRD/35eSRD/Spells/Commune|Commune XP]] [preparada::0] 
+	- Deity answers one yes-or-no question/level. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Cure Light Wounds, Mass|Cure Light Wounds, Mass ]] [preparada::0] 
-	- ** Cures 1d8 damage +1/level for one creature/level, no two of which can be more than 30 ft. apart. ^onelinedescription
+	- Cures 1d8 damage +1/level for one creature/level, no two of which can be more than 30 ft. apart. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Dispel Chaos|Dispel Chaos]] [preparada::0] 
 	- +4 bonus against attacks by chaotic creatures. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Dispel Evil|Dispel Evil]] [preparada::0] 
@@ -377,7 +387,7 @@ Pouco tempo depois ele se juntou à tríade.
 	- Melee weapon destroys undead. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Flame Strike|Flame Strike]] [preparada::0] 
 	- Smite foes with divine fire (1d6/level damage). ^onelinedescription
-- [ ] [[DNDSRD/35eSRD/Spells/Hallow m|Hallow]] [preparada::0] 
+- [ ] [[DNDSRD/35eSRD/Spells/Hallow|Hallow]] [preparada::0] 
 	- Designates location as holy. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Inflict Light Wounds, Mass|Inflict Light Wounds, Mass]] [preparada::0] 
 	- Deals 1d8 damage +1/level to many creatures. ^onelinedescription
@@ -393,7 +403,7 @@ Pouco tempo depois ele se juntou à tríade.
 	- Restores life to subject who died as long as one day/level ago. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Righteous Might|Righteous Might]] [preparada::0] 
 	- Your size increases, and you gain combat bonuses. ^onelinedescription
-- [ ] [[DNDSRD/35eSRD/Spells/Scrying m|Scrying]] [preparada::1] 
+- [ ] [[DNDSRD/35eSRD/Definicoes/Magic Descriptions/Scrying|Scrying]] [preparada::1] 
 	- Spies on subject from a distance. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Slay Living|Slay Living]] [preparada::0] 
 	- Touch attack kills subject. ^onelinedescription
@@ -441,7 +451,7 @@ Pouco tempo depois ele se juntou à tríade.
 	- Cures 10 points/level of damage, all diseases and mental conditions. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Heroes' Feast|Heroes' Feast]] [preparada::0] 
 	- Food for one creature/level cures and grants combat bonuses. ^onelinedescription
-- [ ] [[DNDSRD/35eSRD/Spells/Heroes' Feast m|Heroes' Feast m]] [preparada::0] 
+- [ ] [[DNDSRD/35eSRD/Spells/Heroes' Feast|Heroes' Feast m]] [preparada::0] 
 	- ** Food for one creature/level cures and grants combat bonuses. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Inflict Moderate Wounds, Mass|Inflict Moderate Wounds, Mass]] [preparada::0] 
 	- Deals 2d8 damage +1/level to many creatures. ^onelinedescription
@@ -449,7 +459,7 @@ Pouco tempo depois ele se juntou à tríade.
 	- As owl’s wisdom, affects one subject/ level. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Planar Ally|Planar Ally]] [preparada::0] 
 	- As lesser planar ally, but up to 12 HD. ^onelinedescription
-- [ ] [[DNDSRD/35eSRD/Spells/Planar Ally XP|Planar Ally XP]] [preparada::0] 
+- [ ] [[DNDSRD/35eSRD/Spells/Planar Ally|Planar Ally XP]] [preparada::0] 
 	- ** As lesser planar ally, but up to 12 HD. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Summon Monster VI|Summon Monster VI]] [preparada::0] 
 	- Calls extraplanar creature to fight for you. ^onelinedescription
@@ -489,7 +499,7 @@ Pouco tempo depois ele se juntou à tríade.
 	- Creatures can’t approach you. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Restoration, Greater|Restoration, Greater]] [preparada::0] 
 	- As restoration, plus restores all levels and ability scores. ^onelinedescription
-- [ ] [[DNDSRD/35eSRD/Spells/Restoration, Greater XP|Restoration, Greater XP]] [preparada::0] 
+- [ ] [[DNDSRD/35eSRD/Spells/Restoration, Greater|Restoration, Greater XP]] [preparada::0] 
 	- ** As restoration, plus restores all levels and ability scores. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Resurrection|Resurrection]] [preparada::0] 
 	- Fully restore dead subject. ^onelinedescription
@@ -527,7 +537,7 @@ Pouco tempo depois ele se juntou à tríade.
 	- Deals 4d8 damage +1/level to many creatures. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Planar Ally, Greater|Planar Ally, Greater]] [preparada::0] 
 	- As lesser planar ally, but up to 18 HD. ^onelinedescription
-- [ ] [[DNDSRD/35eSRD/Spells/Planar Ally, Greater XP|Planar Ally, Greater XP]] [preparada::0] 
+- [ ] [[DNDSRD/35eSRD/Spells/Planar Ally, Greater|Planar Ally, Greater XP]] [preparada::0] 
 	- undefined
 - [ ] [[DNDSRD/35eSRD/Spells/Shield of Law|Shield of Law]] [preparada::0] 
 	- +4 to AC, +4 resistance, and SR 25 against chaotic spells. ^onelinedescription
@@ -549,7 +559,7 @@ Pouco tempo depois ele se juntou à tríade.
 	- Travel to Ethereal Plane with companions. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Gate|Gate]] [preparada::0] 
 	- Connects two planes for travel or summoning. ^onelinedescription
-- [ ] [[DNDSRD/35eSRD/Spells/Gate XP|Gate XP]] [preparada::0] 
+- [ ] [[DNDSRD/35eSRD/Spells/Gate|Gate XP]] [preparada::0] 
 	- ** Connects two planes for travel or summoning. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Heal, Mass|Heal, Mass]] [preparada::0] 
 	- As heal, but with several subjects. ^onelinedescription
@@ -557,7 +567,7 @@ Pouco tempo depois ele se juntou à tríade.
 	- Kills one creature/round. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Miracle|Miracle]] [preparada::0] 
 	- Requests a deity’s intercession. ^onelinedescription
-- [ ] [[DNDSRD/35eSRD/Spells/Miracle XP|Miracle XP]] [preparada::0] 
+- [ ] [[DNDSRD/35eSRD/Spells/Miracle|Miracle XP]] [preparada::0] 
 	- ** Requests a deity’s intercession. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/Soul Bind|Soul Bind]] [preparada::0] 
 	- Traps newly dead soul to prevent resurrection. ^onelinedescription
