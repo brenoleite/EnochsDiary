@@ -9,7 +9,7 @@
 A segunda maior cidade e a segunda mais espiritualizada. É uma cidade muito cultural.
 
 ## Informações
-**Regente**: [[Conde Julian|Conde Julian]] (11º na linha de sucessão do trono)
+**Regente**: [[Personagens/Conde Julian|Conde Julian]] (11º na linha de sucessão do trono)
 **NPCs**:
  - [[Iuxor|Iuxor]] - paladino de [[Personagens/Heironeous|Heironeous]]
  - [[Elaine|Elaine]] - Sacerdotisa de [[Pelor|Pelor]] 
