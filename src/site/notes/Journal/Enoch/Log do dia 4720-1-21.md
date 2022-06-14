@@ -7,7 +7,7 @@
 [[Journal/Enoch/log do dia 4720-1-20|<- dia anterior]] | [[EnochsDiary\|Home]] | [[Journal/Enoch/4720-01-22 log diario|próximo dia ->]]
 
 # [[Journal/Enoch/Log do dia 4720-1-21|Log do dia 4720-1-21]]
-Após dormirmos o resto do dia anterior. Quando acordamos neste dia, já com as nossas forças renovadas, recebemos um convite para uma comemoração no templo de [[Personagens/Heironeous|Heironeous]] hoje a noite, fomos nos encontrar novamente com o [[Conde Julian|Conde Julian]].
+Após dormirmos o resto do dia anterior. Quando acordamos neste dia, já com as nossas forças renovadas, recebemos um convite para uma comemoração no templo de [[Personagens/Heironeous|Heironeous]] hoje a noite, fomos nos encontrar novamente com o [[Personagens/Conde Julian|Conde Julian]].
 O documento que ele havia entregado [[Personagens/Aladrail|Aladrail]] no dia anterior era uma carta dos organizadores de uma resistência contra a tirania de [[Hextor|Hextor]] que vinha ganhando força na [[Mundo/Cidade de Nemis|Cidade de Nemis]]. A carta mostrava claramente que podíamos confiar no conde.
 Ele nos passou uma forma de contactar esta resistência para mantermos contato e fortalecer nossos vínculos para impedir que os seguidores de [[Hextor|Hextor]] venham a causar mal ao meu grande deus [[Personagens/Heironeous|Heironeous]].
 Para contáctá-los, precisamos ir ao "**Alasão veloz**" e falar com o bartender:
