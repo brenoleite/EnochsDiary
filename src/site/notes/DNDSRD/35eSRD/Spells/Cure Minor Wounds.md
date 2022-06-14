@@ -5,7 +5,7 @@
 [[DeD 3.5|DeD 3.5]] [[magia|magia]]
 <a href="javascript:history.back()">⬅️ Voltar</a>
 # Cure Minor Wounds
-[[DNDSRD/35eSRD/Definicoes/Magic Schools/Conjuration|Conjuration]] ([[healing|healing]])  <s class="aside-hide">![[Cure Minor Wounds.png|Cure Minor Wounds.png]]</s>
+[[DNDSRD/35eSRD/Definicoes/Magic Descriptions/Conjuration|Conjuration]] ([[DNDSRD/35eSRD/Combat/HEALING|healing]])  <s class="aside-hide">![[Cure Minor Wounds.png|Cure Minor Wounds.png]]</s>
 **Level**:: Cleric0 Druid0 
 **Components**:: V S 
 **CastingTime**:: 1 standard 
