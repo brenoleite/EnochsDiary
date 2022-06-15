@@ -19,4 +19,4 @@ A failed saving throw indicates that a character fails to notice something is am
 - [[DNDSRD/35eSRD/Definicoes/Magic Descriptions/glamer|glamer]]
 - [[DNDSRD/35eSRD/Definicoes/Magic Descriptions/pattern|pattern]]
 - [[DNDSRD/35eSRD/Definicoes/Magic Descriptions/phantasm|phantasm]]
-- [[shadow|shadow]]
+- [[DNDSRD/35eSRD/Definicoes/Magic Descriptions/shadow|shadow]]
