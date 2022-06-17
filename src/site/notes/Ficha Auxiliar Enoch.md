@@ -97,79 +97,79 @@ if (lv3s.length > 0) {
 #### level 1
 - [ ] [[DNDSRD/35eSRD/SpellsManual/Abençoar Arma|Abençoar Arma]] [preparada:: 0]
 	- Arma fica boa e é considerada mágica contra inimigos maus.
-- [ ] [[DNDSRD/35eSRD/Spells/Bless|Bless]] [preparada:: 1]
+- [ ] [[DNDSRD/35eSRD/Spells/All/Bless|Bless]] [preparada:: 1]
 	- Allies gain +1 on attack rolls and +1 on saves against fear. 
-- [ ] [[DNDSRD/35eSRD/Spells/Bless Water|Bless Water]] [preparada:: 0]
+- [ ] [[DNDSRD/35eSRD/Spells/All/Bless Water|Bless Water]] [preparada:: 0]
 	- Makes holy water.
-- [ ] [[DNDSRD/35eSRD/Spells/Create Water|DNDSRD/35eSRD/Spells/Create Water]] [preparada:: 0]
+- [ ] [[DNDSRD/35eSRD/Spells/All/Create Water|Create Water]] [preparada:: 0]
 	- Creates 2 gallons/level of pure water.
-- [ ] [[DNDSRD/35eSRD/Spells/Cure Light Wounds|Cure Light Wounds]] [preparada:: 0]
+- [ ] [[DNDSRD/35eSRD/Spells/All/Cure Light Wounds|Cure Light Wounds]] [preparada:: 0]
 	- Cures 1d8 damage +1/level (max +5).
-- [ ] [[DNDSRD/35eSRD/Spells/Detect Poison|Detect Poison]] [preparada:: 0]
+- [ ] [[DNDSRD/35eSRD/Spells/All/Detect Poison|Detect Poison]] [preparada:: 0]
 	- Detects poison in one creature or small object.
-- [ ] [[DNDSRD/35eSRD/Spells/Detect Undead|Detect Undead]] [preparada:: 0]
+- [ ] [[DNDSRD/35eSRD/Spells/All/Detect Undead|Detect Undead]] [preparada:: 0]
 	- Reveals undead within 60 [[DNDSRD/35eSRD/Definicoes/ft|ft]].
-- [ ] [[DNDSRD/35eSRD/Spells/Divine Favor|Divine Favor]] [preparada:: 1]
+- [ ] [[DNDSRD/35eSRD/Spells/All/Divine Favor|Divine Favor]] [preparada:: 1]
 	- You gain +1 per three levels on attack and damage rolls.
-- [ ] [[DNDSRD/35eSRD/Spells/Endure Elements|Endure Elements]] [preparada:: 0]
+- [ ] [[DNDSRD/35eSRD/Spells/All/Endure Elements|Endure Elements]] [preparada:: 0]
 	- Exist comfortably in hot or cold environments.
-- [ ] [[DNDSRD/35eSRD/Spells/Magic Weapon|Magic Weapon]] [preparada:: 0]
+- [ ] [[DNDSRD/35eSRD/Spells/All/Magic Weapon|Magic Weapon]] [preparada:: 0]
 	- Weapon gains +1 bonus attack and damage. (Doesn't stack with OP)
-- [ ] [[DNDSRD/35eSRD/Spells/Protection from Evil|Protection from Evil]] [preparada:: 0]
+- [ ] [[DNDSRD/35eSRD/Spells/All/Protection from Evil|Protection from Evil]] [preparada:: 0]
 	- +2 to AC and saves, counter mind control (including enchantment (charm) effects and enchantment (compulsion), hedge out elementals and outsiders.
-- [ ] [[DNDSRD/35eSRD/Spells/Protection from Chaos|Protection from Chaos]]  [preparada:: 0]
+- [ ] [[DNDSRD/35eSRD/Spells/All/Protection from Chaos|Protection from Chaos]]  [preparada:: 0]
 	- igual protection from evil mas para o caos
-- [ ] [[DNDSRD/35eSRD/Spells/Read Magic|Read Magic]] [preparada:: 0]
+- [ ] [[DNDSRD/35eSRD/Spells/All/Read Magic|Read Magic]] [preparada:: 0]
 	- Read scrolls and spellbooks.
-- [ ] [[DNDSRD/35eSRD/Spells/Resistance|Resistance]] [preparada:: 0]
+- [ ] [[DNDSRD/35eSRD/Spells/All/Resistance|Resistance]] [preparada:: 0]
 	- Subject gains +1 on saving throws.
-- [ ] [[DNDSRD/35eSRD/Spells/Restoration, Lesser|Restoration, Lesser]] [preparada:: 0]
+- [ ] [[DNDSRD/35eSRD/Spells/All/Restoration, Lesser|Restoration, Lesser]] [preparada:: 0]
 	- Dispels magical ability penalty or repairs 1d4 ability damage.
-- [ ] [[DNDSRD/35eSRD/Spells/Virtue|Virtue]] [preparada:: 0]
+- [ ] [[DNDSRD/35eSRD/Spells/All/Virtue|Virtue]] [preparada:: 0]
 	- Subject gains 1 temporary hp.
 
 #### level 2
-- [ ] [[DNDSRD/35eSRD/Spells/Resist Energy|Resist Energy]]  [preparada:: 1]
+- [ ] [[DNDSRD/35eSRD/Spells/All/Resist Energy|Resist Energy]]  [preparada:: 1]
 	- 10 redução de dano contra 1 elemento escolhido
 - [ ] [[Bull’s Strength|Bull’s Strength]] [preparada:: 1]
 	- Subject gains +4 to Str for 1 min./level.
-- [ ] [[DNDSRD/35eSRD/Spells/Delay Poison|Delay Poison]] [preparada:: 0]
+- [ ] [[DNDSRD/35eSRD/Spells/All/Delay Poison|Delay Poison]] [preparada:: 0]
 	- Stops poison from harming subject for 1 hour/level.
 - [ ] [[Eagle’s Splendor|Eagle’s Splendor]] [preparada:: 0]
 	- Subject gains +4 to Cha for 1 min./level.
 - [ ] [[Owl’s Wisdom|Owl’s Wisdom]] [preparada:: 0]
 	- Subject gains +4 to Wis for 1 min./level.
-- [ ] [[DNDSRD/35eSRD/Spells/Remove Paralysis|Remove Paralysis]] [preparada:: 0]
+- [ ] [[DNDSRD/35eSRD/Spells/All/Remove Paralysis|Remove Paralysis]] [preparada:: 0]
 	- Frees one or more creatures from paralysis or slow effect.
-- [ ] [[DNDSRD/35eSRD/Spells/Shield Other|Shield Other]] [preparada:: 0]
+- [ ] [[DNDSRD/35eSRD/Spells/All/Shield Other|Shield Other]] [preparada:: 0]
 	- You take half of subject’s damage.
-- [ ] [[DNDSRD/35eSRD/Spells/Undetectable Alignment|Undetectable Alignment]] [preparada:: 0]
+- [ ] [[DNDSRD/35eSRD/Spells/All/Undetectable Alignment|Undetectable Alignment]] [preparada:: 0]
 	- Conceals alignment for 24 hours.
-- [ ] [[DNDSRD/35eSRD/Spells/Zone of Truth|Zone of Truth]] [preparada:: 0]
+- [ ] [[DNDSRD/35eSRD/Spells/All/Zone of Truth|Zone of Truth]] [preparada:: 0]
 	- Subjects within range cannot lie.
 
 #### level 3
-- [ ] [[DNDSRD/35eSRD/Spells/Cure Moderate Wounds|Cure Moderate Wounds]] [preparada:: 0]
+- [ ] [[DNDSRD/35eSRD/Spells/All/Cure Moderate Wounds|Cure Moderate Wounds]] [preparada:: 0]
 	- Cures 2d8 damage +1/level (max +10).
-- [ ] [[DNDSRD/35eSRD/Spells/Daylight|Daylight]] [preparada:: 0]
+- [ ] [[DNDSRD/35eSRD/Spells/All/Daylight|Daylight]] [preparada:: 0]
 	- 60-[[DNDSRD/35eSRD/Definicoes/ft|ft]]. radius of bright light + 60-[[DNDSRD/35eSRD/Definicoes/ft|ft]] of dim light.
-- [ ] [[DNDSRD/35eSRD/Spells/Discern Lies|Discern Lies]] [preparada:: 0]
+- [ ] [[DNDSRD/35eSRD/Spells/All/Discern Lies|Discern Lies]] [preparada:: 0]
 	- Reveals deliberate falsehoods.
-- [ ] [[DNDSRD/35eSRD/Spells/Dispel Magic|Dispel Magic]] [preparada:: 0]
+- [ ] [[DNDSRD/35eSRD/Spells/All/Dispel Magic|Dispel Magic]] [preparada:: 0]
 	- Cancels spells and magical effects.
-- [ ] [[DNDSRD/35eSRD/Spells/Heal Mount|Heal Mount]]  [preparada:: 0]
+- [ ] [[DNDSRD/35eSRD/Spells/All/Heal Mount|Heal Mount]]  [preparada:: 0]
 	- Removes various conditions And heal 10hp/level (max 150) of the paladins' mount.
-- [ ] [[DNDSRD/35eSRD/Spells/Magic Circle against Chaos|Magic Circle against Chaos]] [preparada:: 0]
+- [ ] [[DNDSRD/35eSRD/Spells/All/Magic Circle against Chaos|Magic Circle against Chaos]] [preparada:: 0]
 	- As [[Protection from Evil Or Chaos|Protection from Evil Or Chaos]], but 10-[[DNDSRD/35eSRD/Definicoes/ft|ft]]. radius and 10 min./level.
-- [ ] [[DNDSRD/35eSRD/Spells/Magic Circle against Evil|Magic Circle against Evil]] [preparada:: 1]
+- [ ] [[DNDSRD/35eSRD/Spells/All/Magic Circle against Evil|Magic Circle against Evil]] [preparada:: 1]
 	- As [[Protection from Evil Or Chaos|Protection from Evil Or Chaos]], but 10-[[DNDSRD/35eSRD/Definicoes/ft|ft]]. radius and 10 min./level.
-- [ ] [[DNDSRD/35eSRD/Spells/Magic Weapon, Greater|Magic Weapon, Greater]] [preparada:: 0]
+- [ ] [[DNDSRD/35eSRD/Spells/All/Magic Weapon, Greater|Magic Weapon, Greater]] [preparada:: 0]
 	- +1 bonus on attack and damage per four levels (max +5)
-- [ ] [[DNDSRD/35eSRD/Spells/Prayer|Prayer]] [preparada:: 0]
+- [ ] [[DNDSRD/35eSRD/Spells/All/Prayer|Prayer]] [preparada:: 0]
 	- Allies +1 bonus on most rolls, enemies -1 penalty. (attack rolls, weapon damage rolls, saves, and skill checks)Pe
-- [ ] [[DNDSRD/35eSRD/Spells/Remove Blindness_Deafness|Remove Blindness_Deafness]] [preparada:: 0]
+- [ ] [[DNDSRD/35eSRD/Spells/All/Remove Blindness_Deafness|Remove Blindness_Deafness]] [preparada:: 0]
 	- Cures normal or magical conditions.
-- [ ] [[DNDSRD/35eSRD/Spells/Remove Curse|Remove Curse]] [preparada:: 0]
+- [ ] [[DNDSRD/35eSRD/Spells/All/Remove Curse|Remove Curse]] [preparada:: 0]
 	- Frees object or person from curse. 
 
 
