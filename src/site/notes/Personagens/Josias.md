@@ -20,37 +20,45 @@ Clérigo de [[Pelor|Pelor]]
 Dominios: Good, Healing
 
 ### História
-Josias terminou se treinamento de clérigo de [[Pelor|Pelor]] aos 21 anos de idade, e sempre se mostrou muito promissor.
+Josias terminou seu treinamento de clérigo de [[Pelor|Pelor]] aos 21 anos de idade, e sempre se mostrou muito promissor.
 
 Aos 25 anos já era conhecido por toda a [[Mundo/Teia|Teia]] por seus feitos e poder. Muitos acreditavam que em seu futuro estava a cadeira do Sumo sacerdote de [[Pelor|Pelor]].
 
-Porém, como [[Nimbi|Nimbi]] já havia dito, é impossível prever o futuro com exatidão perfeita, e um simples bater de asas de um borboleta, pode gerar ramificações inimagináveis e de enormes proporções.
+Porém, como [[Nimbi|Nimbi]] já havia dito, é impossível prever o futuro com exatidão, e um simples bater de asas de um borboleta, pode gerar ramificações inimagináveis e de enormes proporções.
 
-Quando ele tinha 37 anos de idade, o seu poder e sua fama eram tamanhos, que muitos malfeitores ao ouvirem que [[Personagens/Josias|Josias]] havia sido designado para lidar eles, já abandonavam os seus esquemas fugiam. 
+Quando ele tinha 37 anos de idade, o seu poder e sua fama eram tamanhos, que muitos malfeitores ao ouvirem que [[Personagens/Josias|Josias]] havia sido designado para "lidar com eles", já abandonavam os seus esquemas e fugiam. 
 
-Isso, no entanto, fez com que [[Personagens/Josias|Josias]] começasse a ser descuidado e arrogante. Ou talvez não fosse arrogância, mas o fato é que ele começou a não levar os seus oponentes tão a sério, até o dia em que ele subestimou o adversário errado e toda sua vida mudou completamente.
+Isso, no entanto, fez com que [[Personagens/Josias|Josias]] começasse a ser descuidado, e arrogante.
 
-Os eventos do dia que mudou a vida de [[Personagens/Josias|Josias]] foram tão dramáticos, e causaram um trauma tão profundo nele, que mesmo hoje, quase 20 anos após o ocorrido, ele mal é capaz de conversar sobre o ocorrido, muito menos de relatar o que ocorreu. Como ele foi o único sobrevivente, os detalhes continuam um mistério para todos.
+Talvez arrogância não seja a palavra correta para descrever seu comportamento, uma vez que ele sempre fez questão de ser tratado igual a todos ao seu redor, mas o fato é que ele começou a não levar os seus oponentes tão a sério. Lentamente, ele foi cada vez mais se sentindo certo da vitória, antes mesmo de encontrar seus adversários. Ele se sentia invencível! 
 
-O que se sabe, porém, é que naquele dia um imensa energia foi liberada por [[Personagens/Josias|Josias]], ou algo muito próximo a ele, e desde então ele está imbuído de uma magia [[DNDSRD/35eSRD/Spells/All/Sanctuary|santuário]] poderosíssima, não sendo ele capaz de atacar e nem ser atacado fisicamente por qualquer criatura, e todo o seu conhecimento prático de magia de batalha parece ter simplesmente sumido de sua mente. 
+Até o dia em que ele subestimou o adversário errado e toda sua vida mudou completamente.
 
-Ele conhece todas as magias, porém não é capaz de conjurá-las... as palavras não lhe vêem a mente na hora, suas mãos simplesmente se negam a fazer os gestos...
+Os eventos do dia que mudou a vida de [[Personagens/Josias|Josias]] foram tão dramáticos, e causaram um trauma tão profundo nele, que mesmo hoje, quase 20 anos após o ocorrido, ele mal é capaz de conversar sobre o que aconteceu, muito menos de relatar os fatos. E como ele foi o único sobrevivente, os detalhes continuam um mistério para todos.
+
+O que se sabe, porém, é que naquele dia um imensa energia foi liberada por [[Personagens/Josias|Josias]], ou por algo/alguém muito próximo a ele, e ele foi encontrado. Ao serem despachados clérigos e paladinos para averiguar a explosão de energia divina, [[Personagens/Josias|Josias]] foi encontrado, em pé, imóvel, no centro de uma vila completamente destruída. A área de destruição se estendia por vários quilómetros, e por onde se andava era possível ver corpos espalhados, alguns completamente esquartejados. Desde então ele está imbuído de uma magia [[DNDSRD/35eSRD/Spells/All/Sanctuary|santuário]] poderosíssima, não sendo capaz de atacar e nem ser atacado fisicamente por qualquer criatura. Além disso, todo o seu conhecimento prático de magia de batalha parece ter simplesmente sumido de sua mente. 
+
+Ele *conhece* todas as magias, porém não é capaz de conjurá-las... as palavras não lhe vêem a mente na hora, suas mãos simplesmente se negam a fazer os gestos necessários...
 
 Durante os primeiros 2 anos após o ocorrido, [[Personagens/Josias|Josias]] foi para o santuário de [[Pelor|Pelor]] localizado na cidade de Nemis, e se afastou de todos os seus conhecidos. Durante este período ele se manteve em oração a maior parte do tempo. Comia o mínimo necessário para se manter vivo, e mesmo assim apenas por insistência de outros clérigos e colegas do santuário onde ele se refugiou.
 
-Com o passar do tempo, aos poucos, e dentro de suas limitações recentes, ele foi retomando as suas responsabilidades como clérigo de [[Pelor|Pelor]]. 13 anos após o ocorrido, ele até mesmo começou a ser capaz de ficar próximo de batalhas para fornecer cura aos seus aliados e outras ajudas necessárias. Para quem não o conhecia antes, ele levava uma vida completamente normal.
+Com o passar do tempo, aos poucos ele foi retomando as suas responsabilidades como clérigo de [[Pelor|Pelor]]. Completados 13 anos do ocorrido, ele começou a ser capaz de ficar próximo de batalhas para fornecer cura aos seus aliados e outras ajudas necessárias. Com o tempo voltou a sorrir, a interagir com outras pessoas da cidade fora do templo, e, para quem não o conhecia antes, ele levava uma vida completamente normal.
 
-Passados 17 anos, o seu poder era apenas uma fração do que já fora um dia, mas [[Personagens/Josias|Josias]] estava perfeitamente contente com sua vida.
+Passados 17 anos, o seu poder era apenas uma fração do que já fora um dia, contudo [[Personagens/Josias|Josias]] estava perfeitamente contente com sua vida.
 
-Mas o destino ainda não havia terminado com [[Personagens/Josias|Josias]], e o seu contentamento durou apenas até o dia em que a sua cidade, [[Mundo/Cidade de Nemis|Nemis]], voltou a ser ameaçada pelo [[Personagens/Nemis - O demonio|Nemis - O demonio]]. 
+Mas o destino ainda não havia terminado com [[Personagens/Josias|Josias]], e o seu contentamento durou apenas até o dia em que a sua cidade voltou a ser ameaçada pelo [[Personagens/Nemis - O demonio|Nemis - O demonio]]. 
 
 Nos dias que antecederam o ataque em si, a cidade começou a ser assolada por demonios menores, e o sofrimento e a dor assolaram a sua cidade. 
 
-[[Personagens/Josias|Josias]] presenciado todo o sofrimento, começou a ficar cada dia mais incomodado. Sua inabilidade de fazer qualquer coisa contra esse mal começou a "comê-lo vivo", de tal forma que ele já não dormia mais a noite. 
+[[Personagens/Josias|Josias]] presenciado todo o sofrimento, começou a ficar cada dia mais incomodado. Sua inabilidade de fazer qualquer coisa contra esse mal começou a "comê-lo vivo", de tal forma que ele já não conseguie mais dormir a noite. 
 
-Ele, que já fora um dos maiores guerreiros de [[Mundo/Teia|Teia]], agora mal era capaz de segurar uma maça. E, por causa de sua fraqueza, o Demonio iria destruir sua cidade sem que ele conseguisse fazer nada para evitar.
+Ele, que já fora um dos maiores guerreiros de [[Mundo/Teia|Teia]], agora mal era capaz de segurar uma maça. E, por causa de sua fraqueza, o Demonio iria destruir sua cidade sem que ele conseguisse um dedo para evitar.
 
-Quando o demônio chegou à cidade ele percebeu que ele precisava fazer MAIS. Não aguentava mais se sentir um inútil. Se lembrou que há alguns dias ficara sabendo do grupo de grandes aventureiros hospedados no templo de [[Personagens/Heironeous|Heironeous]] e que buscavam uma forma de impedir Nemis. Saiu em disparada para lá decidido que iria fazer de tudo para ajudá-los nessa batalha.
+Quando o demônio chegou à cidade ele já não aguentava mais. Precisava fazer ALGO, qualquer coisa para impedir este mal terrível.
+
+Ele não aguentava mais se sentir um inútil.
+
+Se lembrou que há alguns dias ficara sabendo do grupo de grandes aventureiros hospedados no templo de [[Personagens/Heironeous|Heironeous]] e que buscavam uma forma de impedir Nemis. Saiu em disparada para lá decidido que iria fazer de tudo para ajudá-los nessa batalha.
 
 Pouco tempo depois ele se juntou à tríade.
 
