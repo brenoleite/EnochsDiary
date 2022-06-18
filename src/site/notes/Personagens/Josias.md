@@ -22,7 +22,7 @@ Dominios: Good, Healing
 ### História
 Josias terminou seu treinamento de clérigo de [[Pelor|Pelor]] aos 21 anos de idade, e sempre se mostrou muito promissor.
 
-Aos 25 anos já era conhecido por toda a [[Mundo/Teia|Teia]] por seus feitos e poder. Muitos acreditavam que em seu futuro estava a cadeira do Sumo sacerdote de [[Pelor|Pelor]].
+Aos 30 anos já era conhecido por toda a [[Mundo/Teia|Teia]] por seus feitos e poder. Muitos acreditavam que em seu futuro estava a cadeira do Sumo sacerdote de [[Pelor|Pelor]].
 
 Porém, como [[Nimbi|Nimbi]] já havia dito, é impossível prever o futuro com exatidão, e um simples bater de asas de um borboleta, pode gerar ramificações inimagináveis e de enormes proporções.
 
@@ -30,31 +30,37 @@ Quando ele tinha 37 anos de idade, o seu poder e sua fama eram tamanhos, que mui
 
 Isso, no entanto, fez com que [[Personagens/Josias|Josias]] começasse a ser descuidado, e arrogante.
 
-Talvez arrogância não seja a palavra correta para descrever seu comportamento, uma vez que ele sempre fez questão de ser tratado igual a todos ao seu redor, mas o fato é que ele começou a não levar os seus oponentes tão a sério. Lentamente, ele foi cada vez mais se sentindo certo da vitória, antes mesmo de encontrar seus adversários. Ele se sentia invencível! 
+Talvez arrogância não seja a palavra correta para descrever seu comportamento, uma vez que ele sempre fez questão de ser tratado igual a todos ao seu redor, mas o fato é que ele começou a não levar os seus oponentes tão a sério. Lentamente, ele foi cada vez mais se sentindo certo da vitória, antes mesmo de encontrar seus adversários. 
+
+Ele se sentia invencível! 
 
 Até o dia em que ele subestimou o adversário errado e toda sua vida mudou completamente.
 
 Os eventos do dia que mudou a vida de [[Personagens/Josias|Josias]] foram tão dramáticos, e causaram um trauma tão profundo nele, que mesmo hoje, quase 20 anos após o ocorrido, ele mal é capaz de conversar sobre o que aconteceu, muito menos de relatar os fatos. E como ele foi o único sobrevivente, os detalhes continuam um mistério para todos.
 
-O que se sabe, porém, é que naquele dia um imensa energia foi liberada por [[Personagens/Josias|Josias]], ou por algo/alguém muito próximo a ele, e ele foi encontrado. Ao serem despachados clérigos e paladinos para averiguar a explosão de energia divina, [[Personagens/Josias|Josias]] foi encontrado, em pé, imóvel, no centro de uma vila completamente destruída. A área de destruição se estendia por vários quilómetros, e por onde se andava era possível ver corpos espalhados, alguns completamente esquartejados. Desde então ele está imbuído de uma magia [[DNDSRD/35eSRD/Spells/All/Sanctuary|santuário]] poderosíssima, não sendo capaz de atacar e nem ser atacado fisicamente por qualquer criatura. Além disso, todo o seu conhecimento prático de magia de batalha parece ter simplesmente sumido de sua mente. 
+O que se sabe, porém, é que naquele dia um imensa energia foi liberada por [[Personagens/Josias|Josias]], ou por algo/alguém muito próximo do lugar onde ele foi encontrado. 
 
-Ele *conhece* todas as magias, porém não é capaz de conjurá-las... as palavras não lhe vêem a mente na hora, suas mãos simplesmente se negam a fazer os gestos necessários...
+Ao serem despachados clérigos e paladinos para averiguar a explosão de energia divina, [[Personagens/Josias|Josias]] foi encontrado, em pé, imóvel, no centro de uma vila completamente destruída. A área de destruição se estendia por vários quilómetros, e por onde se andava era possível ver corpos espalhados, alguns completamente esquartejados... irreconhecíveis. 
 
-Durante os primeiros 2 anos após o ocorrido, [[Personagens/Josias|Josias]] foi para o santuário de [[Pelor|Pelor]] localizado na cidade de Nemis, e se afastou de todos os seus conhecidos. Durante este período ele se manteve em oração a maior parte do tempo. Comia o mínimo necessário para se manter vivo, e mesmo assim apenas por insistência de outros clérigos e colegas do santuário onde ele se refugiou.
+Desde este dia [[Personagens/Josias|Josias]] está imbuído de uma magia [[DNDSRD/35eSRD/Spells/All/Sanctuary|santuário]] poderosíssima, não sendo capaz de atacar e nem ser atacado fisicamente por nenhuma criatura. Além disso, todo o seu conhecimento prático de magia de batalha parece ter simplesmente sumido de sua mente. 
 
-Com o passar do tempo, aos poucos ele foi retomando as suas responsabilidades como clérigo de [[Pelor|Pelor]]. Completados 13 anos do ocorrido, ele começou a ser capaz de ficar próximo de batalhas para fornecer cura aos seus aliados e outras ajudas necessárias. Com o tempo voltou a sorrir, a interagir com outras pessoas da cidade fora do templo, e, para quem não o conhecia antes, ele levava uma vida completamente normal.
+Ele *conhece* todas as magias, porém não é capaz de conjurá-las... As palavras não lhe vêem a mente na hora, suas mãos simplesmente se negam a fazer os gestos necessários...
+
+Durante os primeiros 2 anos após o ocorrido, [[Personagens/Josias|Josias]] foi para o santuário de [[Pelor|Pelor]] localizado na cidade de Nemis, e se afastou de todos os seus conhecidos. Neste período ele se manteve em oração a maior parte do tempo. Comia o mínimo necessário para se manter vivo, e mesmo assim apenas por insistência de outros clérigos e colegas do santuário onde ele se refugiou.
+
+Com o passar do tempo, aos poucos ele foi retomando as suas responsabilidades como clérigo de [[Pelor|Pelor]]. Completados 13 anos do ocorrido, ele começou a ser capaz de ficar próximo de batalhas para fornecer cura aos seus aliados e outras ajudas necessárias. Eventualmente ele voltou a sorrir, a interagir com outras pessoas da cidade fora do templo, até que, para quem não o conhecia antes, ele parecia levar uma vida completamente normal.
 
 Passados 17 anos, o seu poder era apenas uma fração do que já fora um dia, contudo [[Personagens/Josias|Josias]] estava perfeitamente contente com sua vida.
 
-Mas o destino ainda não havia terminado com [[Personagens/Josias|Josias]], e o seu contentamento durou apenas até o dia em que a sua cidade voltou a ser ameaçada pelo [[Personagens/Nemis - O demonio|Nemis - O demonio]]. 
+Mas o destino ainda não havia terminado com [[Personagens/Josias|Josias]], e o seu contentamento durou apenas até o dia em que a sua cidade voltou a ser ameaçada por [[Personagens/Nemis - O demonio|Nemis - O demonio]]. 
 
 Nos dias que antecederam o ataque em si, a cidade começou a ser assolada por demonios menores, e o sofrimento e a dor assolaram a sua cidade. 
 
-[[Personagens/Josias|Josias]] presenciado todo o sofrimento, começou a ficar cada dia mais incomodado. Sua inabilidade de fazer qualquer coisa contra esse mal começou a "comê-lo vivo", de tal forma que ele já não conseguie mais dormir a noite. 
+[[Personagens/Josias|Josias]] presenciado todo o sofrimento, começou a ficar cada dia mais incomodado com o sofrimento ao seu redor. Sua inabilidade de fazer qualquer coisa contra esse mal começou a "comê-lo vivo", de tal forma que ele já não conseguia mais dormir a noite. 
 
-Ele, que já fora um dos maiores guerreiros de [[Mundo/Teia|Teia]], agora mal era capaz de segurar uma maça. E, por causa de sua fraqueza, o Demonio iria destruir sua cidade sem que ele conseguisse um dedo para evitar.
+Ele, que já fora um dos maiores guerreiros de [[Mundo/Teia|Teia]], agora mal era capaz de segurar uma maça. E, por causa de sua fraqueza, o Demonio iria destruir sua cidade sem que ele conseguisse levantar um dedo para evitar.
 
-Quando o demônio chegou à cidade ele já não aguentava mais. Precisava fazer ALGO, qualquer coisa para impedir este mal terrível.
+Quando o demônio chegou de fato à cidade ele já não aguentava mais. Precisava fazer ALGO, qualquer coisa para impedir este mal terrível.
 
 Ele não aguentava mais se sentir um inútil.
 
@@ -74,7 +80,7 @@ Pouco tempo depois ele se juntou à tríade.
 - [ ] [[DNDSRD/35eSRD/Spells/All/Cure Critical Wounds|Cure Critical Wounds]] [preparada::1]   
 	- Cures 4d8 damage +1/level (max +20). ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/All/Cure Light Wounds, Mass|Cure Light Wounds, Mass ]] [preparada::1]   
-	- ** Cures 1d8 damage +1/level for one creature/level, no two of which can be more than 30 [[DNDSRD/35eSRD/Definicoes/ft|ft]]. apart. ^onelinedescription
+	- Cures 1d8 damage +1/level for one creature/level, no two of which can be more than 30 [[DNDSRD/35eSRD/Definicoes/ft|ft]]. apart. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/All/Heal|Heal]] [preparada::0]   
 	- Cures 10 points/level of damage, all diseases and mental conditions. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/All/Regenerate|Regenerate]] [preparada::0]   
