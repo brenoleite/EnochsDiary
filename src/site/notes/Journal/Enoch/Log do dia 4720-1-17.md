@@ -52,7 +52,7 @@ Agora que reflito sobre o dia, me sinto ainda pior por ter perdido a cabeça com
 
 Por [[Personagens/Heironeous|Heironeous]], hei de ser melhor no futuro.
 
-Como os demônio haviam cortado os braços de [[Personagens/Anão Darius|Anão Darius]], o levamos a um templo de [[Pelor|Pelor]] para que pudesse ter os seus mebros restaurados.
+Como os demônio haviam cortado os braços de [[Personagens/Anão Darius|Anão Darius]], o levamos a um templo de [[Personagens/Pelor|Pelor]] para que pudesse ter os seus mebros restaurados.
 Lá fomo atendidos pelo sacerdote de nome Paulo, que, após eu explicar toda a situação com os demônios, e o perigo da iminente volta do [[Personagens/Nemis - O demonio|demonio Nemis]], nos concedeu o serviço sem cobrar nada.
 
 Além disso, [[Personagens/Jade, esposa de Darius|Jade, esposa de Darius]] ao ouvir nossa história, e saber que encontramos com [[Personagens/Boccob, O velho|Boccob, O velho]], o seu Deus, concedeu uma magia para permitir mais vigor para o combate.
