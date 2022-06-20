@@ -27,7 +27,7 @@ Mais uma vez eu cedi para eles devido à nossa história de combate ao mal. Cheg
 
 Após algum debate [[Personagens/Aladrail|Aladrail]] afirmou que queria retirar a maldição de [[Hextor|Hextor]], e confesso que isso me deu um grande alívio.
 
-Fomos então a um templo de [[Pelor|Pelor]] onde ele teve sua maldição retirada.
+Fomos então a um templo de [[Personagens/Pelor|Pelor]] onde ele teve sua maldição retirada.
 
 [[Personagens/Lhoris|Lhoris]], porém, não retirou a maldição dele. 
 
