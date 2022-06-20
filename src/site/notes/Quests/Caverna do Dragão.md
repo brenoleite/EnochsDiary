@@ -20,3 +20,5 @@ Derrotar o [[Criaturas/Dragao Vermelho|Dragao Vermelho]] conhecido como [[Person
 - No dia [[Journal/Enoch/Log do dia 4720-08-02|02/08/4720]] chegamos à cidade de [[Mundo/Etiei|Etiei]], conversamos com a [[Rainha Averduia|Rainha Averduia]],  e nos comprometemos à ajudá-la.
 - O nome do dragão é [[Personagens/Jorkman|Jorkman]]
 - [[Personagens/Tiamat, o dourado|Tiamat, o dourado]], amigo dos avós de [[Personagens/Aladrail|Aladrail]], ofereceu nos ajudar com conselhos e recursos
+- [[cavernaDoDragao01.jpeg]]
+- [[cavernaDoDragao02.jpeg]]
