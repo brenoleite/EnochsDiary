@@ -13,6 +13,15 @@
 - **Vontade:** 11 => (`dice:d20+11|noform|none|render`)
 ## Perícias mais usadas
 
+**Cavalgar**:: 19 
+**Concentracao**:: 10 
+**ConhecimentoReligiao**:: 16 
+**Cura**:: 7 
+**Diplomacia**:: 14 
+**Observar**:: 2 
+**Ouvir**:: 2 
+**SentirMotivacao**:: 6 
+
  
  |               Perícia |          Modificador          | resultado |
  | ---------------------:|:-----------------------------:|:---------:|
@@ -129,7 +138,7 @@ if (lv3s.length > 0) {
 	- Subject gains 1 temporary hp.
 
 #### level 2
-- [ ] [[DNDSRD/35eSRD/Spells/All/Resist Energy|Resist Energy]]  [preparada:: 1]
+- [x] [[DNDSRD/35eSRD/Spells/All/Resist Energy|Resist Energy]]  [preparada:: 1]
 	- 10 redução de dano contra 1 elemento escolhido
 - [ ] [[Bull’s Strength|Bull’s Strength]] [preparada:: 1]
 	- Subject gains +4 to Str for 1 min./level.
