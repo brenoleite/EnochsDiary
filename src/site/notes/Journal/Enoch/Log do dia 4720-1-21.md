@@ -12,7 +12,7 @@ O documento que ele havia entregado [[Personagens/Aladrail|Aladrail]] no dia ant
 Ele nos passou uma forma de contactar esta resistência para mantermos contato e fortalecer nossos vínculos para impedir que os seguidores de [[Hextor|Hextor]] venham a causar mal ao meu grande deus [[Personagens/Heironeous|Heironeous]].
 Para contáctá-los, precisamos ir ao "**Alasão veloz**" e falar com o bartender:
 
->[!info]+ 
+>[!info]
 >O sol brilha forte em Nemis hoje
 
 Após, ele deu a entender que precisava conversar sobre dinheiro, e eu e [[Personagens/Li|Li]] então nos retiramos para ajudar no templo de [[Personagens/Heironeous|Heironeous]], enquanto [[Personagens/Aladrail|Aladrail]] e [[Personagens/Lhoris|Lhoris]] ficaram conversando com ele.
