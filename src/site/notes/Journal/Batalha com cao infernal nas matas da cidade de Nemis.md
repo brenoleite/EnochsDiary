@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/journal/batalha-com-cao-infernal-nas-matas-da-cidade-de-nemis/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-[[EnochsDiary|EnochsDiary]] | [[Journal/Enoch/Log Do dia 4720-1-16|Log Do dia 4720-1-16]]
+[[_index|_index]] | [[Journal/Enoch/Log Do dia 4720-1-16|Log Do dia 4720-1-16]]
 #EnochsJournal 
 
 # Batalha com cao infernal nas matas da cidade de Nemis
