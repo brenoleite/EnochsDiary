@@ -4,7 +4,7 @@
 
 #EnochsJournal 
 
-[[Journal/Enoch/log do dia 4720-1-20|<- dia anterior]] | [[EnochsDiary\|Home]] | [[Journal/Enoch/4720-01-22 log diario|próximo dia ->]]
+[[Journal/Enoch/log do dia 4720-1-20|<- dia anterior]] | [[_index\|Home]] | [[Journal/Enoch/4720-01-22 log diario|próximo dia ->]]
 
 # [[Journal/Enoch/Log do dia 4720-1-21|Log do dia 4720-1-21]]
 Após dormirmos o resto do dia anterior. Quando acordamos neste dia, já com as nossas forças renovadas, recebemos um convite para uma comemoração no templo de [[Personagens/Heironeous|Heironeous]] hoje a noite, fomos nos encontrar novamente com o [[Personagens/Conde Julian|Conde Julian]].
