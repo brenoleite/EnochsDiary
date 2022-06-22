@@ -4,7 +4,7 @@
 
 #EnochsJournal 
 
-| [[EnochsDiary\|Home]] |
+| [[_index\|Home]] |
 
 # [[Quests/Exercito de Heironeous|Exercito de Heironeous]]
 [[Personagens/Lhoris|Lhoris]] foi chamado pelo padre supremo de [[St Cuthbert|St Cuthbert]], e fez uma viagem inter-planar para o plano da retribuição onde conversou com o ESQUECIONOME que lhe falou do seu receio de que Hextor vai tentar frustrar o fim da pena de [[Personagens/Heironeous|Heironeous]] e o convocou para levantar um exército para proteger o corpo em forma de estátua dele.  
