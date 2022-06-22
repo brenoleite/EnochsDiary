@@ -2,6 +2,6 @@
 {"dg-publish":true,"permalink":"/templates/template-em-construcao/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-| [[EnochsDiary\|Home]] |
+| [[_index\|Home]] |
 
 Página em construção
