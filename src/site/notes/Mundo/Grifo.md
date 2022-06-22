@@ -3,7 +3,7 @@
 ---
 
 
-==[[Mundo/Teia|Teia]]== | [[EnochsDiary|EnochsDiary]] 
+==[[Mundo/Teia|Teia]]== | [[_index|_index]] 
 
 # Grifo
 
