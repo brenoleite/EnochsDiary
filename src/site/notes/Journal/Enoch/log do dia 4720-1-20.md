@@ -4,7 +4,7 @@
 
 #EnochsJournal 
 
-[[Journal/Enoch/log do dia 4720-1-19|<- Dia anterior]] | [[EnochsDiary|Home]] | [[Journal/Enoch/Log do dia 4720-1-21|Próximo Dia ->]]
+[[Journal/Enoch/log do dia 4720-1-19|<- Dia anterior]] | [[_index|Home]] | [[Journal/Enoch/Log do dia 4720-1-21|Próximo Dia ->]]
 
 # log do dia 4720-1-20
 Após virarmos a noite mandando aqueles demônios de volta para o inferno de onde vieram, antes de descansar ainda formos encontrar com o nobre responsável pela [[Mundo/Cidade de Nemis|Cidade de Nemis]], o grande [[Personagens/Conde Julian|Conde Julian]].
