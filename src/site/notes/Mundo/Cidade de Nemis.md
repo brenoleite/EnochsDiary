@@ -3,7 +3,7 @@
 ---
 
 
-==[[Mundo/Teia|Teia]]== | [[EnochsDiary|EnochsDiary]] 
+==[[Mundo/Teia|Teia]]== | [[_index|_index]] 
 
 # Cidade de Nemis
 A segunda maior cidade e a segunda mais espiritualizada. É uma cidade muito cultural.
