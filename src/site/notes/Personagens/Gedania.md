@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/personagens/gedania/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-[[EnochsDiary|EnochsDiary]] | [[Mundo/Etiei|Etiei]] | [[Journal/Enoch/Log do dia 4720-08-02|Log do dia 4720-08-02]] 
+[[_index|_index]] | [[Mundo/Etiei|Etiei]] | [[Journal/Enoch/Log do dia 4720-08-02|Log do dia 4720-08-02]] 
 # [[Personagens/Gedania|Gedania]]
 nome: Gedania
 raça: elfo
