@@ -3,7 +3,7 @@
 ---
 
 
-[[EnochsDiary|Home]] 
+[[_index|Home]] 
 # Tríade
 Grupo de heróis formado originalmente por [[Personagens/Li|Li]], [[Personagens/Aladrail|Aladrail]], e [[Personagens/Lhoris|Lhoris]], ao qual posteriormente se juntou [[Personagens/Enoch|Enoch]], irmão de [[Personagens/Li|Li]].
 
