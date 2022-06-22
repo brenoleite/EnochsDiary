@@ -4,7 +4,7 @@
 
 #EnochsJournal 
 
-[[Journal/Enoch/Log do dia 4720-1-21|<- Dia anterior]] | [[EnochsDiary|Home]] | [[Journal/Enoch/6 meses Apos Nemis|Próximo Dia ->]]
+[[Journal/Enoch/Log do dia 4720-1-21|<- Dia anterior]] | [[_index|Home]] | [[Journal/Enoch/6 meses Apos Nemis|Próximo Dia ->]]
 
 # [[Journal/Enoch/4720-01-22 log diario|4720-01-22 log diario]]
 Durante a madrugada me deparei com o restante da [[Personagens/triade|Tríade]] na posse de 30 mil peças de ouro, e me perguntaram se seria possível deixar o dinheiro com o [[Arkantos|Arkantos]] no plano plano da justiça. Ao questioná-los sobre a origem de tanto dinheiro, eles não me falaram nada muito específico, balbuseando coisas sobre [[Hextor|Hextor]]. Porém, após tudo que já enfrentamos, confio na integridade deles, e principalmente do meu irmão [[Personagens/Li|Li]]. Sei que eles não causariam nenhum mal a pessoas inocentes, e por isso concedi a eles permissão para deixar o dinheiro no [[Arkantos|Arkantos]].
