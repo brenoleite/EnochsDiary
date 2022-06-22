@@ -4,7 +4,7 @@
 
 #EnochsJournal 
 
-[[Journal/Enoch/Log do dia 4720-1-17|<- Dia anterior]] | [[EnochsDiary|Home]] | [[Journal/Enoch/log do dia 4720-1-19|Próximo Dia ->]]
+[[Journal/Enoch/Log do dia 4720-1-17|<- Dia anterior]] | [[_index|Home]] | [[Journal/Enoch/log do dia 4720-1-19|Próximo Dia ->]]
 
 # Log Do dia 4720-1-18
 O único componente que ainda nos faltava era o sangue de demonio. Portanto [[Personagens/Aladrail|Aladrail]] com um feito de mágica, sumonou um demonio das trevas, [[Personagens/Li|Li]] o imobilizou e [[Personagens/Lhoris|Lhoris]] coletou o sangue.
