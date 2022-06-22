@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/mundo/pousada-neru/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-[[Mundo/Teia|Teia]] | [[EnochsDiary|EnochsDiary]]
+[[Mundo/Teia|Teia]] | [[_index|_index]]
 
 # [[Mundo/Pousada Neru|Pousada Neru]]
 
