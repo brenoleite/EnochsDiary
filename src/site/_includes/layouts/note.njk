@@ -108,6 +108,8 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       } else if ((window.innerHeight - elem_props.top) > (tooltipWrapper.offsetHeight)) {
           tooltipWrapper.style.top = elem_props.top + top + 35 + "px";
       }
+      console.log(top);
+      console.log(tooltipWrapper.style.top);
 
       if ((elem_props.left + (elem_props.width / 2)) < (tooltipWrapper.offsetWidth / 2)) {
           tooltipWrapper.style.left = "10px";
