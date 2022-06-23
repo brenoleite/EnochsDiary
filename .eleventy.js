@@ -140,7 +140,7 @@ module.exports = function(eleventyConfig) {
                 deadLink = true;
             }
 
-            return `<a class="internal-link${deadLink?' is-unresolved':''}" href="${permalink}${headerLinkPath}">${title}<iframe class="description" src="${permalink}${headerLinkPath}"></iframe></a>`;
+            return `<a class="internal-link${deadLink?' is-unresolved':''}" href="${permalink}${headerLinkPath}">${title}</a>`;
         });
     })
 
