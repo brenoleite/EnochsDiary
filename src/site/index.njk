@@ -8,7 +8,9 @@
     {%include "components/notegrowthhistory.njk"%}
     <div class="content">
       {%- for garden in collections.gardenEntry -%}
+      	<content>
         {{garden.templateContent | link | highlight | safe }}
+	</content>
       {%- endfor -%}
     </div>
                   <!-- That file is not particularly elegant. This will need a refactor at some point. -->
