@@ -15,7 +15,9 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% if dgHomeLink !== false%}
         <a href="javascript:history.back()">⬅️ Voltar</a> | <a href="/">🏡 Página Inicial</a>
       {% endif %}
+      <content>
       {{ content | link | highlight | safe}}
+      </content>
     </div>
     
               <!-- That file is not particularly elegant. This will need a refactor at some point. -->
