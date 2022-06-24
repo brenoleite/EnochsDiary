@@ -11,11 +11,11 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
   <body class="theme-{{meta.baseTheme}} markdown-preview-view">
     {%include "components/notegrowthhistory.njk"%}
 
-    <div class="content">
+    <div class="content" id="content">
       {% if dgHomeLink !== false%}
         <a href="javascript:history.back()">⬅️ Voltar</a> | <a href="/">🏡 Página Inicial</a>
       {% endif %}
-      <content id="content">
+      <content>
       {{ content | link | highlight | safe}}
       </content>
     </div>
