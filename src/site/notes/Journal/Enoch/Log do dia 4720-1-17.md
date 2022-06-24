@@ -4,7 +4,7 @@
 
 #EnochsJournal 
 
-[[Journal/Enoch/Log Do dia 4720-1-16|<- Dia anterior]] | [[_index|Home]] | [[Journal/Enoch/Log do dia 4720-1-18|Próximo Dia ->]]
+[[Journal/Enoch/Log Do dia 4720-1-16|<- Dia anterior]] | [[Home|Home]] | [[Journal/Enoch/Log do dia 4720-1-18|Próximo Dia ->]]
 
 # Log Do dia 4720-1-17
 
