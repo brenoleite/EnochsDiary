@@ -3,7 +3,7 @@
 ---
 
 
-==[[Mundo/Teia|Teia]]== | [[_index|_index]] 
+==[[Mundo/Teia|Teia]]== | [[Home|Home]] 
 
 # Cidade de Nemis
 A segunda maior cidade e a segunda mais espiritualizada. É uma cidade muito cultural.
