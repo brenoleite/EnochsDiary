@@ -85,7 +85,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
   function showTooltip(event) {
     var elem = event.target;
     var elem_props = elem.getClientRects()[elem.getClientRects().length - 1];
-    var top = window.pageYOffset || document.documentElement.scrollTop
+    var top = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop
 
     if (event.target.host === window.location.host) {
       iframe.src = event.target.href
