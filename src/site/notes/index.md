@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/index/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-<a href="javascript:history.back()">⬅️ Voltar</a> | [[Home\|Home]] | 
-
-# [[index|index]]
 <span style="text-align: center;">Diário de [[Personagens/Enoch|Enoch Kimbao]] - Paladino de [[Personagens/Heironeous|Heironeous]]</span>
 ## **Se omitir é alimentar a injustiça**
 
