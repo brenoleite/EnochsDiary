@@ -4,7 +4,7 @@
 
 #EnochsJournal 
 
-[[Journal/Enoch/Log do dia 4720-1-18|<- Dia anterior]] | [[_index|Home]] | [[Journal/Enoch/log do dia 4720-1-20|Próximo Dia ->]]
+[[Journal/Enoch/Log do dia 4720-1-18|<- Dia anterior]] | [[Home|Home]] | [[Journal/Enoch/log do dia 4720-1-20|Próximo Dia ->]]
 
 # Log Do dia 4720-1-19
 [[Personagens/Aladrail|Aladrail]] teletransportou a mim e ao [[Personagens/Lhoris|Lhoris]] de volta a [[Mundo/Cidade de Nemis|Cidade de Nemis]] e voltou para ficar com o [[Personagens/Li|Li]] protegendo o [[Personagens/Anão Darius|Anão Darius]] enquanto ele termina de fazer a arma que se tornará a [[DNDSRD/35eSRD/Magic Itens/HomeBrew/Arma da mortalidade|Arma da mortalidade]].
