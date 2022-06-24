@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/home/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
 #EnochsJournal 
