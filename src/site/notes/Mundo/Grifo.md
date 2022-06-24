@@ -3,7 +3,7 @@
 ---
 
 
-==[[Mundo/Teia|Teia]]== | [[_index|_index]] 
+==[[Mundo/Teia|Teia]]== | [[Home|Home]] 
 
 # Grifo
 
