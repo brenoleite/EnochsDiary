@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/personagens/salazar-o-mendigo/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-[[_index|_index]] | [[Journal/Enoch/Log Do dia 4720-1-16|Log Do dia 4720-1-16]] | [[Journal/Enoch/log do dia 4720-1-19|log do dia 4720-1-19]] 
+[[Home|Home]] | [[Journal/Enoch/Log Do dia 4720-1-16|Log Do dia 4720-1-16]] | [[Journal/Enoch/log do dia 4720-1-19|log do dia 4720-1-19]] 
 
 # Salazar, o mendigo
 nome: Salazar
