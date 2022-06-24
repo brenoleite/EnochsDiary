@@ -3,7 +3,7 @@
 ---
 
 #EnochsJournal 
-[[Mundo/Teia|Teia]] | [[_index|_index]] 
+[[Mundo/Teia|Teia]] | [[Home|Home]] 
 # [[Mundo/Etiei|Etiei]]
 Cidade secreta dos elfos.
 A cidade é bem mesclada com a floresta e um pessoa distraída pode não perceber que entrou ou saiu da cidade.
