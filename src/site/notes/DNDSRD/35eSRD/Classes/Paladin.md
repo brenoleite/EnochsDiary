@@ -3,7 +3,7 @@
 ---
 
 
-<a href="javascript:history.back()">⬅️ Voltar</a>
+<a href="javascript:history.go(-1)">⬅️ Voltar</a>
 
 # Paladin
 **Alignment**: Lawful good.
@@ -12,7 +12,7 @@
 
 ###### Class Skills
 
-The paladin’s class skills (and the key ability for each skill) are [Concentration](DNDSRD/35eSRD/Skills/CONCENTRATION%20(CON).md) (Con), [craft](DNDSRD/35eSRD/Skills/CRAFT%20(INT).md) (Int), [Diplomacy](DNDSRD/35eSRD/Skills/DIPLOMACY%20(CHA).md) (Cha), [Handle Animal](DNDSRD/35eSRD/Skills/HANDLE%20ANIMAL%20(CHA;%20TRAINED%20ONLY).md) (Cha), [[DNDSRD/35eSRD/Skills/HEAL (WIS)|Heal]] (Wis), [[DNDSRD/35eSRD/Skills/KNOWLEDGE (INT; TRAINED ONLY)|Knowledge]] (nobility and royalty / religion) (Int), [[DNDSRD/35eSRD/Skills/PROFESSION (WIS; TRAINED ONLY)|Profession]] (Wis), [[DNDSRD/35eSRD/Skills/RIDE (DEX)|Ride]] (Dex), and [[DNDSRD/35eSRD/Skills/SENSE MOTIVE (WIS)|Sense Motive]] (Wis).
+The paladin’s class skills (and the key ability for each skill) are [[DNDSRD/35eSRD/Skills/CONCENTRATION (CON)|Concentration]] (Con), [[DNDSRD/35eSRD/Skills/CRAFT (INT)|craft]] (Int), [[DNDSRD/35eSRD/Skills/DIPLOMACY (CHA)|Diplomacy]] (Cha), [[DNDSRD/35eSRD/Skills/HANDLE ANIMAL (CHA; TRAINED ONLY)|Handle Animal]] (Cha), [[DNDSRD/35eSRD/Skills/HEAL (WIS)|Heal]] (Wis), [[DNDSRD/35eSRD/Skills/KNOWLEDGE (INT; TRAINED ONLY)|Knowledge]] (nobility and royalty / religion) (Int), [[DNDSRD/35eSRD/Skills/PROFESSION (WIS; TRAINED ONLY)|Profession]] (Wis), [[DNDSRD/35eSRD/Skills/RIDE (DEX)|Ride]] (Dex), and [[DNDSRD/35eSRD/Skills/SENSE MOTIVE (WIS)|Sense Motive]] (Wis).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
