@@ -13,7 +13,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
 
     <div class="content" id="content">
       {% if dgHomeLink !== false%}
-        <a href="javascript:window.history.go(-1)">⬅️ Voltar</a> | <a href="/">🏡 Página Inicial</a>
+        <a href="javascript:window.history.go(-1)">⬅️ Voltar</a> | <a href="/home/">🏡 Página Inicial</a>
       {% endif %}
       <content>
       {{ content | link | highlight | safe}}
