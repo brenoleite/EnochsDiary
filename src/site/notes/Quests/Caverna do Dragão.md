@@ -4,7 +4,7 @@
 
 #EnochsJournal 
 
-| [[_index\|Home]] | [[Criaturas/Dragao Vermelho|Dragao Vermelho]] | [[Personagens/Jorkman|Jorkman]]
+| [[Home\|Home]] | [[Criaturas/Dragao Vermelho|Dragao Vermelho]] | [[Personagens/Jorkman|Jorkman]]
 
 # [[Quests/Caverna do Dragão|Caverna do Dragão]]
 ### Gatilho
