@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/mundo/teia/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-[[_index|_index]] 
+[[Home|Home]] 
 # Téia
 O mundo onde se passa a história.
 
