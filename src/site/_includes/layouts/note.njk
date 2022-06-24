@@ -108,8 +108,10 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       } else if ((window.innerHeight - elem_props.top) > (tooltipWrapper.offsetHeight)) {
           tooltipWrapper.style.top = elem_props.top + top + 35 + "px";
       }
-      console.log(top);
-      console.log(tooltipWrapper.style.top);
+      console.log("top: "+top);
+      console.log("Posição: "+tooltipWrapper.style.top);
+      console.log("window.pageYOffset: "+window.pageYOffset);
+      console.log("document.documentElement.scrollTop: "+document.documentElement.scrollTop);
 
       if ((elem_props.left + (elem_props.width / 2)) < (tooltipWrapper.offsetWidth / 2)) {
           tooltipWrapper.style.left = "10px";
