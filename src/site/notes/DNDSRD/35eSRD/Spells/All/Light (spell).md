@@ -16,9 +16,9 @@
 **SavingThrow**:: None
 **SpellResistance**:: false
 
-**snip**:: Object shines like a torch. ^onelinedescription
+**snip**:: Object shines like a torch.  
 
-**Materials**:: a firefly or a piece of phosphorescent moss ^materials
+**Materials**:: a firefly or a piece of phosphorescent moss  
 
 
 
