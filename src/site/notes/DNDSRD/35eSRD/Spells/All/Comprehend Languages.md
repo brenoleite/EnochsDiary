@@ -16,9 +16,9 @@
 **SavingThrow**:: 
 **SpellResistance**:: false
 
-**snip**:: You understand all spoken and written languages. ^onelinedescription
+**snip**:: You understand all spoken and written languages.  
 
-**Materials**:: a pinch of soot and a few grains of salt ^materials
+**Materials**:: a pinch of soot and a few grains of salt  
 
 
 
