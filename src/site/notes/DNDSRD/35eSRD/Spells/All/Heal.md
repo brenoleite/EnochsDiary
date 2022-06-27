@@ -16,7 +16,7 @@
 **SavingThrow**:: Will negates (harmless)
 **SpellResistance**:: true
 
-**snip**:: Cures 10 points/level of damage, all diseases and mental conditions. ^onelinedescription
+**snip**:: Cures 10 points/level of damage, all diseases and mental conditions.  
 
 
 
