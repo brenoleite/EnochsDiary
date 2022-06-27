@@ -16,7 +16,7 @@
 **SavingThrow**:: Will half (harmless); see text
 **SpellResistance**:: true
 
-**snip**:: Cures 1 point of damage. ^onelinedescription
+**snip**:: Cures 1 point of damage.  
 
 
 
