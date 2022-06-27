@@ -16,7 +16,7 @@
 **SavingThrow**:: None
 **SpellResistance**:: false
 
-**snip**:: Detects poison in one creature or small object. ^onelinedescription
+**snip**:: Detects poison in one creature or small object.  
 
 
 
