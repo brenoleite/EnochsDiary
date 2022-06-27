@@ -16,7 +16,7 @@
 **SavingThrow**:: Will negates (harmless)
 **SpellResistance**:: true
 
-**snip**:: Dispels magical ability penalty or repairs 1d4 ability damage. ^onelinedescription
+**snip**:: Dispels magical ability penalty or repairs 1d4 ability damage.  
 
 
 
