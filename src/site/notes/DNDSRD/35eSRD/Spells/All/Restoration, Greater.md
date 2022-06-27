@@ -16,7 +16,7 @@
 **SavingThrow**:: Will negates (harmless)
 **SpellResistance**:: true
 
-**snip**:: As restoration, plus restores all levels and ability scores. ^onelinedescription
+**snip**:: As restoration, plus restores all levels and ability scores.  
 
 *XP Cost: *500 XP.
 
