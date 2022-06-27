@@ -16,7 +16,7 @@
 **SavingThrow**:: Will negates (harmless)
 **SpellResistance**:: true
 
-**snip**:: Exist comfortably in hot or cold environments. ^onelinedescription
+**snip**:: Exist comfortably in hot or cold environments.  
 
 
 
