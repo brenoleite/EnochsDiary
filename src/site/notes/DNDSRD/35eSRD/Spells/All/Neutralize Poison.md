@@ -16,9 +16,9 @@
 **SavingThrow**:: Will negates (harmless, object)
 **SpellResistance**:: true
 
-**snip**:: Immunizes subject against poison, detoxifies venom in or on subject. ^onelinedescription
+**snip**:: Immunizes subject against poison, detoxifies venom in or on subject.  
 
-**Materials**:: a bit of charcoal ^materials
+**Materials**:: a bit of charcoal  
 
 
 
