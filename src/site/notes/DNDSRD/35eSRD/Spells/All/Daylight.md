@@ -16,7 +16,7 @@
 **SavingThrow**:: None
 **SpellResistance**:: false
 
-**snip**:: 60-[[DNDSRD/35eSRD/Definicoes/ft|ft]]. radius of bright light. ^onelinedescription
+**snip**:: 60-[[DNDSRD/35eSRD/Definicoes/ft|ft]]. radius of bright light.  
 
 
 
