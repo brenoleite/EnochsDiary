@@ -16,7 +16,7 @@
 **SavingThrow**:: Will negates (harmless)
 **SpellResistance**:: true
 
-**snip**:: Transfer spells to subject. ^onelinedescription
+**snip**:: Transfer spells to subject.  
 
 
 
