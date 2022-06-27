@@ -16,7 +16,7 @@
 **SavingThrow**:: Fortitude negates (harmless)
 **SpellResistance**:: true
 
-**snip**:: Subject’s severed limbs grow back, cures 4d8 damage +1/level (max +35). ^onelinedescription
+**snip**:: Subject’s severed limbs grow back, cures 4d8 damage +1/level (max +35).  
 
 
 
