@@ -16,7 +16,7 @@
 **SavingThrow**:: None
 **SpellResistance**:: false
 
-**snip**:: Detects spells and magic items within 60 [[DNDSRD/35eSRD/Definicoes/ft|ft]]. ^onelinedescription
+**snip**:: Detects spells and magic items within 60 [[DNDSRD/35eSRD/Definicoes/ft|ft]].  
 
 
 
