@@ -16,9 +16,9 @@
 **SavingThrow**:: Will negates (object)
 **SpellResistance**:: true
 
-**snip**:: Makes holy water. ^onelinedescription
+**snip**:: Makes holy water.  
 
-**Materials**:: 5 pounds of powdered silver (worth 25 gp) ^materials
+**Materials**:: 5 pounds of powdered silver (worth 25 gp)  
 
 
 
