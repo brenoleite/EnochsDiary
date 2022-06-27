@@ -16,7 +16,7 @@
 **SavingThrow**:: Will negates (harmless)
 **SpellResistance**:: true
 
-**snip**:: Frees one or more creatures from paralysis or slow effect. ^onelinedescription
+**snip**:: Frees one or more creatures from paralysis or slow effect.  
 
 
 
