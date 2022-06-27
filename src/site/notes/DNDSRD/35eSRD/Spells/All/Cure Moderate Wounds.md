@@ -16,7 +16,7 @@
 **SavingThrow**:: Will half (harmless); see text
 **SpellResistance**:: true
 
-**snip**:: Cures 2d8 damage +1/level (max +10). ^onelinedescription
+**snip**:: Cures 2d8 damage +1/level (max +10).  
 
 
 
