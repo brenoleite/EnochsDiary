@@ -16,7 +16,7 @@
 **SavingThrow**:: Will negates (harmless)
 **SpellResistance**:: true
 
-**snip**:: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels. ^onelinedescription
+**snip**:: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.  
 
 
 
