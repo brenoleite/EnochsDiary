@@ -16,7 +16,7 @@
 **SavingThrow**:: See text
 **SpellResistance**:: false
 
-**snip**:: Frees subjects from enchantments, alterations, curses, and petrification. ^onelinedescription
+**snip**:: Frees subjects from enchantments, alterations, curses, and petrification.  
 
 
 
