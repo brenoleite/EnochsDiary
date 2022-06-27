@@ -17,7 +17,7 @@
 **SpellResistance**:: false
 **Effect**:: Ghostly hand
 
-**snip**:: Ghostly hand leads subject to you. ^onelinedescription
+**snip**:: Ghostly hand leads subject to you.  
 
 
 
