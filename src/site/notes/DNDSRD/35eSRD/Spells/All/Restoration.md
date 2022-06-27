@@ -16,9 +16,9 @@
 **SavingThrow**:: Will negates (harmless)
 **SpellResistance**:: true
 
-**snip**:: Restores level and ability score drains. ^onelinedescription
+**snip**:: Restores level and ability score drains.  
 
-**Materials**:: diamond dust worth 100 gp that is sprinkled over the target ^materials
+**Materials**:: diamond dust worth 100 gp that is sprinkled over the target  
 
 
 
