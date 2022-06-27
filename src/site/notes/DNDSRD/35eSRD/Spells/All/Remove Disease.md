@@ -16,7 +16,7 @@
 **SavingThrow**:: Fortitude negates (harmless)
 **SpellResistance**:: true
 
-**snip**:: Cures all diseases affecting subject. ^onelinedescription
+**snip**:: Cures all diseases affecting subject.  
 
 
 
