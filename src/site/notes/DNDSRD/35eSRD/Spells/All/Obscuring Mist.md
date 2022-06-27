@@ -17,7 +17,7 @@
 **SpellResistance**:: false
 **Effect**:: Cloud spreads in 20-ft. radius from you, 20 ft. high
 
-**snip**:: Fog surrounds you. ^onelinedescription
+**snip**:: Fog surrounds you.  
 
 
 
