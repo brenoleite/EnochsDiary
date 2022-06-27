@@ -17,11 +17,11 @@
 **SpellResistance**:: true
 **Effect**:: Magical sensor
 
-**snip**:: Spies on subject from a distance. ^onelinedescription
+**snip**:: Spies on subject from a distance.  
 
-**Materials**:: the eye of a hawk, an eagle, or a roc, plus nitric acid, copper, and zinc ^materials
+**Materials**:: the eye of a hawk, an eagle, or a roc, plus nitric acid, copper, and zinc  
 
-**Focus**:: Druid -> a natural pool of water -- Cleric -> A holy water font costing not less than 100 gp. -- Others -> A mirror of finely wrought and highly polished silver costing not less than 1,000 gp. The mirror must be at least 2 feet by 4 feet. ^focus
+**Focus**:: Druid -> a natural pool of water -- Cleric -> A holy water font costing not less than 100 gp. -- Others -> A mirror of finely wrought and highly polished silver costing not less than 1,000 gp. The mirror must be at least 2 feet by 4 feet.  
 
 
 You can see and hear some creature, which may be at any distance. If the subject succeeds on a Will save, the scrying attempt simply fails. The difficulty of the save depends on how well you know the subject and what sort of physical connection (if any) you have to that creature. Furthermore, if the subject is on another plane, it gets a +5 bonus on its Will save.
