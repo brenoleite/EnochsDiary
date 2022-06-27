@@ -16,7 +16,7 @@
 **SavingThrow**:: Will negates
 **SpellResistance**:: true
 
-**snip**:: One subject obeys selected command for 1 round. ^onelinedescription
+**snip**:: One subject obeys selected command for 1 round.  
 
 
 
