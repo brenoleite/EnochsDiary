@@ -16,7 +16,7 @@
 **SavingThrow**:: Fortitude negates (harmless)
 **SpellResistance**:: true
 
-**snip**:: Cures normal or magical conditions. ^onelinedescription
+**snip**:: Cures normal or magical conditions.  
 
 
 *Remove blindness/deafness *cures blindness or deafness (your choice), whether the effect is normal or magical in nature. The spell does not restore ears or eyes that have been lost, but it repairs them if they are damaged.
