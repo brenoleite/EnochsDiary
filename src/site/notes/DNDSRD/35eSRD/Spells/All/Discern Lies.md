@@ -16,7 +16,7 @@
 **SavingThrow**:: Will negates
 **SpellResistance**:: false
 
-**snip**:: Reveals deliberate falsehoods. ^onelinedescription
+**snip**:: Reveals deliberate falsehoods.  
 
 
 
