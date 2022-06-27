@@ -16,9 +16,9 @@
 **SavingThrow**:: Will negates (harmless)
 **SpellResistance**:: true
 
-**snip**:: Subject gains +1 on saving throws. ^onelinedescription
+**snip**:: Subject gains +1 on saving throws.  
 
-**Materials**:: a miniature cloak ^materials
+**Materials**:: a miniature cloak  
 
 
 
