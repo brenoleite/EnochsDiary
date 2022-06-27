@@ -16,9 +16,9 @@
 **SavingThrow**:: None
 **SpellResistance**:: false
 
-**snip**:: Delivers short message anywhere, instantly. ^onelinedescription
+**snip**:: Delivers short message anywhere, instantly.  
 
-**Materials**:: a short piece of fine copper wire ^materials
+**Materials**:: a short piece of fine copper wire  
 
 
 
