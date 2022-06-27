@@ -16,7 +16,7 @@
 **SavingThrow**:: Will negates (harmless, object)
 **SpellResistance**:: true
 
-**snip**:: Makes minor repairs on an object. ^onelinedescription
+**snip**:: Makes minor repairs on an object.  
 
 
 
