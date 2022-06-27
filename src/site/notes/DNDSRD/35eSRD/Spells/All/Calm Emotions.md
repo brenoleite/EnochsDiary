@@ -16,7 +16,7 @@
 **SavingThrow**:: Will negates
 **SpellResistance**:: true
 
-**snip**:: Calms creatures, negating emotion effects. ^onelinedescription
+**snip**:: Calms creatures, negating emotion effects.  
 
 
 
