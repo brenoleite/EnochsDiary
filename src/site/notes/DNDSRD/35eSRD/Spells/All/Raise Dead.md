@@ -16,9 +16,9 @@
 **SavingThrow**:: None; see text
 **SpellResistance**:: true
 
-**snip**:: Restores life to subject who died as long as one day/level ago. ^onelinedescription
+**snip**:: Restores life to subject who died as long as one day/level ago.  
 
-**Materials**:: diamonds worth a total of least 5,000 gp ^materials
+**Materials**:: diamonds worth a total of least 5,000 gp  
 
 
 
