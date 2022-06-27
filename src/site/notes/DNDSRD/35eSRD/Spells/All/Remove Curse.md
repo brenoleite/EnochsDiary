@@ -16,7 +16,7 @@
 **SavingThrow**:: Will negates (harmless)
 **SpellResistance**:: true
 
-**snip**:: Frees object or person from curse. ^onelinedescription
+**snip**:: Frees object or person from curse.  
 
 
 
