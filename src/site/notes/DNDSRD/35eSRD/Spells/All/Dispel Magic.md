@@ -16,7 +16,7 @@
 **SavingThrow**:: None
 **SpellResistance**:: false
 
-**snip**:: Cancels magical spells and effects. ^onelinedescription
+**snip**:: Cancels magical spells and effects.  
 
 
 
