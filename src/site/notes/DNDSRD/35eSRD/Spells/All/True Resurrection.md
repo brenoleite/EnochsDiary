@@ -16,9 +16,9 @@
 **SavingThrow**:: None; see text
 **SpellResistance**:: true
 
-**snip**:: As resurrection, plus remains aren’t needed. ^onelinedescription
+**snip**:: As resurrection, plus remains aren’t needed.  
 
-**Materials**:: a sprinkle of holy water and diamonds worth a total of at least 25,000 gp ^materials
+**Materials**:: a sprinkle of holy water and diamonds worth a total of at least 25,000 gp  
 
 
 
