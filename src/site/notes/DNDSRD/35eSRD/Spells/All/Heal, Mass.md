@@ -16,7 +16,7 @@
 **SavingThrow**:: Will negates (harmless)
 **SpellResistance**:: true
 
-**snip**:: As heal, but with several subjects. ^onelinedescription
+**snip**:: As heal, but with several subjects.  
 
 
 
