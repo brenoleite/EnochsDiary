@@ -16,7 +16,7 @@
 **SavingThrow**:: Will negates (harmless)
 **SpellResistance**:: true
 
-**snip**:: Monitors condition, position of allies. ^onelinedescription
+**snip**:: Monitors condition, position of allies.  
 
 
 
