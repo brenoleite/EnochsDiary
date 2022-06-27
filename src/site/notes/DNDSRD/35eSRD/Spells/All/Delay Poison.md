@@ -16,7 +16,7 @@
 **SavingThrow**:: Fortitude negates (harmless)
 **SpellResistance**:: true
 
-**snip**:: Stops poison from harming subject for 1 hour/ level. ^onelinedescription
+**snip**:: Stops poison from harming subject for 1 hour/ level.  
 
 
 
