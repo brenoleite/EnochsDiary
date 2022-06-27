@@ -16,11 +16,11 @@
 **SavingThrow**:: 
 **SpellResistance**:: false
 
-**snip**:: Learns whether an action will be good or bad. ^onelinedescription
+**snip**:: Learns whether an action will be good or bad.  
 
-**Materials**:: incense worth at least 25 gp ^materials
+**Materials**:: incense worth at least 25 gp  
 
-**Focus**:: a set of marked sticks, bones, or similar tokens of at least 25 gp value ^focus
+**Focus**:: a set of marked sticks, bones, or similar tokens of at least 25 gp value  
 
 
 An *augury *can tell you whether a particular action will bring good or bad results for you in the immediate future.
