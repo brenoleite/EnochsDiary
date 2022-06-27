@@ -16,7 +16,7 @@
 **SavingThrow**:: Will half (harmless) or Will half; see text
 **SpellResistance**:: true
 
-**snip**:: Cures 3d8 damage +1/level for one creature/level, no two of which can be more than 30 [[DNDSRD/35eSRD/Definicoes/ft|ft]]. apart. ^onelinedescription
+**snip**:: Cures 3d8 damage +1/level for one creature/level, no two of which can be more than 30 [[DNDSRD/35eSRD/Definicoes/ft|ft]]. apart.  
 
 
 
