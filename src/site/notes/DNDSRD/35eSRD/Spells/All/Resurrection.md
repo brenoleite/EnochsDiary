@@ -16,9 +16,9 @@
 **SavingThrow**:: 
 **SpellResistance**:: false
 
-**snip**:: Fully restore dead subject. ^onelinedescription
+**snip**:: Fully restore dead subject.  
 
-**Materials**:: a sprinkle of holy water and diamonds worth a total of at least 10,000 gp ^materials
+**Materials**:: a sprinkle of holy water and diamonds worth a total of at least 10,000 gp  
 
 
 
