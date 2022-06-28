@@ -5,7 +5,7 @@
 [[Home|Home]] | [[Journal/Enoch/Log Do dia 4720-1-16|Log Do dia 4720-1-16]] | [[Mundo/Cidade de Nemis|Cidade de Nemis]] 
 #EnochsJournal 
 
-# `= this.file.name`
+# [[Journal/Batalha com o vampiro que nos seguia|Batalha com o vampiro que nos seguia]]
 
 Ao procurarmos o mendigo e não encontrarmos percebemos que o mesmo dançarino das sombras nos seguia. Quando o confrontamos ele anunciou que seu nome era [[Personagens/Michel Decon|Michel Decon]] e que ele ainda iria nos matar.
 Após falar isso ele se escondeu novamente nas sombras, porém conseguimos interceptá-lo e engajamos no combate.
@@ -15,3 +15,11 @@ junto de seu caixão achamos o seu diário, através do qual descobrimos que ele
 
 ---
 [[DeD pelo mundo|DeD pelo mundo]] 
+
+<span 
+	  class='ob-timelines' 
+	  data-date='4720-01-16-50' 
+	  data-title='Batalha com o vampiro que nos seguia' 
+	  data-class='orange'> 
+	Batalha com o vampiro [Michel Decon](Michel Decon)
+</span>
