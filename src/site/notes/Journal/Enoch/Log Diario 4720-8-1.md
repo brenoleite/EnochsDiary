@@ -4,7 +4,7 @@
 
 #EnochsJournal 
 
-[[Journal/Enoch/6 meses Apos Nemis|<- Anteriormente]] | [Home](Home.md) | [[Journal/Enoch/Log do dia 4720-08-02|Próximo Dia ->]]
+[[Journal/Enoch/6 meses Apos Nemis|<- Anteriormente]] | [[Home|Home]] | [[Journal/Enoch/Log do dia 4720-08-02|Próximo Dia ->]]
 
 # Log Diário 4720-8-1
 Com a notícia que [[Ravim|Ravim]] entregou a [[Personagens/Li|Li]], a [[Personagens/triade|Tríade]] se reuniu novamente, cada um finalizou qualquer coisa que precisasse ser finalizado, [[Personagens/Lhoris|Lhoris]] foi para a biblioteca estudar um pouco sobre [[Criaturas/Dragao Vermelho|dragões vermelhos]], e após tudo finalizado, [[Personagens/Aladrail|Aladrail]] nos teletransportou para a porta da casa de [[Personagens/Izolda|Izolda]], logo aos arredores da cidade de [[Mundo/Renia|Renia]].
