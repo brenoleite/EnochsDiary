@@ -3,7 +3,7 @@
 ---
 
 #EnochsJournal 
-[[Journal/Enoch/4720-01-22 log diario|<- anterior]] | [[Home\|Home]] | [[Journal/Enoch/Log Diario 4720-8-1|próximo ->]]
+[[Journal/Enoch/4720-01-22 log diario|<- anterior]] | [[Home|Home]] | [[Journal/Enoch/Log Diario 4720-8-1|próximo ->]]
 
 Após derrotar [[Personagens/Nemis - O demonio|Nemis]] a [[Personagens/triade|Tríade]] se separou por um tempo. Sem nenhuma grande ameaça iminente, cada membro do grupo seguiu um pouco os seus próprios interesses.
 
