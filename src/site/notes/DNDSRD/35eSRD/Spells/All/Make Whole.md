@@ -10,7 +10,7 @@
 **Components**:: V S 
 **CastingTime**:: 1 standard 
 **Range**:: [[DNDSRD/35eSRD/Definicoes/close|close]]
-**Target**:: one object of up to 10 cu. ft./ level
+**Target**:: one object of up to 10 cu. [[DNDSRD/35eSRD/Definicoes/ft|ft]]./ level
 **Area**:: 
 **Duration**:: Instantaneous
 **SavingThrow**:: Will negates (harmless, object)
