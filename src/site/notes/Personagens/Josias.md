@@ -274,7 +274,7 @@ Pouco tempo depois ele se juntou à tríade.
 - [ ] [[DNDSRD/35eSRD/Spells/All/Daylight|Daylight]] [preparada::1] 
 	- 60-[[DNDSRD/35eSRD/Definicoes/ft|ft]]. radius of bright light. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/All/Deeper Darkness|Deeper Darkness]] [preparada::0] 
-	- Object sheds supernatural shadow in 60-ft. radius. ^onelinedescription
+	- Object sheds supernatural shadow in 60-[[DNDSRD/35eSRD/Definicoes/ft|ft]]. radius. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/All/Dispel Magic|Dispel Magic]] [preparada::1] 
 	- Cancels magical spells and effects. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/All/Glyph of Warding|Glyph of Warding]] [preparada::0] 
@@ -284,15 +284,15 @@ Pouco tempo depois ele se juntou à tríade.
 - [ ] [[DNDSRD/35eSRD/Spells/All/Inflict Serious Wounds|Inflict Serious Wounds]] [preparada::0] 
 	- Touch attack, 3d8 damage +1/level (max +15). ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/All/Invisibility Purge|Invisibility Purge]] [preparada::0] 
-	- Dispels invisibility within 5 ft./level. ^onelinedescription
+	- Dispels invisibility within 5 [[DNDSRD/35eSRD/Definicoes/ft|ft]]./level. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/All/Locate Object|Locate Object]] [preparada::0] 
 	- Senses direction toward object (specific or type). ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/All/Magic Circle against Chaos|Magic Circle against Chaos]] [preparada::0] 
-	- As protection from chaos, but 10-ft. radius and 10 min./level. ^onelinedescription
+	- As protection from chaos, but 10-[[DNDSRD/35eSRD/Definicoes/ft|ft]]. radius and 10 min./level. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/All/Magic Circle against Evil|Magic Circle against Evil]] [preparada::0] 
-	- As protection from evil, but 10-ft. radius and 10 min./level. ^onelinedescription
+	- As protection from evil, but 10-[[DNDSRD/35eSRD/Definicoes/ft|ft]]. radius and 10 min./level. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/All/Magic Circle against Law|Magic Circle against Law]] [preparada::0] 
-	- As protection spells, but 10-ft. radius and 10 min./level. ^onelinedescription
+	- As protection spells, but 10-[[DNDSRD/35eSRD/Definicoes/ft|ft]]. radius and 10 min./level. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/All/Magic Vestment|Magic Vestment]] [preparada::0] 
 	- Armor or shield gains +1 enhancement per four levels. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/All/Meld into Stone|Meld into Stone]] [preparada::0] 
@@ -368,7 +368,7 @@ Pouco tempo depois ele se juntou à tríade.
 - [ ] [[DNDSRD/35eSRD/Spells/All/Poison (Spell)|Poison]] [preparada::0] 
 	- Touch deals 1d10 Con damage, repeats in 1 min. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/All/Repel Vermin|Repel Vermin]] [preparada::0] 
-	- Insects, spiders, and other vermin stay 10 ft. away. ^onelinedescription
+	- Insects, spiders, and other vermin stay 10 [[DNDSRD/35eSRD/Definicoes/ft|ft]]. away. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/All/Restoration|Restoration]] [preparada::0] 
 	- Restores level and ability score drains. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/All/Sending|Sending]] [preparada::1] 
@@ -390,7 +390,7 @@ Pouco tempo depois ele se juntou à tríade.
 - [ ] [[DNDSRD/35eSRD/Spells/All/Commune|Commune XP]] [preparada::0] 
 	- Deity answers one yes-or-no question/level. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/All/Cure Light Wounds, Mass|Cure Light Wounds, Mass ]] [preparada::0] 
-	- Cures 1d8 damage +1/level for one creature/level, no two of which can be more than 30 ft. apart. ^onelinedescription
+	- Cures 1d8 damage +1/level for one creature/level, no two of which can be more than 30 [[DNDSRD/35eSRD/Definicoes/ft|ft]]. apart. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/All/Dispel Chaos|Dispel Chaos]] [preparada::0] 
 	- +4 bonus against attacks by chaotic creatures. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/All/Dispel Evil|Dispel Evil]] [preparada::0] 
@@ -436,7 +436,7 @@ Pouco tempo depois ele se juntou à tríade.
 - [ ] [[DNDSRD/35eSRD/Spells/All/Animate Objects|Animate Objects]] [preparada::0] 
 	- Objects attack your foes. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/All/Antilife Shell|Antilife Shell]] [preparada::0] 
-	- 10-ft.-radius field hedges out living creatures. ^onelinedescription
+	- 10-[[DNDSRD/35eSRD/Definicoes/ft|ft]].-radius field hedges out living creatures. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/All/Banishment|Banishment]] [preparada::0] 
 	- Banishes 2 HD/level of extraplanar creatures. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/All/Bear's Endurance, Mass|Bear's Endurance, Mass]] [preparada::0] 
@@ -530,7 +530,7 @@ Pouco tempo depois ele se juntou à tríade.
 
 ### Level 08
 - [ ] [[DNDSRD/35eSRD/Spells/All/Antimagic Field|Antimagic Field]] [preparada::0] 
-	- Negates magic within 10 ft. ^onelinedescription
+	- Negates magic within 10 [[DNDSRD/35eSRD/Definicoes/ft|ft]]. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/All/Brain Spider|Brain Spider]] [preparada::0] 
 	- ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/All/Cloak of Chaos|Cloak of Chaos]] [preparada::0] 
@@ -542,7 +542,7 @@ Pouco tempo depois ele se juntou à tríade.
 - [ ] [[DNDSRD/35eSRD/Spells/All/Discern Location|Discern Location]] [preparada::0] 
 	- Reveals exact location of creature or object. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/All/Earthquake|Earthquake]] [preparada::0] 
-	- Intense tremor shakes 80-ft.-radius. ^onelinedescription
+	- Intense tremor shakes 80-[[DNDSRD/35eSRD/Definicoes/ft|ft]].-radius. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/All/Fire Storm|Fire Storm]] [preparada::0] 
 	- Deals 1d6/level fire damage. ^onelinedescription
 - [ ] [[DNDSRD/35eSRD/Spells/All/Holy Aura|Holy Aura]] [preparada::0] 
