@@ -10,7 +10,7 @@
 **Components**:: V S M/DF
 **CastingTime**:: 1 standard 
 **Range**:: [[touch|touch]]
-**Target**:: creature or object of up to 1 cu. ft./level touched
+**Target**:: creature or object of up to 1 cu. [[DNDSRD/35eSRD/Definicoes/ft|ft]]./level touched
 **Area**:: 
 **Duration**:: 10 min./level
 **SavingThrow**:: Will negates (harmless, object)
