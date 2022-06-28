@@ -417,7 +417,7 @@ Pouco tempo depois ele se juntou à tríade.
 	- Restores life to subject who died as long as one day/level ago.  
 - [ ] [[DNDSRD/35eSRD/Spells/All/Righteous Might|Righteous Might]] [preparada::0] 
 	- Your size increases, and you gain combat bonuses.  
-- [ ] [[DNDSRD/35eSRD/Magic Overview/Magic Descriptions/Scrying|Scrying]] [preparada::1] 
+- [ ] [[DNDSRD/35eSRD/Spells/All/Scrying (spell)|Scrying]] [preparada::1] 
 	- Spies on subject from a distance.  
 - [ ] [[DNDSRD/35eSRD/Spells/All/Slay Living|Slay Living]] [preparada::0] 
 	- Touch attack kills subject.  
