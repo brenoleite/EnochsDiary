@@ -11,7 +11,7 @@
 **CastingTime**:: 1 standard 
 **Range**:: [[long|long]]
 **Target**:: 
-**Area**:: circle, centered on you, with a radius of 400 ft. + 40 ft./level
+**Area**:: circle, centered on you, with a radius of 400 [[DNDSRD/35eSRD/Definicoes/ft|ft]]. + 40 [[DNDSRD/35eSRD/Definicoes/ft|ft]]./level
 **Duration**:: 1 min./level
 **SavingThrow**:: None
 **SpellResistance**:: false
