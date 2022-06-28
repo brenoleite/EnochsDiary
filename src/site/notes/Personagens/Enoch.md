@@ -29,7 +29,7 @@ Transmutation
 Level: Paladin 2
 Components: V, DF
 Casting Time: 1 swift action
-Area: 10-ft.-radius spread
+Area: 10-[[DNDSRD/35eSRD/Definicoes/ft|ft]].-radius spread
 Duration: Instantaneous
 Saving Throw: None
 Spell Resistance: No
