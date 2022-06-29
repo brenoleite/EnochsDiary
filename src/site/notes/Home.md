@@ -46,11 +46,6 @@ Com a ajuda destas páginas, pratico parte da minha meditação diária como for
 [[Journal/O resgate de Darius|O resgate de Dárius]]
 [[Journal/A batalha contra Nemis|A batalha contra Nemis]] 
 
-<!--TIMELINE BEGIN tags='EnochsJournal'--><div class="timeline"><div class="timeline-container timeline-left"><h2>4720-01-16-10</h2><div class="timeline-event-list" style="display: block"><div class="timeline-card"><article><h3><a class="internal-link" href="/Journal/Batalha com cao infernal nas matas da cidade de Nemis.md">Batalha com cão infernal nas matas de Nemis</a></h3></article><p> 
-	Batalha com cão infernal nas matas da cidade (Nemis)
-</p></div></div></div><div class="timeline-container timeline-right"><h2 style="text-align: right;">4720-01-16-50</h2><div class="timeline-event-list" style="display: block"><div class="timeline-card orange"><article><h3><a class="internal-link" href="/Journal/Batalha com o vampiro que nos seguia.md">Batalha com o vampiro que nos seguia</a></h3></article><p> 
-	Batalha com o vampiro 
-</p></div></div></div></div><div class="timeline-rendered">Tue Jun 28 2022 17:31:25 GMT-0300 (Brasilia Standard Time)</div><!--TIMELINE END-->
 
 ```timeline
 
