@@ -11,3 +11,11 @@ Ao colocarmos a madeira original nas estátuas presentes no ultimo andar da [[Mu
 O [[Personagens/Lhoris|Lhoris]] pediu para provar e um portal se abriu. Todos entramos e fomos para no plano externo da Magia.
 Lá, avistamos o "sexto andar" da biblioteca e fomos atacados por um [[Criaturas/Gigante das Nuvens|Gigante das Nuvens]].
 Como caímos entre o gigante e o andar da biblioteca, conseguimos correr para a biblioteca sem engajar.
+
+<span 
+	  class='ob-timelines' 
+	  data-date='4720-01-16-90' 
+	  data-title='Quase Batalha com gigante das nuvens' 
+	  data-class='orange'> 
+	Quase Batalha com gigante das nuvens
+</span>
