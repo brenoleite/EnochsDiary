@@ -19,7 +19,6 @@ junto de seu caixão achamos o seu diário, através do qual descobrimos que ele
 <span 
 	  class='ob-timelines' 
 	  data-date='4720-01-16-50' 
-	  data-title='Batalha com o vampiro que nos seguia' 
-	  data-class='orange'> 
+	  data-title='Batalha com o vampiro que nos seguia'> 
 	Batalha com o vampiro [Michel Decon](Michel Decon)
 </span>
