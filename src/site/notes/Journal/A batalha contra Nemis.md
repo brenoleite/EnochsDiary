@@ -4,7 +4,13 @@
 
 #EnochsJournal 
 [[Journal/Enoch/log do dia 4720-1-19|log do dia 4720-1-19]] | [[Home\|Home]] | [[Quests/Destruir o Demonio Nemis|Destruir o Demonio Nemis]] 
-
+<span 
+	  class='ob-timelines' 
+	  data-date='4720-01-19-00' 
+	  data-title='Batalha contra Nemis' 
+	  data-class='orange' > 
+	Batalha contra Nemis!
+</span>
 # A batalha contra Nemis
 Ao chegarmos na [[Mundo/Grande Biblioteca de história e religião|Grande Biblioteca de história e religião]], [[Personagens/Nemis - O demonio|Nemis - O demonio]] se encontrava no topo do prédio, e ao perceber nossa chegada, talvez pelo [[Criaturas/Demonio Farpado|Demonio Farpado]] ter passado nossa descrição para ele, [[Personagens/Nemis - O demonio|Nemis]] saltou do alto do prédio para nos confrontar.
 
