@@ -47,16 +47,18 @@ Com a ajuda destas páginas, pratico parte da minha meditação diária como for
 [[Journal/A batalha contra Nemis|A batalha contra Nemis]] 
 
 <!--TIMELINE BEGIN tags='EnochsJournal'--><div class="timeline"><div class="timeline-container timeline-left"><h2>4720-01-16-10</h2><div class="timeline-event-list" style="display: block"><div class="timeline-card"><article><h3><a class="internal-link" href="/Journal/Batalha com cao infernal nas matas da cidade de Nemis.md">Batalha com cão infernal nas matas de Nemis</a></h3></article><p> 
-	Batalha com cão infernal nas matas da cidade (Nemis)
-</p></div></div></div><div class="timeline-container timeline-right"><h2 style="text-align: right;">4720-01-16-50</h2><div class="timeline-event-list" style="display: block"><div class="timeline-card orange"><article><h3><a class="internal-link" href="/Journal/Batalha com o vampiro que nos seguia.md">Batalha com o vampiro que nos seguia</a></h3></article><p> 
+      Batalha com cão infernal nas matas da cidade (Nemis)
+</p></div></div></div><div class="timeline-container timeline-right"><h2 style="text-align: right;">4720-01-16-50</h2><div class="timeline-event-list" style="display: block"><div class="timeline-card"><article><h3><a class="internal-link" href="/Journal/Batalha com o vampiro que nos seguia.md">Batalha com o vampiro que nos seguia</a></h3></article><p> 
 	Batalha com o vampiro [Michel Decon](Michel Decon)
 </p></div></div></div><div class="timeline-container timeline-left"><h2>4720-01-16-90</h2><div class="timeline-event-list" style="display: block"><div class="timeline-card orange"><article><h3><a class="internal-link" href="/Journal/Quase Batalha com gigante das nuvens.md">Quase Batalha com gigante das nuvens</a></h3></article><p> 
 	Quase Batalha com gigante das nuvens
-</p></div></div></div><div class="timeline-container timeline-right"><h2 style="text-align: right;">4720-01-17-20</h2><div class="timeline-event-list" style="display: block"><div class="timeline-card orange"><article><h3><a class="internal-link" href="/Journal/O resgate de Darius.md">O resgate de Darius</a></h3></article><p> 
+</p></div></div></div><div class="timeline-container timeline-right"><h2 style="text-align: right;">4720-01-17</h2><div class="timeline-event-list" style="display: block"><div class="timeline-card orange"><article><h3><a class="internal-link" href="/Journal/Duelo contra clerigo de Heretiru.md">Duelo contra clerigo de Heretiru</a></h3></article><p> 
+	Duelo contra clerigo de Heretiru!
+</p></div></div></div><div class="timeline-container timeline-left"><h2>4720-01-17-20</h2><div class="timeline-event-list" style="display: block"><div class="timeline-card orange"><article><h3><a class="internal-link" href="/Journal/O resgate de Darius.md">O resgate de Darius</a></h3></article><p> 
 	O resgate de Darius!
-</p></div></div></div><div class="timeline-container timeline-left"><h2>4720-01-19</h2><div class="timeline-event-list" style="display: block"><div class="timeline-card orange"><article><h3><a class="internal-link" href="/Journal/A batalha contra Nemis.md">Batalha contra Nemis</a></h3></article><p> 
+</p></div></div></div><div class="timeline-container timeline-right"><h2 style="text-align: right;">4720-01-19</h2><div class="timeline-event-list" style="display: block"><div class="timeline-card orange"><article><h3><a class="internal-link" href="/Journal/A batalha contra Nemis.md">Batalha contra Nemis</a></h3></article><p> 
 	Batalha contra Nemis!
-</p></div></div></div></div><div class="timeline-rendered">Wed Jun 29 2022 17:09:59 GMT-0300 (Brasilia Standard Time)</div><!--TIMELINE END-->
+</p></div></div></div></div><div class="timeline-rendered">Wed Jun 29 2022 17:18:58 GMT-0300 (Brasilia Standard Time)</div><!--TIMELINE END-->
 
 ```timeline
 
