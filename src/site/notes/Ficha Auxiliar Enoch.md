@@ -118,7 +118,7 @@ if (lv3s.length > 0) {
 	- Detects poison in one creature or small object.
 - [ ] [[DNDSRD/35eSRD/Spells/All/Detect Undead|Detect Undead]] [preparada:: 0]
 	- Reveals undead within 60 [[DNDSRD/35eSRD/Definicoes/ft|ft]].
-- [ ] [[DNDSRD/35eSRD/Spells/All/Divine Favor|Divine Favor]] [preparada:: 1]
+- [x] [[DNDSRD/35eSRD/Spells/All/Divine Favor|Divine Favor]] [preparada:: 1]
 	- You gain +1 per three levels on attack and damage rolls.
 - [ ] [[DNDSRD/35eSRD/Spells/All/Endure Elements|Endure Elements]] [preparada:: 0]
 	- Exist comfortably in hot or cold environments.
