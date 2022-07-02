@@ -18,7 +18,7 @@
 |     **Identificar Magia:** | +18 |
 |         **Sobrevivência:** | +7  |
 
-### Magias Preparadas para o dia
+## Magias Preparadas para o dia
 ##### Level 00 (6+1)
 - [ ] [[DNDSRD/35eSRD/Spells/All/Detect Magic|Detect Magic]] [preparada::1]
 	- Detects spells and magic items within 60 [[DNDSRD/35eSRD/Definicoes/ft|ft]].  
@@ -33,7 +33,7 @@
 - [ ] [[DNDSRD/35eSRD/Spells/All/Resistance|Resistance]] [preparada::1]
 	- Subject gains +1 on saving throws.  
 ##### Level 01 (6+1)
-- [ ] [[DNDSRD/35eSRD/Spells/All/Cure Light Wounds|Cure Light Wounds]] [preparada::1]  
+- [x] [[DNDSRD/35eSRD/Spells/All/Cure Light Wounds|Cure Light Wounds]] [preparada::1]  
 	- Cures 1d8 damage +1/level (max +5).  
 :--:
 - [ ] [[DNDSRD/35eSRD/Spells/All/Bless Water|Bless Water]] [preparada::1]
@@ -63,7 +63,7 @@
 - [x] [[DNDSRD/35eSRD/Spells/All/Status|Status]] [preparada::1]
 	- Monitors condition, position of allies.  
 ##### Level 03 (4+1)
-- [ ] [[DNDSRD/35eSRD/Spells/All/Cure Serious Wounds|Cure Serious Wounds]] [preparada::1]  
+- [x] [[DNDSRD/35eSRD/Spells/All/Cure Serious Wounds|Cure Serious Wounds]] [preparada::1]  
 	- Cures 3d8 damage +1/level (max +15).  
 :--:
 - [x] [[DNDSRD/35eSRD/Spells/All/Daylight|Daylight]] [preparada::1]
@@ -151,6 +151,37 @@
 	- Restores life to subject who died as long as one day/level ago.  
 - [ ] [[DNDSRD/35eSRD/Spells/All/Cure Light Wounds, Mass|Cure Light Wounds, Mass]]
 	- Cures 1d8 damage +1/level for one creature/level, no two of which can be more than 30 [[DNDSRD/35eSRD/Definicoes/ft|ft]]. apart.
+
+
+#### Magias good
+##### Level 1
+- [[DNDSRD/35eSRD/Spells/All/Bless Water|Bless Water]]: Makes holy water.
+- [[DNDSRD/35eSRD/Spells/All/Protection from Evil|Protection from Evil]]: +2 to AC and saves, counter mind control, hedge out elementals and outsiders.
+
+##### Level 2
+- [[DNDSRD/35eSRD/Spells/All/Consecrate|Consecrate]]: Fills area with positive energy, making undead weaker.
+
+##### Level 3
+- [[DNDSRD/35eSRD/Spells/All/Magic Circle against Evil|Magic Circle against Evil]]: As protection from evil, but 10-[[DNDSRD/35eSRD/Definicoes/ft|ft]]. radius and 10 min./level.
+
+##### Level 4
+- [[DNDSRD/35eSRD/Spells/All/Holy Smite|Holy Smite]]: null
+
+##### Level 5
+- [[DNDSRD/35eSRD/Spells/All/Dispel Evil|Dispel Evil]]: +4 bonus against attacks by evil creatures.
+- [[DNDSRD/35eSRD/Spells/All/Hallow|Hallow]]: Designates location as holy.
+
+##### Level 6
+
+##### Level 7
+- [[DNDSRD/35eSRD/Spells/All/Holy Word|Holy Word]]: Kills, paralyzes, blinds, or deafens nongood subjects.
+
+##### Level 8
+- [[DNDSRD/35eSRD/Spells/All/Holy Aura|Holy Aura]]: +4 to AC, +4 resistance, and SR 25 against evil spells.
+
+##### Level 9
+
+##### outros
 
 
 ## Combate
