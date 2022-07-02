@@ -15,7 +15,7 @@ O clérigo então tentou usar poderes psiquicos contra [[Personagens/Enoch|Enoch
 
 <span 
 	  class='ob-timelines' 
-	  data-date='4720-01-17-00' 
+	  data-date='4720-01-17-01' 
 	  data-title='Duelo contra clerigo de Heretiru' 
 	  data-class='orange'> 
 	Duelo contra clerigo de Heretiru!
