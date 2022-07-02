@@ -19,6 +19,7 @@
 Suspeitamos ser um dragão dourado em forma de elfo.
 
 Prometeu nos ajudar com conselhos e recursos contra [[Personagens/Jorkman|Jorkman]].
+- cada ruby ou esmeralda pode repetir o teste de diplomacia com +1 para conseguirmos recursos
 
 Aconselhou não interagirmos com os gigantes de pedra que moram nas cavernas, mas [[Personagens/Li|Li]] achou que havia algo estranho no seu conselho.
 
