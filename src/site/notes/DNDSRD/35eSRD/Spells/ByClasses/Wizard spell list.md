@@ -1,0 +1,404 @@
+---
+{"dg-publish":true,"permalink":"/dndsrd/35e-srd/spells/by-classes/wizard-spell-list/","dgHomeLink":true,"dgPassFrontmatter":false}
+---
+
+
+<a href="javascript:history.back()">⬅️ Voltar</a>
+
+# Wizard spell list
+##### Level 00
+- [[DNDSRD/35eSRD/Spells/All/Acid Splash|Acid Splash]]: Orb deals 1d3 acid damage.  
+- [[DNDSRD/35eSRD/Spells/All/Arcane Mark|Arcane Mark]]: Inscribes a personal rune (visible or invisible).  
+- [[DNDSRD/35eSRD/Spells/All/Dancing Lights|Dancing Lights]]: Creates torches or other lights.  
+- [[DNDSRD/35eSRD/Spells/All/Daze|Daze]]: Humanoid creature of 4 HD or less loses next action.  
+- [[DNDSRD/35eSRD/Spells/All/Detect Magic|Detect Magic]]: Detects spells and magic items within 60 [[DNDSRD/35eSRD/Definicoes/ft|ft]].  
+- [[DNDSRD/35eSRD/Spells/All/Detect Poison|Detect Poison]]: Detects poison in one creature or small object.  
+- [[DNDSRD/35eSRD/Spells/All/Disrupt Undead|Disrupt Undead]]: Deals 1d6 damage to one undead.  
+- [[DNDSRD/35eSRD/Spells/All/Flare|Flare]]: Dazzles one creature (-1 on attack rolls).  
+- [[DNDSRD/35eSRD/Spells/All/Ghost Sound|Ghost Sound]]: Figment sounds.  
+- [[DNDSRD/35eSRD/Spells/All/Light (spell)|Light (spell)]]: Object shines like a torch.  
+- [[DNDSRD/35eSRD/Spells/All/Mage Hand|Mage Hand]]: 5-pound telekinesis.  
+- [[DNDSRD/35eSRD/Spells/All/Mending|Mending]]: Makes minor repairs on an object.  
+- [[DNDSRD/35eSRD/Spells/All/Message|Message]]: Whispered conversation at distance.  
+- [[DNDSRD/35eSRD/Spells/All/Open_Close|Open_Close]]: Opens or closes small or light things.  
+- [[DNDSRD/35eSRD/Spells/All/Prestidigitation|Prestidigitation]]: Performs minor tricks.  
+- [[DNDSRD/35eSRD/Spells/All/Ray of Frost|Ray of Frost]]: Ray deals 1d3 cold damage.  
+- [[DNDSRD/35eSRD/Spells/All/Read Magic|Read Magic]]: Read scrolls and spellbooks.  
+- [[DNDSRD/35eSRD/Spells/All/Resistance|Resistance]]: Subject gains +1 on saving throws.  
+- [[DNDSRD/35eSRD/Spells/All/Touch of Fatigue|Touch of Fatigue]]: Touch attack fatigues target.  
+##### Level 01
+- [[DNDSRD/35eSRD/Spells/All/Alarm|Alarm]]: Wards an area for 2 hours/level.  
+- [[DNDSRD/35eSRD/Spells/All/Animate Rope|Animate Rope]]: Makes a rope move at your command.  
+- [[DNDSRD/35eSRD/Spells/All/Burning Hands|Burning Hands]]: 1d4/level fire damage (max 5d4).  
+- [[DNDSRD/35eSRD/Spells/All/Cause Fear|Cause Fear]]: One creature of 5 HD or less flees for 1d4 rounds.  
+- [[DNDSRD/35eSRD/Spells/All/Charm Person|Charm Person]]: Makes one person your friend.  
+- [[DNDSRD/35eSRD/Spells/All/Chill Touch|Chill Touch]]: One touch/level deals 1d6 damage and possibly 1 Str damage.  
+- [[DNDSRD/35eSRD/Spells/All/Color Spray|Color Spray]]: Knocks unconscious, blinds, and/or stuns weak creatures.  
+- [[DNDSRD/35eSRD/Spells/All/Comprehend Languages|Comprehend Languages]]: You understand all spoken and written languages.  
+- [[DNDSRD/35eSRD/Spells/All/Detect Secret Doors|Detect Secret Doors]]: Reveals hidden doors within 60 [[DNDSRD/35eSRD/Definicoes/ft|ft]].  
+- [[DNDSRD/35eSRD/Spells/All/Detect Undead|Detect Undead]]: Reveals undead within 60 [[DNDSRD/35eSRD/Definicoes/ft|ft]].  
+- [[DNDSRD/35eSRD/Spells/All/Disguise Self|Disguise Self]]: Changes your appearance.  
+- [[DNDSRD/35eSRD/Spells/All/Endure Elements|Endure Elements]]: Exist comfortably in hot or cold environments.  
+- [[DNDSRD/35eSRD/Spells/All/Enlarge Person|Enlarge Person]]: Humanoid creature doubles in size.  
+- [[DNDSRD/35eSRD/Spells/All/Erase|Erase]]: Mundane or magical writing vanishes.  
+- [[DNDSRD/35eSRD/Spells/All/Expeditious Retreat|Expeditious Retreat]]: Your speed increases by 30 [[DNDSRD/35eSRD/Definicoes/ft|ft]].  
+- [[DNDSRD/35eSRD/Spells/All/Feather Fall|Feather Fall]]: Objects or creatures fall slowly.  
+- [[DNDSRD/35eSRD/Spells/All/Floating Disk|Floating Disk]]: Creates 3-[[DNDSRD/35eSRD/Definicoes/ft|ft]].-diameter horizontal disk that holds 100 lb./level.  
+- [[DNDSRD/35eSRD/Spells/All/Grease|Grease]]: Makes 10-[[DNDSRD/35eSRD/Definicoes/ft|ft]]. square or one object slippery.  
+- [[DNDSRD/35eSRD/Spells/All/Hold Portal|Hold Portal]]: Holds door shut.  
+- [[DNDSRD/35eSRD/Spells/All/Hypnotism|Hypnotism]]: Fascinates 2d4 HD of creatures.  
+- [[DNDSRD/35eSRD/Spells/All/Identify|Identify]]: Determines properties of magic item.  
+- [[DNDSRD/35eSRD/Spells/All/Jump (Spell)|Jump (Spell)]]: Subject gets bonus on Jump checks.  
+- [[DNDSRD/35eSRD/Spells/All/Mage Armor|Mage Armor]]: Gives subject +4 armor bonus.  
+- [[DNDSRD/35eSRD/Spells/All/Magic Aura|Magic Aura]]: Alters object’s magic aura.  
+- [[DNDSRD/35eSRD/Spells/All/Magic Missile|Magic Missile]]: 1d4+1 damage; +1 missile per two levels above 1st (max 5).  
+- [[DNDSRD/35eSRD/Spells/All/Magic Weapon|Magic Weapon]]: Weapon gains +1 bonus.  
+- [[DNDSRD/35eSRD/Spells/All/Mount|Mount]]: Summons riding horse for 2 hours/level.  
+- [[DNDSRD/35eSRD/Spells/All/Obscuring Mist|Obscuring Mist]]: Fog surrounds you.  
+- [[DNDSRD/35eSRD/Spells/All/Protection from Chaos|Protection from Chaos]]: +2 to AC and saves, counter mind control, hedge out elementals and outsiders.  
+- [[DNDSRD/35eSRD/Spells/All/Protection from Evil|Protection from Evil]]: +2 to AC and saves, counter mind control, hedge out elementals and outsiders.  
+- [[DNDSRD/35eSRD/Spells/All/Protection from Good|Protection from Good]]: +2 to AC and saves, counter mind control, hedge out elementals and outsiders.  
+- [[DNDSRD/35eSRD/Spells/All/Protection from Law|Protection from Law]]: +2 to AC and saves, counter mind control, hedge out elementals and outsiders.  
+- [[DNDSRD/35eSRD/Spells/All/Ray of Enfeeblement|Ray of Enfeeblement]]: Ray deals 1d6 +1 per two levels Str damage.  
+- [[DNDSRD/35eSRD/Spells/All/Reduce Person|Reduce Person]]: Humanoid creature halves in size.  
+- [[DNDSRD/35eSRD/Spells/All/Shield|Shield]]: Invisible disc gives +4 to AC, blocks magic missiles.  
+- [[DNDSRD/35eSRD/Spells/All/Shocking Grasp|Shocking Grasp]]: Touch delivers 1d6/level electricity damage (max 5d6).  
+- [[DNDSRD/35eSRD/Spells/All/Silent Image|Silent Image]]: Creates minor illusion of your design.  
+- [[DNDSRD/35eSRD/Spells/All/Sleep|Sleep]]: Puts 4 HD of creatures into magical slumber.  
+- [[DNDSRD/35eSRD/Spells/All/Summon Monster I|Summon Monster I]]: Calls extraplanar creature to fight for you.  
+- [[DNDSRD/35eSRD/Spells/All/True Strike|True Strike]]: +20 on your next attack roll.  
+- [[DNDSRD/35eSRD/Spells/All/Unseen Servant|Unseen Servant]]: Invisible force obeys your commands.  
+- [[DNDSRD/35eSRD/Spells/All/Ventriloquism|Ventriloquism]]: Throws voice for 1 min./level.  
+##### Level 02
+- [[DNDSRD/35eSRD/Spells/All/Acid Arrow|Acid Arrow]]: Ranged touch attack; 2d4 damage for 1 round +1 round/three levels.  
+- [[DNDSRD/35eSRD/Spells/All/Alter Self|Alter Self]]: Assume form of a similar creature.  
+- [[DNDSRD/35eSRD/Spells/All/Arcane Lock|Arcane Lock]]: Magically locks a portal or chest.  
+- [[DNDSRD/35eSRD/Spells/All/Baleful Transportation|Baleful Transportation]]:  
+- [[DNDSRD/35eSRD/Spells/All/Bear's Endurance|Bear's Endurance]]: Subject gains +4 to Con for 1 min./level.  
+- [[DNDSRD/35eSRD/Spells/All/Blindness_Deafness m|Blindness_Deafness m]]: Makes subject blind or deaf.  
+- [[DNDSRD/35eSRD/Spells/All/Blur|Blur]]: Attacks miss subject 20% of the time.  
+- [[DNDSRD/35eSRD/Spells/All/Bull's Strength|Bull's Strength]]: Subject gains +4 to Str for 1 min./level.  
+- [[DNDSRD/35eSRD/Spells/All/Cat's Grace|Cat's Grace]]: Subject gains +4 to Dex for 1 min./level.  
+- [[DNDSRD/35eSRD/Spells/All/Command Undead|Command Undead]]: Undead creature obeys your commands.  
+- [[DNDSRD/35eSRD/Spells/All/Continual Flame|Continual Flame]]: Makes a permanent, heatless torch.  
+- [[DNDSRD/35eSRD/Spells/All/Darkness|Darkness]]: 20-[[DNDSRD/35eSRD/Definicoes/ft|ft]]. radius of supernatural shadow.  
+- [[DNDSRD/35eSRD/Spells/All/Darkvision (spell)|Darkvision (spell)]]: See 60 [[DNDSRD/35eSRD/Definicoes/ft|ft]]. in total darkness.  
+- [[DNDSRD/35eSRD/Spells/All/Daze Monster|Daze Monster]]: Living creature of 6 HD or less loses next action.  
+- [[DNDSRD/35eSRD/Spells/All/Detect Thoughts|Detect Thoughts]]: Allows “listening” to surface thoughts.  
+- [[DNDSRD/35eSRD/Spells/All/Eagle's Splendor|Eagle's Splendor]]: Subject gains +4 to Cha for 1 min./level.  
+- [[DNDSRD/35eSRD/Spells/All/False Life|False Life]]: Gain 1d10 temporary hp +1/level (max +10).  
+- [[DNDSRD/35eSRD/Spells/All/Flaming Sphere|Flaming Sphere]]: Creates rolling ball of fire, 2d6 damage, lasts 1 round/level.  
+- [[DNDSRD/35eSRD/Spells/All/Fog Cloud|Fog Cloud]]: Fog obscures vision.  
+- [[DNDSRD/35eSRD/Spells/All/Fox's Cunning|Fox's Cunning]]: Subject gains +4 to Int for 1 min./level.  
+- [[DNDSRD/35eSRD/Spells/All/Ghoul Touch|Ghoul Touch]]: Paralyzes one subject, which exudes stench that makes those nearby sickened.  
+- [[DNDSRD/35eSRD/Spells/All/Glitterdust|Glitterdust]]: Blinds creatures, outlines invisible creatures.  
+- [[DNDSRD/35eSRD/Spells/All/Gust of Wind|Gust of Wind]]: Blows away or knocks down smaller creatures.  
+- [[DNDSRD/35eSRD/Spells/All/Hideous Laughter|Hideous Laughter]]: Subject loses actions for 1 round/ level.  
+- [[DNDSRD/35eSRD/Spells/All/Hypnotic Pattern|Hypnotic Pattern]]: Fascinates (2d4 + level) HD of creatures.  
+- [[DNDSRD/35eSRD/Spells/All/Invisibility (Spell)|Invisibility (Spell)]]: Subject is invisible for 1 min./level or until it attacks.  
+- [[DNDSRD/35eSRD/Spells/All/Knock|Knock]]: Opens locked or magically sealed door.  
+- [[DNDSRD/35eSRD/Spells/All/Levitate|Levitate]]: Subject moves up and down at your direction.  
+- [[DNDSRD/35eSRD/Spells/All/Locate Object|Locate Object]]: Senses direction toward object (specific or type).  
+- [[DNDSRD/35eSRD/Spells/All/Magic Mouth|Magic Mouth]]: Speaks once when triggered.  
+- [[DNDSRD/35eSRD/Spells/All/Minor Image|Minor Image]]: As silent image, plus some sound.  
+- [[DNDSRD/35eSRD/Spells/All/Mirror Image|Mirror Image]]: Creates decoy duplicates of you (1d4 +1 per three levels, max 8).  
+- [[DNDSRD/35eSRD/Spells/All/Misdirection|Misdirection]]: Misleads divinations for one creature or object.  
+- [[DNDSRD/35eSRD/Spells/All/Obscure Object|Obscure Object]]: Masks object against scrying.  
+- [[DNDSRD/35eSRD/Spells/All/Owl's Wisdom|Owl's Wisdom]]: Subject gains +4 to Wis for 1 min./level.  
+- [[DNDSRD/35eSRD/Spells/All/Phantom Trap|Phantom Trap]]: Makes item seem trapped.  
+- [[DNDSRD/35eSRD/Spells/All/Protection from Arrows|Protection from Arrows]]: Subject immune to most ranged attacks.  
+- [[DNDSRD/35eSRD/Spells/All/Pyrotechnics|Pyrotechnics]]: Turns fire into blinding light or choking smoke.  
+- [[DNDSRD/35eSRD/Spells/All/Resist Energy|Resist Energy]]: Ignores first 10 (or more) points of damage/attack from specified energy type.  
+- [[DNDSRD/35eSRD/Spells/All/Rope Trick|Rope Trick]]: As many as eight creatures hide in extradimensional space.  
+- [[DNDSRD/35eSRD/Spells/All/Scare|Scare]]: Panics creatures of less than 6 HD.  
+- [[DNDSRD/35eSRD/Spells/All/Scorching Ray|Scorching Ray]]: Ranged touch attack deals 4d6 fire damage, +1 ray/four levels (max 3).  
+- [[DNDSRD/35eSRD/Spells/All/See Invisibility|See Invisibility]]: Reveals invisible creatures or objects.  
+- [[DNDSRD/35eSRD/Spells/All/Shatter|Shatter]]: Sonic vibration damages objects or crystalline creatures.  
+- [[DNDSRD/35eSRD/Spells/All/Spectral Hand|Spectral Hand]]: Creates disembodied glowing hand to deliver touch attacks.  
+- [[DNDSRD/35eSRD/Spells/All/Spider Climb|Spider Climb]]: Grants ability to walk on walls and ceilings.  
+- [[DNDSRD/35eSRD/Spells/All/Summon Monster II|Summon Monster II]]: Calls extraplanar creature to fight for you.  
+- [[DNDSRD/35eSRD/Spells/All/Summon Swarm|Summon Swarm]]: Summons swarm of bats, rats, or spiders.  
+- [[DNDSRD/35eSRD/Spells/All/Touch of Idiocy|Touch of Idiocy]]: Subject takes 1d6 points of Int, Wis, and Cha damage.  
+- [[DNDSRD/35eSRD/Spells/All/Web|Web]]: Fills 20-[[DNDSRD/35eSRD/Definicoes/ft|ft]].-radius spread with sticky spiderwebs.  
+- [[DNDSRD/35eSRD/Spells/All/Whispering Wind|Whispering Wind]]: Sends a short message 1 mile/level.  
+##### Level 03
+- [[DNDSRD/35eSRD/Spells/All/Arcane Sight|Arcane Sight]]: Magical auras become visible to you.  
+- [[DNDSRD/35eSRD/Spells/All/Blink|Blink]]: You randomly vanish and reappear for 1 round/level.  
+- [[DNDSRD/35eSRD/Spells/All/Clairaudience_Clairvoyance|Clairaudience_Clairvoyance]]: Hear or see at a distance for 1 min./level.  
+- [[DNDSRD/35eSRD/Spells/All/Daylight|Daylight]]: 60-[[DNDSRD/35eSRD/Definicoes/ft|ft]]. radius of bright light.  
+- [[DNDSRD/35eSRD/Spells/All/Deep Slumber|Deep Slumber]]: Puts 10 HD of creatures to sleep.  
+- [[DNDSRD/35eSRD/Spells/All/Dispel Magic|Dispel Magic]]: Cancels magical spells and effects.  
+- [[DNDSRD/35eSRD/Spells/All/Displacement|Displacement]]: Attacks miss subject 50%.  
+- [[DNDSRD/35eSRD/Spells/All/Explosive Runes|Explosive Runes]]: Deals 6d6 damage when read.  
+- [[DNDSRD/35eSRD/Spells/All/Fireball|Fireball]]: 1d6 damage per level, 20-[[DNDSRD/35eSRD/Definicoes/ft|ft]]. radius.  
+- [[DNDSRD/35eSRD/Spells/All/Flame Arrow|Flame Arrow]]: Arrows deal +1d6 fire damage.  
+- [[DNDSRD/35eSRD/Spells/All/Fly|Fly]]: Subject flies at speed of 60 [[DNDSRD/35eSRD/Definicoes/ft|ft]].  
+- [[DNDSRD/35eSRD/Spells/All/Gaseous Form|Gaseous Form]]: Subject becomes insubstantial and can fly slowly.  
+- [[DNDSRD/35eSRD/Spells/All/Gentle Repose|Gentle Repose]]: Preserves one corpse.  
+- [[DNDSRD/35eSRD/Spells/All/Halt Undead|Halt Undead]]: Immobilizes undead for 1 round/level.  
+- [[DNDSRD/35eSRD/Spells/All/Haste|Haste]]: One creature/level moves faster, +1 on attack rolls, AC, and Reflex saves.  
+- [[DNDSRD/35eSRD/Spells/All/Heroism|Heroism]]: Gives +2 on attack rolls, saves, skill checks.  
+- [[DNDSRD/35eSRD/Spells/All/Hold Person|Hold Person]]: Paralyzes one humanoid for 1 round/level.  
+- [[DNDSRD/35eSRD/Spells/All/Illusory Script|Illusory Script]]: Only intended reader can decipher.  
+- [[DNDSRD/35eSRD/Spells/All/Invisibility Sphere|Invisibility Sphere]]: Makes everyone within 10 [[DNDSRD/35eSRD/Definicoes/ft|ft]]. invisible.  
+- [[DNDSRD/35eSRD/Spells/All/Keen Edge|Keen Edge]]: Doubles normal weapon’s threat range.  
+- [[DNDSRD/35eSRD/Spells/All/Lightning Bolt|Lightning Bolt]]: Electricity deals 1d6/level damage.  
+- [[DNDSRD/35eSRD/Spells/All/Magic Circle against Chaos|Magic Circle against Chaos]]: As protection from chaos, but 10-[[DNDSRD/35eSRD/Definicoes/ft|ft]]. radius and 10 min./level.  
+- [[DNDSRD/35eSRD/Spells/All/Magic Circle against Evil|Magic Circle against Evil]]: As protection from evil, but 10-[[DNDSRD/35eSRD/Definicoes/ft|ft]]. radius and 10 min./level.  
+- [[DNDSRD/35eSRD/Spells/All/Magic Circle against Good|Magic Circle against Good]]: As protection spells, but 10-[[DNDSRD/35eSRD/Definicoes/ft|ft]]. radius and 10 min./level.  
+- [[DNDSRD/35eSRD/Spells/All/Magic Circle against Law|Magic Circle against Law]]: As protection spells, but 10-[[DNDSRD/35eSRD/Definicoes/ft|ft]]. radius and 10 min./level.  
+- [[DNDSRD/35eSRD/Spells/All/Magic Weapon, Greater|Magic Weapon, Greater]]: +1/four levels (max +5).  
+- [[DNDSRD/35eSRD/Spells/All/Major Image|Major Image]]: As silent image, plus sound, smell and thermal effects.  
+- [[DNDSRD/35eSRD/Spells/All/Nondetection|Nondetection]]: Hides subject from divination, scrying.  
+- [[DNDSRD/35eSRD/Spells/All/Phantom Steed|Phantom Steed]]: Magic horse appears for 1 hour/level.  
+- [[DNDSRD/35eSRD/Spells/All/Protection from Energy|Protection from Energy]]: Absorb 12 points/level of damage from one kind of energy.  
+- [[DNDSRD/35eSRD/Spells/All/Rage|Rage]]: Gives +2 to Str and Con, +1 on Will saves, -2 to AC.  
+- [[DNDSRD/35eSRD/Spells/All/Ray of Exhaustion|Ray of Exhaustion]]: Ray makes subject exhausted.  
+- [[DNDSRD/35eSRD/Spells/All/Secret Page|Secret Page]]: Changes one page to hide its real content.  
+- [[DNDSRD/35eSRD/Spells/All/Sepia Snake Sigil|Sepia Snake Sigil]]: Creates text symbol that immobilizes reader.  
+- [[DNDSRD/35eSRD/Spells/All/Shrink Item|Shrink Item]]: Object shrinks to one-sixteenth size.  
+- [[DNDSRD/35eSRD/Spells/All/Sleet Storm|Sleet Storm]]: Hampers vision and movement.  
+- [[DNDSRD/35eSRD/Spells/All/Slow|Slow]]: One subject/level takes only one action/round, -1 to AC, reflex saves, and attack rolls.  
+- [[DNDSRD/35eSRD/Spells/All/Stinking Cloud|Stinking Cloud]]: Nauseating vapors, 1 round/level.  
+- [[DNDSRD/35eSRD/Spells/All/Suggestion|Suggestion]]: Compels subject to follow stated course of action.  
+- [[DNDSRD/35eSRD/Spells/All/Summon Monster III|Summon Monster III]]: Calls extraplanar creature to fight for you.  
+- [[DNDSRD/35eSRD/Spells/All/Telepathic Bond, Lesser|Telepathic Bond, Lesser]]:  
+- [[DNDSRD/35eSRD/Spells/All/Tiny Hut|Tiny Hut]]: Creates shelter for ten creatures.  
+- [[DNDSRD/35eSRD/Spells/All/Tongues|Tongues]]: Speak any language.  
+- [[DNDSRD/35eSRD/Spells/All/Vampiric Touch|Vampiric Touch]]: Touch deals 1d6/two levels damage; caster gains damage as hp.  
+- [[DNDSRD/35eSRD/Spells/All/Water Breathing|Water Breathing]]: Subjects can breathe underwater.  
+- [[DNDSRD/35eSRD/Spells/All/Wind Wall|Wind Wall]]: Deflects arrows, smaller creatures, and gases.  
+##### Level 04
+- [[DNDSRD/35eSRD/Spells/All/Animate Dead|Animate Dead]]: Creates undead skeletons and zombies.  
+- [[DNDSRD/35eSRD/Spells/All/Arcane Eye|Arcane Eye]]: Invisible floating eye moves 30 [[DNDSRD/35eSRD/Definicoes/ft|ft]]./round.  
+- [[DNDSRD/35eSRD/Spells/All/Bestow Curse|Bestow Curse]]: -6 to an ability score; -4 on attack rolls, saves, and checks; or 50% chance of losing each action.  
+- [[DNDSRD/35eSRD/Spells/All/Black Tentacles|Black Tentacles]]: Tentacles grapple all within 20 [[DNDSRD/35eSRD/Definicoes/ft|ft]]. spread.  
+- [[DNDSRD/35eSRD/Spells/All/Charm Monster|Charm Monster]]: Makes monster believe it is your ally.  
+- [[DNDSRD/35eSRD/Spells/All/Confusion|Confusion]]: Subjects behave oddly for 1 round/level.  
+- [[DNDSRD/35eSRD/Spells/All/Contagion|Contagion]]: Infects subject with chosen disease.  
+- [[DNDSRD/35eSRD/Spells/All/Crushing Despair|Crushing Despair]]: Subjects take -2 on attack rolls, damage rolls, saves, and checks.  
+- [[DNDSRD/35eSRD/Spells/All/Detect Scrying|Detect Scrying]]: Alerts you of magical eavesdropping.  
+- [[DNDSRD/35eSRD/Spells/All/Dimension Door|Dimension Door]]: Teleports you short distance.  
+- [[DNDSRD/35eSRD/Spells/All/Dimensional Anchor|Dimensional Anchor]]: Bars extradimensional movement.  
+- [[DNDSRD/35eSRD/Spells/All/Dweomer of Transference|Dweomer of Transference]]:  
+- [[DNDSRD/35eSRD/Spells/All/Enervation|Enervation]]: Subject gains 1d4 negative levels.  
+- [[DNDSRD/35eSRD/Spells/All/Enlarge Person, Mass|Enlarge Person, Mass]]: Enlarges several creatures.  
+- [[DNDSRD/35eSRD/Spells/All/Fear (spell)|Fear (spell)]]: Subjects within cone flee for 1 round/level.  
+- [[DNDSRD/35eSRD/Spells/All/Fire Shield|Fire Shield]]: Creatures attacking you take fire damage; you’re protected from heat or cold.  
+- [[DNDSRD/35eSRD/Spells/All/Fire Trap|Fire Trap]]: Opened object deals 1d4 damage +1/level.  
+- [[DNDSRD/35eSRD/Spells/All/Geas, Lesser|Geas, Lesser]]: Commands subject of 7 HD or less.  
+- [[DNDSRD/35eSRD/Spells/All/Globe of Invulnerability, Lesser|Globe of Invulnerability, Lesser]]: Stops 1st- through 3rd-level spell effects.  
+- [[DNDSRD/35eSRD/Spells/All/Hallucinatory Terrain|Hallucinatory Terrain]]: Makes one type of terrain appear like another (field into forest, or the like).  
+- [[DNDSRD/35eSRD/Spells/All/Ice Storm|Ice Storm]]: Hail deals 5d6 damage in cylinder 40 [[DNDSRD/35eSRD/Definicoes/ft|ft]]. across.  
+- [[DNDSRD/35eSRD/Spells/All/Illusory Wall|Illusory Wall]]: Wall, floor, or ceiling looks real, but anything can pass through.  
+- [[DNDSRD/35eSRD/Spells/All/Invisibility, Greater|Invisibility, Greater]]: As invisibility, but subject can attack and stay invisible.  
+- [[DNDSRD/35eSRD/Spells/All/Locate Creature|Locate Creature]]: Indicates direction to familiar creature.  
+- [[DNDSRD/35eSRD/Spells/All/Minor Creation|Minor Creation]]: Creates one cloth or wood object.  
+- [[DNDSRD/35eSRD/Spells/All/Mnemonic Enhancer|Mnemonic Enhancer]]: Wizard only. Prepares extra spells or retains one just cast.  
+- [[DNDSRD/35eSRD/Spells/All/Phantasmal Killer|Phantasmal Killer]]: Fearsome illusion kills subject or deals 3d6 damage.  
+- [[DNDSRD/35eSRD/Spells/All/Polymorph|Polymorph]]: Gives one willing subject a new form.  
+- [[DNDSRD/35eSRD/Spells/All/Rainbow Pattern|Rainbow Pattern]]: Lights fascinate 24 HD of creatures.  
+- [[DNDSRD/35eSRD/Spells/All/Reduce Person, Mass|Reduce Person, Mass]]: Reduces several creatures.  
+- [[DNDSRD/35eSRD/Spells/All/Remove Curse|Remove Curse]]: Frees object or person from curse.  
+- [[DNDSRD/35eSRD/Spells/All/Resilient Sphere|Resilient Sphere]]: Force globe protects but traps one subject.  
+- [[DNDSRD/35eSRD/Spells/All/Scrying (spell)|Scrying (spell)]]: Spies on subject from a distance.  
+- [[DNDSRD/35eSRD/Spells/All/Secure Shelter|Secure Shelter]]: Creates sturdy cottage.  
+- [[DNDSRD/35eSRD/Spells/All/Shadow Conjuration|Shadow Conjuration]]: Mimics conjuring below 4th level, but only 20% real.  
+- [[DNDSRD/35eSRD/Spells/All/Shout|Shout]]: Deafens all within cone and deals 5d6 sonic damage.  
+- [[DNDSRD/35eSRD/Spells/All/Solid Fog|Solid Fog]]: Blocks vision and slows movement.  
+- [[DNDSRD/35eSRD/Spells/All/Stone Shape|Stone Shape]]: Sculpts stone into any shape.  
+- [[DNDSRD/35eSRD/Spells/All/Stoneskin|Stoneskin]]: Ignore 10 points of damage per attack.  
+- [[DNDSRD/35eSRD/Spells/All/Summon Monster IV|Summon Monster IV]]: Calls extraplanar creature to fight for you.  
+- [[DNDSRD/35eSRD/Spells/All/Wall of Fire|Wall of Fire]]: Deals 2d4 fire damage out to 10 [[DNDSRD/35eSRD/Definicoes/ft|ft]]. and 1d4 out to 20 [[DNDSRD/35eSRD/Definicoes/ft|ft]]. Passing through wall deals 2d6 damage +1/level.  
+- [[DNDSRD/35eSRD/Spells/All/Wall of Ice|Wall of Ice]]: Ice plane creates wall with 15 hp +1/level, or hemisphere can trap creatures inside.  
+##### Level 05
+- [[DNDSRD/35eSRD/Spells/All/Animal Growth|Animal Growth]]: One animal/two levels doubles in size.  
+- [[DNDSRD/35eSRD/Spells/All/Baleful Polymorph|Baleful Polymorph]]: Transforms subject into harmless animal.  
+- [[DNDSRD/35eSRD/Spells/All/Blight|Blight]]:  
+- [[DNDSRD/35eSRD/Spells/All/Break Enchantment|Break Enchantment]]: Frees subjects from enchantments, alterations, curses, and petrification.  
+- [[DNDSRD/35eSRD/Spells/All/Cloudkill|Cloudkill]]: Kills 3 HD or less; 4-6 HD save or die, 6+ HD take Con damage.  
+- [[DNDSRD/35eSRD/Spells/All/Cone of Cold|Cone of Cold]]: 1d6/level cold damage.  
+- [[DNDSRD/35eSRD/Spells/All/Contact Other Plane|Contact Other Plane]]: Lets you ask question of extraplanar entity.  
+- [[DNDSRD/35eSRD/Spells/All/Dismissal|Dismissal]]: Forces a creature to return to native plane.  
+- [[DNDSRD/35eSRD/Spells/All/Dominate Person|Dominate Person]]: Controls humanoid telepathically.  
+- [[DNDSRD/35eSRD/Spells/All/Dream|Dream]]: Sends message to anyone sleeping.  
+- [[DNDSRD/35eSRD/Spells/All/Fabricate|Fabricate]]: Transforms raw materials into finished items.  
+- [[DNDSRD/35eSRD/Spells/All/False Vision|False Vision]]: Fools scrying with an illusion.  
+- [[DNDSRD/35eSRD/Spells/All/Feeblemind|Feeblemind]]: Subject’s Int and Cha drop to 1.  
+- [[DNDSRD/35eSRD/Spells/All/Hold Monster|Hold Monster]]: As hold person, but any creature.  
+- [[DNDSRD/35eSRD/Spells/All/Interposing Hand|Interposing Hand]]: Hand provides cover against one opponent.  
+- [[DNDSRD/35eSRD/Spells/All/Mage's Faithful Hound|Mage's Faithful Hound]]: Phantom dog can guard, attack.  
+- [[DNDSRD/35eSRD/Spells/All/Mage's Private Sanctum|Mage's Private Sanctum]]: Prevents anyone from viewing or scrying an area for 24 hours.  
+- [[DNDSRD/35eSRD/Spells/All/Magic Jar|Magic Jar]]: Enables possession of another creature.  
+- [[DNDSRD/35eSRD/Spells/All/Major Creation|Major Creation]]: As minor creation, plus stone and metal.  
+- [[DNDSRD/35eSRD/Spells/All/Mind Fog|Mind Fog]]: Subjects in fog get -10 to Wis and Will checks.  
+- [[DNDSRD/35eSRD/Spells/All/Mirage Arcana|Mirage Arcana]]: As hallucinatory terrain, plus structures.  
+- [[DNDSRD/35eSRD/Spells/All/Nightmare|Nightmare]]: Sends vision dealing 1d10 damage, fatigue.  
+- [[DNDSRD/35eSRD/Spells/All/Overland Flight|Overland Flight]]: You fly at a speed of 40 [[DNDSRD/35eSRD/Definicoes/ft|ft]]. and can hustle over long distances.  
+- [[DNDSRD/35eSRD/Spells/All/Passwall|Passwall]]: Creates passage through wood or stone wall.  
+- [[DNDSRD/35eSRD/Spells/All/Permanency|Permanency]]: Makes certain spells permanent.  
+- [[DNDSRD/35eSRD/Spells/All/Persistent Image|Persistent Image]]: As major image, but no concentration required.  
+- [[DNDSRD/35eSRD/Spells/All/Planar Binding, Lesser|Planar Binding, Lesser]]: Traps extraplanar creature of 6 HD or less until it performs a task.  
+- [[DNDSRD/35eSRD/Spells/All/Prying Eyes|Prying Eyes]]: 1d4 +1/level floating eyes scout for you.  
+- [[DNDSRD/35eSRD/Spells/All/Psychic Turmoil|Psychic Turmoil]]:  
+- [[DNDSRD/35eSRD/Spells/All/Secret Chest|Secret Chest]]: Hides expensive chest on Ethereal Plane; you retrieve it at will.  
+- [[DNDSRD/35eSRD/Spells/All/Seeming|Seeming]]: Changes appearance of one person per two levels.  
+- [[DNDSRD/35eSRD/Spells/All/Sending|Sending]]: Delivers short message anywhere, instantly.  
+- [[DNDSRD/35eSRD/Spells/All/Shadow Evocation|Shadow Evocation]]: Mimics evocation of lower than 5th level, but only 20% real.  
+- [[DNDSRD/35eSRD/Spells/All/Summon Monster V|Summon Monster V]]: Calls extraplanar creature to fight for you.  
+- [[DNDSRD/35eSRD/Spells/All/Symbol of Pain|Symbol of Pain]]: Triggered rune wracks nearby creatures with pain.  
+- [[DNDSRD/35eSRD/Spells/All/Symbol of Sleep|Symbol of Sleep]]: Triggered rune puts nearby creatures into catatonic slumber.  
+- [[DNDSRD/35eSRD/Spells/All/Telekinesis|Telekinesis]]: Moves object, attacks creature, or hurls object or creature.  
+- [[DNDSRD/35eSRD/Spells/All/Telepathic Bond|Telepathic Bond]]: Link lets allies communicate.  
+- [[DNDSRD/35eSRD/Spells/All/Teleport|Teleport]]: Instantly transports you as far as 100 miles/level.  
+- [[DNDSRD/35eSRD/Spells/All/Transmute Mud to Rock|Transmute Mud to Rock]]: Transforms two 10-[[DNDSRD/35eSRD/Definicoes/ft|ft]]. cubes per level.  
+- [[DNDSRD/35eSRD/Spells/All/Transmute Rock to Mud|Transmute Rock to Mud]]: Transforms two 10-[[DNDSRD/35eSRD/Definicoes/ft|ft]]. cubes per level.  
+- [[DNDSRD/35eSRD/Spells/All/Wall of Force|Wall of Force]]: Wall is immune to damage.  
+- [[DNDSRD/35eSRD/Spells/All/Wall of Stone|Wall of Stone]]: Creates a stone wall that can be shaped.  
+- [[DNDSRD/35eSRD/Spells/All/Waves of Fatigue|Waves of Fatigue]]: Several targets become fatigued.  
+##### Level 06
+- [[DNDSRD/35eSRD/Spells/All/Acid Fog|Acid Fog]]: Fog deals acid damage.  
+- [[DNDSRD/35eSRD/Spells/All/Analyze Dweomer|Analyze Dweomer]]: Reveals magical aspects of subject.  
+- [[DNDSRD/35eSRD/Spells/All/Antimagic Field|Antimagic Field]]: Negates magic within 10 [[DNDSRD/35eSRD/Definicoes/ft|ft]].  
+- [[DNDSRD/35eSRD/Spells/All/Bear's Endurance, Mass|Bear's Endurance, Mass]]: As bear’s endurance, affects one subject/level.  
+- [[DNDSRD/35eSRD/Spells/All/Bull's Strength, Mass|Bull's Strength, Mass]]: As bull’s strength, affects one subject/ level.  
+- [[DNDSRD/35eSRD/Spells/All/Cat's Grace, Mass|Cat's Grace, Mass]]: As cat’s grace, affects one subject/level.  
+- [[DNDSRD/35eSRD/Spells/All/Chain Lightning|Chain Lightning]]: 1d6/level damage; 1 secondary bolt/level each deals half damage.  
+- [[DNDSRD/35eSRD/Spells/All/Circle of Death|Circle of Death]]: Kills 1d4/level HD of creatures.  
+- [[DNDSRD/35eSRD/Spells/All/Contingency|Contingency]]: Sets trigger condition for another spell.  
+- [[DNDSRD/35eSRD/Spells/All/Control Water|Control Water]]: Raises or lowers bodies of water.  
+- [[DNDSRD/35eSRD/Spells/All/Create Undead|Create Undead]]: Creates ghouls, ghasts, mummies, or mohrgs.  
+- [[DNDSRD/35eSRD/Spells/All/Disintegrate|Disintegrate]]: Makes one creature or object vanish.  
+- [[DNDSRD/35eSRD/Spells/All/Dispel Magic, Greater|Dispel Magic, Greater]]: As dispel magic, but +20 on check.  
+- [[DNDSRD/35eSRD/Spells/All/Eagle's Splendor, Mass|Eagle's Splendor, Mass]]: As eagle’s splendor, affects one subject/level.  
+- [[DNDSRD/35eSRD/Spells/All/Eyebite|Eyebite]]: Target becomes panicked, sickened, and comatose.  
+- [[DNDSRD/35eSRD/Spells/All/Flesh to Stone|Flesh to Stone]]: Turns subject creature into statue.  
+- [[DNDSRD/35eSRD/Spells/All/Forceful Hand|Forceful Hand]]: Hand pushes creatures away.  
+- [[DNDSRD/35eSRD/Spells/All/Fox's Cunning, Mass|Fox's Cunning, Mass]]: As fox’s cunning, affects one subject/level.  
+- [[DNDSRD/35eSRD/Spells/All/Freezing Sphere|Freezing Sphere]]: Freezes water or deals cold damage.  
+- [[DNDSRD/35eSRD/Spells/All/Geas_Quest|Geas_Quest]]: As lesser geas, plus it affects any creature.  
+- [[DNDSRD/35eSRD/Spells/All/Globe of Invulnerability|Globe of Invulnerability]]: As lesser globe of invulnerability, plus 4th-level spell effects.  
+- [[DNDSRD/35eSRD/Spells/All/Guards and Wards|Guards and Wards]]: Array of magic effects protect area.  
+- [[DNDSRD/35eSRD/Spells/All/Hardening|Hardening]]:  
+- [[DNDSRD/35eSRD/Spells/All/Heroism, Greater|Heroism, Greater]]: Gives +4 bonus on attack rolls, saves, skill checks; immunity to fear; temporary hp.  
+- [[DNDSRD/35eSRD/Spells/All/Legend Lore|Legend Lore]]: Lets you learn tales about a person, place, or thing.  
+- [[DNDSRD/35eSRD/Spells/All/Mage's Lucubration|Mage's Lucubration]]: Wizard only. Recalls spell of 5th level or lower.  
+- [[DNDSRD/35eSRD/Spells/All/Mental Pinnacle|Mental Pinnacle]]:  
+- [[DNDSRD/35eSRD/Spells/All/Mislead|Mislead]]: Turns you invisible and creates illusory double.  
+- [[DNDSRD/35eSRD/Spells/All/Move Earth|Move Earth]]: Digs trenches and build hills.  
+- [[DNDSRD/35eSRD/Spells/All/Owl's Wisdom, Mass|Owl's Wisdom, Mass]]: As owl’s wisdom, affects one subject/ level.  
+- [[DNDSRD/35eSRD/Spells/All/Permanent Image|Permanent Image]]: Includes sight, sound, and smell.  
+- [[DNDSRD/35eSRD/Spells/All/Planar Binding|Planar Binding]]: As lesser planar binding, but up to 12 HD.  
+- [[DNDSRD/35eSRD/Spells/All/Probe Thoughts|Probe Thoughts]]:  
+- [[DNDSRD/35eSRD/Spells/All/Programmed Image|Programmed Image]]: As major image, plus triggered by event.  
+- [[DNDSRD/35eSRD/Spells/All/Repulsion|Repulsion]]: Creatures can’t approach you.  
+- [[DNDSRD/35eSRD/Spells/All/Shadow Walk|Shadow Walk]]: Step into shadow to travel rapidly.  
+- [[DNDSRD/35eSRD/Spells/All/Stone to Flesh|Stone to Flesh]]: Restores petrified creature.  
+- [[DNDSRD/35eSRD/Spells/All/Suggestion, Mass|Suggestion, Mass]]: As suggestion, plus one subject/level.  
+- [[DNDSRD/35eSRD/Spells/All/Summon Monster VI|Summon Monster VI]]: Calls extraplanar creature to fight for you.  
+- [[DNDSRD/35eSRD/Spells/All/Symbol of Fear|Symbol of Fear]]: Triggered rune panics nearby creatures.  
+- [[DNDSRD/35eSRD/Spells/All/Symbol of Persuasion|Symbol of Persuasion]]: Triggered rune charms nearby creatures.  
+- [[DNDSRD/35eSRD/Spells/All/Transformation|Transformation]]: You gain combat bonuses.  
+- [[DNDSRD/35eSRD/Spells/All/True Seeing|True Seeing]]: Lets you see all things as they really are.  
+- [[DNDSRD/35eSRD/Spells/All/Undeath to Death|Undeath to Death]]: Destroys 1d4/level HD of undead (max 20d4).  
+- [[DNDSRD/35eSRD/Spells/All/Veil|Veil]]: Changes appearance of group of creatures.  
+- [[DNDSRD/35eSRD/Spells/All/Wall of Iron|Wall of Iron]]: 30 hp/four levels; can topple onto foes.  
+##### Level 07
+- [[DNDSRD/35eSRD/Spells/All/Arcane Sight, Greater|Arcane Sight, Greater]]: As arcane sight, but also reveals magic effects on creatures and objects.  
+- [[DNDSRD/35eSRD/Spells/All/Banishment|Banishment]]: Banishes 2 HD/level of extraplanar creatures.  
+- [[DNDSRD/35eSRD/Spells/All/Control Undead|Control Undead]]: Undead don’t attack you while under your command.  
+- [[DNDSRD/35eSRD/Spells/All/Control Weather|Control Weather]]: Changes weather in local area.  
+- [[DNDSRD/35eSRD/Spells/All/Delayed Blast Fireball|Delayed Blast Fireball]]: 1d6/level fire damage; you can postpone blast for 5 rounds.  
+- [[DNDSRD/35eSRD/Spells/All/Ethereal Jaunt|Ethereal Jaunt]]: You become ethereal for 1 round/level.  
+- [[DNDSRD/35eSRD/Spells/All/Finger of Death|Finger of Death]]: Kills one subject.  
+- [[DNDSRD/35eSRD/Spells/All/Forcecage|Forcecage]]: Cube or cage of force imprisons all inside.  
+- [[DNDSRD/35eSRD/Spells/All/Grasping Hand|Grasping Hand]]: Hand provides cover, pushes, or grapples.  
+- [[DNDSRD/35eSRD/Spells/All/Hold Person, Mass|Hold Person, Mass]]: As hold person, but all within 30 [[DNDSRD/35eSRD/Definicoes/ft|ft]].  
+- [[DNDSRD/35eSRD/Spells/All/Insanity|Insanity]]: Subject suffers continuous confusion.  
+- [[DNDSRD/35eSRD/Spells/All/Instant Summons|Instant Summons]]: Prepared object appears in your hand.  
+- [[DNDSRD/35eSRD/Spells/All/Invisibility, Mass|Invisibility, Mass]]: As invisibility, but affects all in range.  
+- [[DNDSRD/35eSRD/Spells/All/Limited Wish|Limited Wish]]: Alters reality—within spell limits.  
+- [[DNDSRD/35eSRD/Spells/All/Mage's Magnificent Mansion|Mage's Magnificent Mansion]]: Door leads to extradimensional mansion.  
+- [[DNDSRD/35eSRD/Spells/All/Mage's Sword|Mage's Sword]]: Floating magic blade strikes opponents.  
+- [[DNDSRD/35eSRD/Spells/All/Phase Door|Phase Door]]: Creates an invisible passage through wood or stone.  
+- [[DNDSRD/35eSRD/Spells/All/Plane Shift|Plane Shift]]: As many as eight subjects travel to another plane.  
+- [[DNDSRD/35eSRD/Spells/All/Power Word Blind|Power Word Blind]]: Blinds creature with 200 hp or less.  
+- [[DNDSRD/35eSRD/Spells/All/Prismatic Spray|Prismatic Spray]]: Rays hit subjects with variety of effects.  
+- [[DNDSRD/35eSRD/Spells/All/Project Image|Project Image]]: Illusory double can talk and cast spells.  
+- [[DNDSRD/35eSRD/Spells/All/Psychic Turmoil, Greater|Psychic Turmoil, Greater]]:  
+- [[DNDSRD/35eSRD/Spells/All/Reverse Gravity|Reverse Gravity]]: Objects and creatures fall upward.  
+- [[DNDSRD/35eSRD/Spells/All/Scrying, Greater|Scrying, Greater]]: As scrying, but faster and longer.  
+- [[DNDSRD/35eSRD/Spells/All/Sequester|Sequester]]: Subject is invisible to sight and scrying; renders creature comatose.  
+- [[DNDSRD/35eSRD/Spells/All/Shadow Conjuration, Greater|Shadow Conjuration, Greater]]: As shadow conjuration, but up to 6th level and 60% real.  
+- [[DNDSRD/35eSRD/Spells/All/Simulacrum|Simulacrum]]: Creates partially real double of a creature.  
+- [[DNDSRD/35eSRD/Spells/All/Spell Turning|Spell Turning]]: Reflect 1d4+6 spell levels back at caster.  
+- [[DNDSRD/35eSRD/Spells/All/Statue|Statue]]: Subject can become a statue at will.  
+- [[DNDSRD/35eSRD/Spells/All/Summon Monster VII|Summon Monster VII]]: Calls extraplanar creature to fight for you.  
+- [[DNDSRD/35eSRD/Spells/All/Symbol of Stunning|Symbol of Stunning]]: Triggered rune stuns nearby creatures.  
+- [[DNDSRD/35eSRD/Spells/All/Symbol of Weakness|Symbol of Weakness]]: Triggered rune weakens nearby creatures.  
+- [[DNDSRD/35eSRD/Spells/All/Teleport Object|Teleport Object]]: As teleport, but affects a touched object.  
+- [[DNDSRD/35eSRD/Spells/All/Teleport, Greater|Teleport, Greater]]: As teleport, but no range limit and no off-target arrival.  
+- [[DNDSRD/35eSRD/Spells/All/Vision|Vision]]: Like legend lore, except that it works more quickly but produces some strain on you.  
+- [[DNDSRD/35eSRD/Spells/All/Waves of Exhaustion|Waves of Exhaustion]]: Several targets become exhausted.  
+##### Level 08
+- [[DNDSRD/35eSRD/Spells/All/Antipathy|Antipathy]]: Object or location affected by spell repels certain creatures.  
+- [[DNDSRD/35eSRD/Spells/All/Binding|Binding]]: Utilizes an array of techniques to imprison a creature.  
+- [[DNDSRD/35eSRD/Spells/All/Charm Monster, Mass|Charm Monster, Mass]]: As charm monster, but all within 30 [[DNDSRD/35eSRD/Definicoes/ft|ft]].  
+- [[DNDSRD/35eSRD/Spells/All/Clenched Fist|Clenched Fist]]: Large hand provides cover, pushes, or attacks your foes.  
+- [[DNDSRD/35eSRD/Spells/All/Clone|Clone]]: Duplicate awakens when original dies.  
+- [[DNDSRD/35eSRD/Spells/All/Create Greater Undead|Create Greater Undead]]: Create shadows, wraiths, spectres, or devourers.  
+- [[DNDSRD/35eSRD/Spells/All/Demand|Demand]]: As sending, plus you can send suggestion.  
+- [[DNDSRD/35eSRD/Spells/All/Dimensional Lock|Dimensional Lock]]: Teleportation and interplanar travel blocked for one day/level.  
+- [[DNDSRD/35eSRD/Spells/All/Discern Location|Discern Location]]: Reveals exact location of creature or object.  
+- [[DNDSRD/35eSRD/Spells/All/Horrid Wilting|Horrid Wilting]]: Deals 1d6/level damage within 30 [[DNDSRD/35eSRD/Definicoes/ft|ft]].  
+- [[DNDSRD/35eSRD/Spells/All/Incendiary Cloud|Incendiary Cloud]]: Cloud deals 4d6 fire damage/round.  
+- [[DNDSRD/35eSRD/Spells/All/Iron Body|Iron Body]]: Your body becomes living iron.  
+- [[DNDSRD/35eSRD/Spells/All/Irresistible Dance|Irresistible Dance]]: Forces subject to dance.  
+- [[DNDSRD/35eSRD/Spells/All/Maddening Scream|Maddening Scream]]:  
+- [[DNDSRD/35eSRD/Spells/All/Maze|Maze]]: Traps subject in extradimensional maze.  
+- [[DNDSRD/35eSRD/Spells/All/Mind Blank|Mind Blank]]: Subject is immune to mental/emotional magic and scrying.  
+- [[DNDSRD/35eSRD/Spells/All/Moment of Prescience|Moment of Prescience]]: You gain insight bonus on single attack roll, check, or save.  
+- [[DNDSRD/35eSRD/Spells/All/Planar Binding, Greater|Planar Binding, Greater]]: As lesser planar binding, but up to 18 HD.  
+- [[DNDSRD/35eSRD/Spells/All/Polar Ray|Polar Ray]]: Ranged touch attack deals 1d6/level cold damage.  
+- [[DNDSRD/35eSRD/Spells/All/Polymorph Any Object|Polymorph Any Object]]: Changes any subject into anything else.  
+- [[DNDSRD/35eSRD/Spells/All/Power Word Stun|Power Word Stun]]: Stuns creature with 150 hp or less.  
+- [[DNDSRD/35eSRD/Spells/All/Prismatic Wall|Prismatic Wall]]: Wall’s colors have array of effects.  
+- [[DNDSRD/35eSRD/Spells/All/Protection from Spells|Protection from Spells]]: Confers +8 resistance bonus.  
+- [[DNDSRD/35eSRD/Spells/All/Prying Eyes, Greater|Prying Eyes, Greater]]: As prying eyes, but eyes have true seeing.  
+- [[DNDSRD/35eSRD/Spells/All/Scintillating Pattern|Scintillating Pattern]]: Twisting colors confuse, stun, or render unconscious.  
+- [[DNDSRD/35eSRD/Spells/All/Screen|Screen]]: Illusion hides area from vision, scrying.  
+- [[DNDSRD/35eSRD/Spells/All/Shadow Evocation, Greater|Shadow Evocation, Greater]]: As shadow evocation, but up to 7th level and 60% real.  
+- [[DNDSRD/35eSRD/Spells/All/Shout, Greater|Shout, Greater]]: Devastating yell deals 10d6 sonic damage; stuns creatures, damages objects.  
+- [[DNDSRD/35eSRD/Spells/All/Summon Monster VIII|Summon Monster VIII]]: Calls extraplanar creature to fight for you.  
+- [[DNDSRD/35eSRD/Spells/All/Sunburst|Sunburst]]: Blinds all within 10 [[DNDSRD/35eSRD/Definicoes/ft|ft]]., deals 6d6 damage.  
+- [[DNDSRD/35eSRD/Spells/All/Symbol of Death|Symbol of Death]]: Triggered rune slays nearby creatures.  
+- [[DNDSRD/35eSRD/Spells/All/Symbol of Insanity|Symbol of Insanity]]: Triggered rune renders nearby creatures insane.  
+- [[DNDSRD/35eSRD/Spells/All/Sympathy|Sympathy]]: Object or location attracts certain creatures.  
+- [[DNDSRD/35eSRD/Spells/All/Telekinetic Sphere|Telekinetic Sphere]]: As resilient sphere, but you move sphere telekinetically.  
+- [[DNDSRD/35eSRD/Spells/All/Temporal Stasis|Temporal Stasis]]: Puts subject into suspended animation.  
+- [[DNDSRD/35eSRD/Spells/All/Trap the Soul|Trap the Soul]]: Imprisons subject within gem.  
+##### Level 09
+- [[DNDSRD/35eSRD/Spells/All/Astral Projection|Astral Projection]]: Projects you and companions onto Astral Plane.  
+- [[DNDSRD/35eSRD/Spells/All/Crushing Hand|Crushing Hand]]: Large hand provides cover, pushes, or crushes your foes.  
+- [[DNDSRD/35eSRD/Spells/All/Dominate Monster|Dominate Monster]]: As dominate person, but any creature.  
+- [[DNDSRD/35eSRD/Spells/All/Energy Drain|Energy Drain]]: Subject gains 2d4 negative levels.  
+- [[DNDSRD/35eSRD/Spells/All/Etherealness|Etherealness]]: Travel to Ethereal Plane with companions.  
+- [[DNDSRD/35eSRD/Spells/All/Foresight|Foresight]]: “Sixth sense” warns of impending danger.  
+- [[DNDSRD/35eSRD/Spells/All/Freedom|Freedom]]: Releases creature from imprisonment.  
+- [[DNDSRD/35eSRD/Spells/All/Gate|Gate]]: Connects two planes for travel or summoning.  
+- [[DNDSRD/35eSRD/Spells/All/Hold Monster, Mass|Hold Monster, Mass]]: As hold monster, but all within 30 [[DNDSRD/35eSRD/Definicoes/ft|ft]].  
+- [[DNDSRD/35eSRD/Spells/All/Imprisonment|Imprisonment]]: Entombs subject beneath the earth.  
+- [[DNDSRD/35eSRD/Spells/All/Mage's Disjunction|Mage's Disjunction]]: Dispels magic, disenchants magic items.  
+- [[DNDSRD/35eSRD/Spells/All/Meteor Swarm|Meteor Swarm]]: Four exploding spheres each deal 6d6 fire damage.  
+- [[DNDSRD/35eSRD/Spells/All/Power Word Kill|Power Word Kill]]: Kills one creature with 100 hp or less.  
+- [[DNDSRD/35eSRD/Spells/All/Prismatic Sphere|Prismatic Sphere]]: As prismatic wall, but surrounds on all sides.  
+- [[DNDSRD/35eSRD/Spells/All/Refuge|Refuge]]: Alters item to transport its possessor to you.  
+- [[DNDSRD/35eSRD/Spells/All/Shades|Shades]]: As shadow conjuration, but up to 8th level and 80% real.  
+- [[DNDSRD/35eSRD/Spells/All/Shapechange|Shapechange]]: Transforms you into any creature, and change forms once per round.  
+- [[DNDSRD/35eSRD/Spells/All/Soul Bind|Soul Bind]]: Traps newly dead soul to prevent resurrection.  
+- [[DNDSRD/35eSRD/Spells/All/Summon Monster IX|Summon Monster IX]]: Calls extraplanar creature to fight for you.  
+- [[DNDSRD/35eSRD/Spells/All/Teleportation Circle|Teleportation Circle]]: Circle teleports any creature inside to designated spot.  
+- [[DNDSRD/35eSRD/Spells/All/Time Stop|Time Stop]]: You act freely for 1d4+1 rounds.  
+- [[DNDSRD/35eSRD/Spells/All/Wail of the Banshee|Wail of the Banshee]]: Kills one creature/level.  
+- [[DNDSRD/35eSRD/Spells/All/Weird|Weird]]: As phantasmal killer, but affects all within 30 [[DNDSRD/35eSRD/Definicoes/ft|ft]].  
+- [[DNDSRD/35eSRD/Spells/All/Wish|Wish]]: As limited wish, but with fewer limits.  
