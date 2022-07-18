@@ -36,25 +36,6 @@ Com a ajuda destas páginas, pratico parte da minha meditação diária como for
 - [[Journal/Enoch/Log do dia 4720-08-09|Log do dia 4720-08-09]]
 
 
-- [[Journal/Enoch/Log Do dia 4720-01-16|Log Do dia 4720-01-16]]
-- [[Journal/Enoch/Log do dia 4720-01-17|Log do dia 4720-01-17]]
-- [[Journal/Enoch/Log do dia 4720-01-18|Log do dia 4720-01-18]]
-- [[Journal/Enoch/log do dia 4720-01-19|log do dia 4720-01-19]]
-- [[Journal/Enoch/log do dia 4720-01-20|log do dia 4720-01-20]]
-- [[Journal/Enoch/Log do dia 4720-01-21|Log do dia 4720-01-21]]
-- [[Journal/Enoch/Log do dia 4720-01-22|Log do dia 4720-01-22]]
-
-[[Journal/Enoch/Log do dia 4720-01-23 - 4720-07-31 6 meses Apos Nemis|Hiato]]
-
-- [[Journal/Enoch/Log do dia 4720-08-01|Log do dia 4720-08-01]]
-- [[Journal/Enoch/Log do dia 4720-08-02|Log do dia 4720-08-02]]
-- [[Journal/Enoch/Log do dia 4720-08-03|Log do dia 4720-08-03]]
-- [[Journal/Enoch/Log do dia 4720-08-04|Log do dia 4720-08-04]]
-- [[Journal/Enoch/Log do dia 4720-08-05|Log do dia 4720-08-05]]
-- [[Journal/Enoch/Log do dia 4720-08-06|Log do dia 4720-08-06]]
-- [[Journal/Enoch/Log do dia 4720-08-07|Log do dia 4720-08-07]]
-- [[Journal/Enoch/Log do dia 4720-08-08|Log do dia 4720-08-08]]
-
 
 
 ## Eventos memoráveis
