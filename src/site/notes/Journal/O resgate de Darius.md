@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/journal/o-resgate-de-darius/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-[[Home|Home]] | [[Journal/Enoch/Log do dia 4720-1-17|Log do dia 4720-1-17]] | [[Personagens/Anão Darius|Anão Darius]] | [[DNDSRD/35eSRD/Magic Itens/HomeBrew/Arma da mortalidade|Arma da mortalidade]] 
+[[Home|Home]] | [[Journal/Enoch/Log do dia 4720-01-17|Log do dia 4720-01-17]] | [[Personagens/Anão Darius|Anão Darius]] | [[DNDSRD/35eSRD/Magic Itens/HomeBrew/Arma da mortalidade|Arma da mortalidade]] 
 #EnochsJournal 
 
 # O resgate de Darius
