@@ -3,7 +3,7 @@
 ---
 
 # Destruir o demonio Nemis
-Derrotamos este temido inimigo no dia [[Journal/Enoch/log do dia 4720-1-19|19/01/4720]]
+Derrotamos este temido inimigo no dia [[Journal/Enoch/log do dia 4720-01-19|19/01/4720]]
 
 Há fortes indícios de que [[Personagens/Nemis - O demonio|Nemis - O demonio]] está para voltar para aterrorizar [[Mundo/Teia|Teia]].
 Precisamos estar prontos para quando ele chegar, e para isso é necessário produzir uma [[DNDSRD/35eSRD/Magic Itens/HomeBrew/Arma da mortalidade|arma]] que pode tornar Nemis mortal por 1d8 turnos
@@ -21,7 +21,7 @@ A arma, para fazer efeito contra Nemis, precisa ser empunhada por alguém de cor
 </div>
 
 
-[[Home|Home]] | [[Quests/Destruir o Demonio Nemis|Destruir o Demonio Nemis]] | [[Journal/Enoch/Log Do dia 4720-1-16|Log Do dia 4720-1-16]] | [[Personagens/Mirian, o grande mago da antiguidade|Mirian, o grande mago da antiguidade]]
+[[Home|Home]] | [[Quests/Destruir o Demonio Nemis|Destruir o Demonio Nemis]] | [[Journal/Enoch/Log Do dia 4720-01-16|Log Do dia 4720-01-16]] | [[Personagens/Mirian, o grande mago da antiguidade|Mirian, o grande mago da antiguidade]]
 # Arma da mortalidade
 Esta arma faz com que seres imortais se tornem mortais por 1d8 turnos.
 
