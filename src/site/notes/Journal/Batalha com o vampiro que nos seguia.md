@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/journal/batalha-com-o-vampiro-que-nos-seguia/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-[[Home|Home]] | [[Journal/Enoch/Log Do dia 4720-1-16|Log Do dia 4720-1-16]] | [[Mundo/Cidade de Nemis|Cidade de Nemis]] 
+[[Home|Home]] | [[Journal/Enoch/Log Do dia 4720-01-16|Log Do dia 4720-01-16]] | [[Mundo/Cidade de Nemis|Cidade de Nemis]] 
 #EnochsJournal 
 
 # [[Journal/Batalha com o vampiro que nos seguia|Batalha com o vampiro que nos seguia]]
