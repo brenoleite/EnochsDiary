@@ -3,7 +3,7 @@
 ---
 
 #EnochsJournal 
-[[Journal/Enoch/log do dia 4720-1-19|log do dia 4720-1-19]] | [[Home\|Home]] | [[Quests/Destruir o Demonio Nemis|Destruir o Demonio Nemis]] 
+[[Journal/Enoch/log do dia 4720-01-19|log do dia 4720-01-19]] | [[Home\|Home]] | [[Quests/Destruir o Demonio Nemis|Destruir o Demonio Nemis]] 
 <span 
 	  class='ob-timelines' 
 	  data-date='4720-01-19-00' 
