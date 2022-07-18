@@ -4,7 +4,7 @@
 
 
 #EnochsJournal 
-[[Home|home]] | [[Journal/Enoch/Log do dia 4720-1-17|Log do dia 4720-1-17]] 
+[[Home|home]] | [[Journal/Enoch/Log do dia 4720-01-17|Log do dia 4720-01-17]] 
 # Duelo contra clerigo de Heretiru
 
 Fomos ao templo de [[Personagens/Heretiru, o deus da guerra|Heretiru, o deus da guerra]] em [[Mundo/Cidade de Nemis|Nemis]] para tentar obter a informação de quem é o ferreiro mais habilidoso de toda a [[Mundo/Teia|Teia]], porém o clérigo de lá não quis compartilhar a informação de quem era o melhor ferreiro de teia, portanto [[Personagens/Enoch|Enoch]] o desafiou a um duelo até a metade do sangue.
