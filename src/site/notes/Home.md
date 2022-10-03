@@ -34,6 +34,8 @@ Com a ajuda destas páginas, pratico parte da minha meditação diária como for
 - [[Journal/Enoch/Log do dia 4720-08-07|Log do dia 4720-08-07]]
 - [[Journal/Enoch/Log do dia 4720-08-08|Log do dia 4720-08-08]]
 - [[Journal/Enoch/Log do dia 4720-08-09|Log do dia 4720-08-09]]
+- [[Journal/Enoch/Log do dia 4720-08-10|Log do dia 4720-08-10]]
+- [[Journal/Enoch/Log do dia 4720-08-11|Log do dia 4720-08-11]]
 
 
 
