@@ -199,7 +199,7 @@ Pouco tempo depois ele se juntou à tríade.
 	- +1 on attack rolls and saves against fear, 1d8 temporary hp +1/level (max +10).  
 - [ ] [[DNDSRD/35eSRD/Spells/All/Align Weapon|Align Weapon]] [preparada::0] 
 	- Weapon becomes good, evil, lawful, or chaotic.  
-- [ ] [[DNDSRD/35eSRD/Spells/All/Augury|Augury]] [preparada::1] 
+- [ ] [[DNDSRD/35eSRD/Spells/All/Augury|Augury]] [preparada::0] 
 	- Learns whether an action will be good or bad.  
 - [ ] [[DNDSRD/35eSRD/Spells/All/Bear's Endurance|Bear's Endurance]] [preparada::0] 
 	- Subject gains +4 to Con for 1 min./level.  
@@ -233,19 +233,19 @@ Pouco tempo depois ele se juntou à tríade.
 	- Repairs an object.  
 - [ ] [[DNDSRD/35eSRD/Spells/All/Owl's Wisdom|Owl's Wisdom]] [preparada::0] 
 	- Subject gains +4 to Wis for 1 min./level.  
-- [ ] [[DNDSRD/35eSRD/Spells/All/Remove Paralysis|Remove Paralysis]] [preparada::0] 
+- [ ] [[DNDSRD/35eSRD/Spells/All/Remove Paralysis|Remove Paralysis]] [preparada::1] 
 	- Frees one or more creatures from paralysis or slow effect.  
 - [ ] [[DNDSRD/35eSRD/Spells/All/Resist Energy|Resist Energy]] [preparada::0] 
 	- Ignores first 10 (or more) points of damage/attack from specified energy type.  
 - [ ] [[DNDSRD/35eSRD/Spells/All/Resist Energy|Resist Energy m]] [preparada::0] 
 	- Ignores first 10 (or more) points of damage/attack from specified energy type.  
-- [ ] [[DNDSRD/35eSRD/Spells/All/Restoration, Lesser|Restoration, Lesser]] [preparada::0] 
+- [ ] [[DNDSRD/35eSRD/Spells/All/Restoration, Lesser|Restoration, Lesser]] [preparada::1] 
 	- Dispels magical ability penalty or repairs 1d4 ability damage.  
 - [ ] [[DNDSRD/35eSRD/Spells/All/Shatter|Shatter]] [preparada::0] 
 	- Sonic vibration damages objects or crystalline creatures.  
 - [ ] [[DNDSRD/35eSRD/Spells/All/Shield Other|Shield Other]] [preparada::0] 
 	- You take half of subject’s damage.  
-- [ ] [[DNDSRD/35eSRD/Spells/All/Silence|Silence]] [preparada::1] 
+- [ ] [[DNDSRD/35eSRD/Spells/All/Silence|Silence]] [preparada::0] 
 	- Negates sound in 20-[[DNDSRD/35eSRD/Definicoes/ft|ft]]. radius.  
 - [ ] [[DNDSRD/35eSRD/Spells/All/Sound Burst|Sound Burst]] [preparada::0] 
 	- Deals 1d8 sonic damage to subjects; may stun them.  
@@ -271,7 +271,7 @@ Pouco tempo depois ele se juntou à tríade.
 	- Feeds three humans (or one horse)/level.  
 - [ ] [[DNDSRD/35eSRD/Spells/All/Cure Serious Wounds|Cure Serious Wounds]] [preparada::0] 
 	- Cures 3d8 damage +1/level (max +15).  
-- [ ] [[DNDSRD/35eSRD/Spells/All/Daylight|Daylight]] [preparada::1] 
+- [ ] [[DNDSRD/35eSRD/Spells/All/Daylight|Daylight]] [preparada::0] 
 	- 60-[[DNDSRD/35eSRD/Definicoes/ft|ft]]. radius of bright light.  
 - [ ] [[DNDSRD/35eSRD/Spells/All/Deeper Darkness|Deeper Darkness]] [preparada::0] 
 	- Object sheds supernatural shadow in 60-[[DNDSRD/35eSRD/Definicoes/ft|ft]]. radius.  
@@ -315,7 +315,7 @@ Pouco tempo depois ele se juntou à tríade.
 	- Ray deals 1d8/two levels damage, more against undead.  
 - [ ] [[DNDSRD/35eSRD/Spells/All/Speak with Dead|Speak with Dead]] [preparada::0] 
 	- Corpse answers one question/two levels.  
-- [ ] [[DNDSRD/35eSRD/Spells/All/Stone Shape|Stone Shape]] [preparada::1] 
+- [ ] [[DNDSRD/35eSRD/Spells/All/Stone Shape|Stone Shape]] [preparada::2] 
 	- Sculpts stone into any shape.  
 - [ ] [[DNDSRD/35eSRD/Spells/All/Summon Monster III|Summon Monster III]] [preparada::0] 
 	- Calls extraplanar creature to fight for you.  
@@ -377,7 +377,7 @@ Pouco tempo depois ele se juntou à tríade.
 	- Subject is immune to one spell per four levels.  
 - [ ] [[DNDSRD/35eSRD/Spells/All/Summon Monster IV|Summon Monster IV]] [preparada::0] 
 	- Calls extraplanar creature to fight for you.  
-- [ ] [[DNDSRD/35eSRD/Spells/All/Tongues|Tongues]] [preparada::0] 
+- [ ] [[DNDSRD/35eSRD/Spells/All/Tongues|Tongues]] [preparada::1] 
 	- Speak any language.  
 
 ### Level 05
@@ -427,7 +427,7 @@ Pouco tempo depois ele se juntou à tríade.
 	- Calls extraplanar creature to fight for you.  
 - [ ] [[DNDSRD/35eSRD/Spells/All/Symbol of Sleep|Symbol of Sleep]] [preparada::0] 
 	- Triggered rune puts nearby creatures into catatonic slumber.  
-- [ ] [[DNDSRD/35eSRD/Spells/All/True Seeing|True Seeing]] [preparada::0] 
+- [ ] [[DNDSRD/35eSRD/Spells/All/True Seeing|True Seeing]] [preparada::1] 
 	- Lets you see all things as they really are.  
 - [ ] [[DNDSRD/35eSRD/Spells/All/Wall of Stone|Wall of Stone]] [preparada::0] 
 	- Creates a stone wall that can be shaped.  
