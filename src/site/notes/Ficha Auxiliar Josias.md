@@ -21,93 +21,98 @@
 ## Magias Preparadas para o dia
 ##### Level 00 (6+1)
 - [ ] [[DNDSRD/35eSRD/Spells/All/Detect Magic|Detect Magic]] [preparada::1]
-	- Detects spells and magic items within 60 [[DNDSRD/35eSRD/Definicoes/ft|ft]].  
+	- Detects spells and magic items within 60 [[DNDSRD/35eSRD/Definicoes/ft|ft]].
 - [ ] [[DNDSRD/35eSRD/Spells/All/Detect Poison|Detect Poison]] [preparada::1]
-	- Detects poison in one creature or small object.  
+	- Detects poison in one creature or small object.
 - [ ] [[DNDSRD/35eSRD/Spells/All/Light (spell)|Light]] [preparada::1]
-	- Object shines like a torch.  
+	- Object shines like a torch.
 - [ ] [[DNDSRD/35eSRD/Spells/All/Mending|Mending]] [preparada::1]
-	- Makes minor repairs on an object.  
+	- Makes minor repairs on an object.
 - [ ] [[DNDSRD/35eSRD/Spells/All/Read Magic|Read Magic]] [preparada::1]
-	- Read scrolls and spellbooks.  
+	- Read scrolls and spellbooks.
 - [ ] [[DNDSRD/35eSRD/Spells/All/Resistance|Resistance]] [preparada::1]
-	- Subject gains +1 on saving throws.  
+	- Subject gains +1 on saving throws.
 ##### Level 01 (6+1)
-- [x] [[DNDSRD/35eSRD/Spells/All/Cure Light Wounds|Cure Light Wounds]] [preparada::1]  
-	- Cures 1d8 damage +1/level (max +5).  
+- [ ] [[DNDSRD/35eSRD/Spells/All/Cure Light Wounds|Cure Light Wounds]] [preparada::1]  
+	- Cures 1d8 damage +1/level (max +5).
 :--:
-- [x] [[DNDSRD/35eSRD/Spells/All/Bless Water|Bless Water]] [preparada::1]
-	- Makes holy water.  
+- [ ] [[DNDSRD/35eSRD/Spells/All/Bless Water|Bless Water]] [preparada::1]
+	- Makes holy water.
 - [ ] [[DNDSRD/35eSRD/Spells/All/Command|Command]] [preparada::1]
-	- One subject obeys selected command for 1 round.  
+	- One subject obeys selected command for 1 round.
 - [ ] [[DNDSRD/35eSRD/Spells/All/Comprehend Languages|Comprehend Languages]] [preparada::1]
-	- You understand all spoken and written languages.  
+	- You understand all spoken and written languages.
 - [ ] [[DNDSRD/35eSRD/Spells/All/Endure Elements|Endure Elements]] [preparada::1]
-	- Exist comfortably in hot or cold environments.  
+	- Exist comfortably in hot or cold environments.
 - [ ] [[DNDSRD/35eSRD/Spells/All/Obscuring Mist|Obscuring Mist]] [preparada::1]
-	- Fog surrounds you.  
+	- Fog surrounds you.
 - [ ] [[DNDSRD/35eSRD/Spells/All/Remove Fear|Remove Fear]] [preparada::1]
-	- Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.  
+	- Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
 ##### Level 02 (5+1)
 - [ ] [[DNDSRD/35eSRD/Spells/All/Cure Moderate Wounds|Cure Moderate Wounds]] [preparada::1]  
-	- Cures 2d8 damage +1/level (max +10).  
+	- Cures 2d8 damage +1/level (max +10).
 :--:
-- [ ] [[DNDSRD/35eSRD/Spells/All/Augury|Augury]] [preparada::1]
-	- Learns whether an action will be good or bad.  
 - [ ] [[DNDSRD/35eSRD/Spells/All/Calm Emotions|Calm Emotions]] [preparada::1]
-	- Calms creatures, negating emotion effects.  
+	- Calms creatures, negating emotion effects.
 - [ ] [[DNDSRD/35eSRD/Spells/All/Make Whole|Make Whole]] [preparada::1]
-	- Repairs an object.  
-- [ ] [[DNDSRD/35eSRD/Spells/All/Silence|Silence]] [preparada::1]
-	- Negates sound in 20-[[DNDSRD/35eSRD/Definicoes/ft|ft]]. radius.  
+	- Repairs an object.
+- [ ] [[DNDSRD/35eSRD/Spells/All/Remove Paralysis|Remove Paralysis]] [preparada::1]
+	- Frees one or more creatures from paralysis or slow effect.
+- [ ] [[DNDSRD/35eSRD/Spells/All/Restoration, Lesser|Restoration, Lesser]] [preparada::1]
+	- Dispels magical ability penalty or repairs 1d4 ability damage.
 - [ ] [[DNDSRD/35eSRD/Spells/All/Status|Status]] [preparada::1]
-	- Monitors condition, position of allies.  
+	- Monitors condition, position of allies.
 ##### Level 03 (4+1)
 - [ ] [[DNDSRD/35eSRD/Spells/All/Cure Serious Wounds|Cure Serious Wounds]] [preparada::1]  
-	- Cures 3d8 damage +1/level (max +15).  
+	- Cures 3d8 damage +1/level (max +15).
 :--:
-- [ ] [[DNDSRD/35eSRD/Spells/All/Daylight|Daylight]] [preparada::1]
-	- 60-[[DNDSRD/35eSRD/Definicoes/ft|ft]]. radius of bright light.  
 - [ ] [[DNDSRD/35eSRD/Spells/All/Dispel Magic|Dispel Magic]] [preparada::1]
-	- Cancels magical spells and effects.   
+	- Cancels magical spells and effects.
+- [ ] [[DNDSRD/35eSRD/Spells/All/Remove Curse|Remove Curse]] [preparada::1]
+	- Frees object or person from curse.
 - [ ] [[DNDSRD/35eSRD/Spells/All/Stone Shape|Stone Shape]] [preparada::1]
-	- Sculpts stone into any shape.  
-- [x] [[DNDSRD/35eSRD/Spells/All/Stone Shape|Stone Shape]] [preparada::1]
-	- Sculpts stone into any shape.  
-##### Level 04 (3+1)
-- [x] [[DNDSRD/35eSRD/Spells/All/Cure Critical Wounds|Cure Critical Wounds]] [preparada::1]  
-	- Cures 4d8 damage +1/level (max +20).  
+	- Sculpts stone into any shape.
+- [ ] [[DNDSRD/35eSRD/Spells/All/Stone Shape|Stone Shape]] [preparada::1]
+	- Sculpts stone into any shape.
+##### Level 04 (4+1)
+- [ ] [[DNDSRD/35eSRD/Spells/All/Cure Critical Wounds|Cure Critical Wounds]] [preparada::1]  
+	- Cures 4d8 damage +1/level (max +20).
 :--:
-- [x] [[DNDSRD/35eSRD/Spells/All/Discern Lies|Discern Lies]] [preparada::1]
-	- Reveals deliberate falsehoods.  
+- [ ] [[DNDSRD/35eSRD/Spells/All/Discern Lies|Discern Lies]] [preparada::1]
+	- Reveals deliberate falsehoods.
 - [ ] [[DNDSRD/35eSRD/Spells/All/Imbue with Spell Ability|Imbue with Spell Ability]] [preparada::1]
-	- Transfer spells to subject.  
+	- Transfer spells to subject.
 - [ ] [[DNDSRD/35eSRD/Spells/All/Sending|Sending]] [preparada::1]
-	- Delivers short message anywhere, instantly.  
-##### Level 05 (2+1)
+	- Delivers short message anywhere, instantly.
+- [ ] [[DNDSRD/35eSRD/Spells/All/Tongues|Tongues]] [preparada::1]
+	- Speak any language.
+##### Level 05 (3+1)
 - [ ] [[DNDSRD/35eSRD/Spells/All/Cure Light Wounds, Mass|Cure Light Wounds, Mass ]] [preparada::1]  
-	- Cures 1d8 damage +1/level for one creature/level, no two of which can be more than 30 [[DNDSRD/35eSRD/Definicoes/ft|ft]]. apart.  
+	- Cures 1d8 damage +1/level for one creature/level, no two of which can be more than 30 [[DNDSRD/35eSRD/Definicoes/ft|ft]]. apart.
 :--:
 - [x] [[DNDSRD/35eSRD/Spells/All/Break Enchantment|Break Enchantment]] [preparada::1]
-	- Frees subjects from enchantments, alterations, curses, and petrification.  
-- [ ] [[DNDSRD/35eSRD/Magic Overview/Magic Descriptions/Scrying|Scrying]] [preparada::1]
-	- Spies on subject from a distance.  
+	- Frees subjects from enchantments, alterations, curses, and petrification.
+- [ ] [[DNDSRD/35eSRD/Spells/All/Scrying (spell)|Scrying]] [preparada::1]
+	- Spies on subject from a distance.
+- [ ] [[DNDSRD/35eSRD/Spells/All/True Seeing|True Seeing]] [preparada::1]
+	- Lets you see all things as they really are.
 ##### Level 06 (0+1)
 - [ ] [[DNDSRD/35eSRD/Spells/All/Heal|Heal]] [preparada::0]  
-	- Cures 10 points/level of damage, all diseases and mental conditions.  
+	- Cures 10 points/level of damage, all diseases and mental conditions.
 :--:
 ##### Level 07 (0+1)
 - [ ] [[DNDSRD/35eSRD/Spells/All/Regenerate|Regenerate]] [preparada::0]  
-	- Subject’s severed limbs grow back, cures 4d8 damage +1/level (max +35).  
+	- Subject’s severed limbs grow back, cures 4d8 damage +1/level (max +35).
 :--:
 ##### Level 08 (0+1)
 - [ ] [[DNDSRD/35eSRD/Spells/All/Cure Critical Wounds, Mass|Cure Critical Wounds, Mass]] [preparada::0]  
-	- Cures 4d8 damage +1/level for many creatures.  
+	- Cures 4d8 damage +1/level for many creatures.
 :--:
 ##### Level 09 (0+1)
 - [ ] [[DNDSRD/35eSRD/Spells/All/Heal, Mass|Heal, Mass]] [preparada::0]  
-	- As heal, but with several subjects.  
+	- As heal, but with several subjects.
 :--:
+
 
 
 
