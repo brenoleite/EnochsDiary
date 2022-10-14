@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/criaturas/dragao-vermelho/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/criaturas/dragao-vermelho/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 [[Home|Home]] | [[Personagens/Jorkman|Jorkman]] | [[Mundo/Etiei|Etiei]] | [[Quests/Caverna do Dragão|Caverna do Dragão]] 
