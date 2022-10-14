@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/gedania/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/personagens/gedania/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 [[Home|Home]] | [[Mundo/Etiei|Etiei]] | [[Journal/Enoch/Log do dia 4720-08-02|Log do dia 4720-08-02]] 
