@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/nemis-o-demonio/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/personagens/nemis-o-demonio/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # Nemis - O demônio
