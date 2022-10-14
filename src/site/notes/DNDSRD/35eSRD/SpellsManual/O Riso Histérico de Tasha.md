@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dndsrd/35e-srd/spells-manual/o-riso-histerico-de-tasha/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/dndsrd/35e-srd/spells-manual/o-riso-histerico-de-tasha/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 [[DeD 3.5|DeD 3.5]] [[magia|magia]]
