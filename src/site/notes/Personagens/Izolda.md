@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/izolda/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/personagens/izolda/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 <a href="javascript:history.back()">⬅️ Voltar</a>
