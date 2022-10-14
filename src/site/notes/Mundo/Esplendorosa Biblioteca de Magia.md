@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mundo/esplendorosa-biblioteca-de-magia/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/mundo/esplendorosa-biblioteca-de-magia/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 [[Mundo/Cidade de Nemis|Cidade de Nemis]] | [[Home|Home]] | [[Journal/Enoch/Log Do dia 4720-01-16|Log Do dia 4720-01-16]] | 
