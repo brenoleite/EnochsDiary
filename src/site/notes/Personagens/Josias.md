@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/josias/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/personagens/josias/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 [[Home|Home]] | [[Personagens/Enoch|Enoch]] | [[Personagens/triade|Tríade]] 
