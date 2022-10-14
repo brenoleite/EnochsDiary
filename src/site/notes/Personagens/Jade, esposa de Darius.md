@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/jade-esposa-de-darius/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/personagens/jade-esposa-de-darius/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 [[Home|Home]] | [[Journal/Enoch/Log do dia 4720-01-17|Log do dia 4720-01-17]] | [[Mundo/Ilitia|Ilitia]] | [[Journal/O resgate de Darius|O resgate de Darius]] 
