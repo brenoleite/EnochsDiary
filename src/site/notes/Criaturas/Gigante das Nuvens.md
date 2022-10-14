@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/criaturas/gigante-das-nuvens/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/criaturas/gigante-das-nuvens/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 [[Home|Home]] | [[Mundo/Esplendorosa Biblioteca de Magia|Esplendorosa Biblioteca de Magia]] | [[Journal/Enoch/Log Do dia 4720-01-16|Log Do dia 4720-01-16]] | [[Journal/Quase Batalha com gigante das nuvens|Quase Batalha com gigante das nuvens]] 
