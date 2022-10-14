@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quests/exercito-de-heironeous/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/quests/exercito-de-heironeous/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 #EnochsJournal 
