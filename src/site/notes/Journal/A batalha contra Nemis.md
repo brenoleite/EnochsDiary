@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/a-batalha-contra-nemis/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/journal/a-batalha-contra-nemis/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 #EnochsJournal 
