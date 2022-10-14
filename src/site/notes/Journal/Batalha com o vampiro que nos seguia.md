@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/batalha-com-o-vampiro-que-nos-seguia/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/journal/batalha-com-o-vampiro-que-nos-seguia/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 [[Home|Home]] | [[Journal/Enoch/Log Do dia 4720-01-16|Log Do dia 4720-01-16]] | [[Mundo/Cidade de Nemis|Cidade de Nemis]] 
