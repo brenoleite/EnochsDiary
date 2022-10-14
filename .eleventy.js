@@ -28,6 +28,10 @@ module.exports = function(eleventyConfig) {
             ulClass: 'task-list',
             liClass: 'task-list-item'
         })
+        .use(require('markdown-it-plantuml'), {
+            openMarker: '```plantuml',
+            closeMarker: '```'
+        })
         .use(namedHeadingsFilter)
         .use(function(md) {
             //https://github.com/DCsunset/markdown-it-mermaid-plugin
@@ -131,7 +135,11 @@ module.exports = function(eleventyConfig) {
 
 
             try {
-                const file = fs.readFileSync(`./src/site/notes/${fileName}.md`, 'utf8');
+                const startPath = './src/site/notes/';
+                const fullPath = fileName.endsWith('.md') ? 
+                    `${startPath}${fileName}`
+                    :`${startPath}${fileName}.md`;
+                const file = fs.readFileSync(fullPath, 'utf8');
                 const frontMatter = matter(file);
                 if (frontMatter.data.permalink) {
                     permalink = frontMatter.data.permalink;
@@ -140,7 +148,7 @@ module.exports = function(eleventyConfig) {
                 deadLink = true;
             }
 
-            return `<a class="internal-link${deadLink?' is-unresolved':''}" href="${permalink}${headerLinkPath}">${title}</a>`;
+            return `<a class="internal-link ${deadLink?'is-unresolved':''}" href="${permalink}${headerLinkPath}">${title}</a>`;
         });
     })
 
