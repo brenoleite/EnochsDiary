@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ficha-auxiliar-josias/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/ficha-auxiliar-josias/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # Josias ([[Personagens/Josias|->]])
