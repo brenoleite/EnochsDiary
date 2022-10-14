@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/mirian-o-grande-mago-da-antiguidade/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/personagens/mirian-o-grande-mago-da-antiguidade/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 [[Home|Home]] | [[Journal/Enoch/Log Do dia 4720-01-16|Log Do dia 4720-01-16]] | [[DNDSRD/35eSRD/Magic Itens/HomeBrew/Arma da mortalidade|Arma da mortalidade]] |
