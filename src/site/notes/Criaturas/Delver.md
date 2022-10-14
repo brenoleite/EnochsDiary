@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/criaturas/delver/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/criaturas/delver/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 
