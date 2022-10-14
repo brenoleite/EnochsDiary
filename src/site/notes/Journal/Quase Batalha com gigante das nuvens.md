@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/quase-batalha-com-gigante-das-nuvens/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/journal/quase-batalha-com-gigante-das-nuvens/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 [[DeD pelo mundo|DeD pelo mundo]] [[DeD 3.5|DeD 3.5]]
