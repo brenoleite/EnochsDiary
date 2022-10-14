@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mundo/templo-da-amizade/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/mundo/templo-da-amizade/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 # [[Mundo/Templo da Amizade|Templo da Amizade]]
