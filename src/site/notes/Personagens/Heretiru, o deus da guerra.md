@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/heretiru-o-deus-da-guerra/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/personagens/heretiru-o-deus-da-guerra/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 [[Home|Home]] | [[Journal/Enoch/Log do dia 4720-01-17|Log do dia 4720-01-17]] | [[Journal/Duelo contra clerigo de Heretiru|Duelo contra clerigo de Heretiru]] 
