@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/templates/template-scolas-magia/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/templates/template-scolas-magia/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
  <% await tp.file.move("DNDSRD/35eSRD/Definicoes/Magic Schools/"+tp.file.title)%>
