@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dndsrd/35e-srd/classes/paladin/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/dndsrd/35e-srd/classes/paladin/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 
