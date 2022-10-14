@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dndsrd/35e-srd/spells/all/resistance/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/dndsrd/35e-srd/spells/all/resistance/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 
