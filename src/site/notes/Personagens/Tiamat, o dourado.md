@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/tiamat-o-dourado/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/personagens/tiamat-o-dourado/"}
 ---
 
 
-# [[Personagens/Tiamat, o dourado|Tiamat, o dourado]]
+# [[Personagens/Tiamat, o dourado\|Tiamat, o dourado]]
 **nome**: Tiamat
 **alias**: O Dourado
 **raça**: Elfo (mas suspeitamos ser um dragão)
@@ -12,16 +12,16 @@
 **descrição**: um homem de posse, com roupa dourada ornamentada com pedras preciosas. Extravagante mas amoroso com os amigos
 
 ### primeiro contato
-**local**: [[Mundo/Etiei|Etiei]]
-**circunstância**: É amigos dos avós paternos de [[Personagens/Aladrail|Aladrail]]. Conhecemos ele no jantar na casa deles.
+**local**: [[Mundo/Etiei\|Etiei]]
+**circunstância**: É amigos dos avós paternos de [[Personagens/Aladrail\|Aladrail]]. Conhecemos ele no jantar na casa deles.
 
 ### outras informações
 Suspeitamos ser um dragão dourado em forma de elfo.
 
-Prometeu nos ajudar com conselhos e recursos contra [[Personagens/Jorkman|Jorkman]].
+Prometeu nos ajudar com conselhos e recursos contra [[Personagens/Jorkman\|Jorkman]].
 - cada ruby ou esmeralda pode repetir o teste de diplomacia com +1 para conseguirmos recursos
 
-Aconselhou não interagirmos com os gigantes de pedra que moram nas cavernas, mas [[Personagens/Li|Li]] achou que havia algo estranho no seu conselho.
+Aconselhou não interagirmos com os gigantes de pedra que moram nas cavernas, mas [[Personagens/Li\|Li]] achou que havia algo estranho no seu conselho.
 
 ---
-[[personagem|personagem]] [[NPC|NPC]] 
+[[personagem\|personagem]] [[NPC\|NPC]] 
