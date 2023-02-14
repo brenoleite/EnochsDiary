@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/criaturas/tribulo-brutal/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/criaturas/tribulo-brutal/"}
 ---
 
-[[Home|Home]] 
-# [[Criaturas/Tribulo Brutal|Tribulo Brutal]]
+[[Home\|Home]] 
+# [[Criaturas/Tribulo Brutal\|Tribulo Brutal]]
 - pode causar confusão com seus olhos
 
 ---
