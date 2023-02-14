@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/dndsrd/35e-srd/spells-manual/abencoar-arma/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/dndsrd/35e-srd/spells-manual/abencoar-arma/"}
 ---
 
-[[DeD 3.5|DeD 3.5]] [[magia|magia]]
+[[DeD 3.5\|DeD 3.5]] [[magia\|magia]]
 #aaa
-# [[DNDSRD/35eSRD/SpellsManual/Abençoar Arma|Abençoar Arma]]
+# [[DNDSRD/35eSRD/SpellsManual/Abençoar Arma\|Abençoar Arma]]
 #35eSpells
 Transmutação
 **Nível**:: Pal 1
