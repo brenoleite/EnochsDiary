@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mundo/capital/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/mundo/capital/"}
 ---
 
 
@@ -9,9 +9,9 @@
 ## Informações
 **Regente**:
 **NPCs**:
- - [[Vader|Vader]]
+ - [[Vader\|Vader]]
 **Lojas, templos e afins**:
 
 
 ---
-[[mundo|mundo]] [[cidades|cidades]] 
+[[mundo\|mundo]] [[cidades\|cidades]] 
