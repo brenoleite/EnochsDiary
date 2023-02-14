@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dndsrd/35e-srd/classes/paladin/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/dndsrd/35e-srd/classes/paladin/"}
 ---
 
 
@@ -12,7 +12,7 @@
 
 ###### Class Skills
 
-The paladin’s class skills (and the key ability for each skill) are [[DNDSRD/35eSRD/Skills/CONCENTRATION (CON)|Concentration]] (Con), [[DNDSRD/35eSRD/Skills/CRAFT (INT)|craft]] (Int), [[DNDSRD/35eSRD/Skills/DIPLOMACY (CHA)|Diplomacy]] (Cha), [[DNDSRD/35eSRD/Skills/HANDLE ANIMAL (CHA; TRAINED ONLY)|Handle Animal]] (Cha), [[DNDSRD/35eSRD/Skills/HEAL (WIS)|Heal]] (Wis), [[DNDSRD/35eSRD/Skills/KNOWLEDGE (INT; TRAINED ONLY)|Knowledge]] (nobility and royalty / religion) (Int), [[DNDSRD/35eSRD/Skills/PROFESSION (WIS; TRAINED ONLY)|Profession]] (Wis), [[DNDSRD/35eSRD/Skills/RIDE (DEX)|Ride]] (Dex), and [[DNDSRD/35eSRD/Skills/SENSE MOTIVE (WIS)|Sense Motive]] (Wis).
+The paladin’s class skills (and the key ability for each skill) are [[DNDSRD/35eSRD/Skills/CONCENTRATION (CON)\|Concentration]] (Con), [[DNDSRD/35eSRD/Skills/CRAFT (INT)\|craft]] (Int), [[DNDSRD/35eSRD/Skills/DIPLOMACY (CHA)\|Diplomacy]] (Cha), [[DNDSRD/35eSRD/Skills/HANDLE ANIMAL (CHA; TRAINED ONLY)\|Handle Animal]] (Cha), [[DNDSRD/35eSRD/Skills/HEAL (WIS)\|Heal]] (Wis), [[DNDSRD/35eSRD/Skills/KNOWLEDGE (INT; TRAINED ONLY)\|Knowledge]] (nobility and royalty / religion) (Int), [[DNDSRD/35eSRD/Skills/PROFESSION (WIS; TRAINED ONLY)\|Profession]] (Wis), [[DNDSRD/35eSRD/Skills/RIDE (DEX)\|Ride]] (Dex), and [[DNDSRD/35eSRD/Skills/SENSE MOTIVE (WIS)\|Sense Motive]] (Wis).
 
 **Skill Points at 1st Level**: (2 + Int modifier) x 4.
 
@@ -65,13 +65,13 @@ At 5th level, and at every five levels thereafter, the paladin may smite evil on
 
 Alternatively, a paladin can use any or all of this healing power to deal damage to undead creatures. Using lay on hands in this way requires a successful melee touch attack and doesn’t provoke an attack of opportunity. The paladin decides how many of her daily allotment of points to use as damage after successfully touching an undead creature.
 
-**Aura of Courage (Su)**: Beginning at 3rd level, a paladin is immune to fear (magical or otherwise). Each ally within 10 feet of her gains a +4 morale bonus on saving throws against fear effects. This ability functions while the paladin is conscious, but not if she is [[DNDSRD/35eSRD/Conditions/Unconscious|unconscious]] or [[DNDSRD/35eSRD/Conditions/Dead|dead]].
+**Aura of Courage (Su)**: Beginning at 3rd level, a paladin is immune to fear (magical or otherwise). Each ally within 10 feet of her gains a +4 morale bonus on saving throws against fear effects. This ability functions while the paladin is conscious, but not if she is [[DNDSRD/35eSRD/Conditions/Unconscious\|unconscious]] or [[DNDSRD/35eSRD/Conditions/Dead\|dead]].
 
 **Divine Health (Ex)**: At 3rd level, a paladin gains immunity to all diseases, including supernatural and magical diseases.
 
-**Turn Undead (Su)**: When a paladin reaches 4th level, she gains the supernatural ability to [[DNDSRD/35eSRD/Combat/TURN OR REBUKE UNDEAD|Turn Undead]]. She may use this ability a number of times per day equal to 3 + her Charisma modifier. She turns undead as a cleric of three levels lower would.
+**Turn Undead (Su)**: When a paladin reaches 4th level, she gains the supernatural ability to [[DNDSRD/35eSRD/Combat/TURN OR REBUKE UNDEAD\|Turn Undead]]. She may use this ability a number of times per day equal to 3 + her Charisma modifier. She turns undead as a cleric of three levels lower would.
 
-**Spells**: Beginning at 4th level, a paladin gains the ability to cast a small number of divine spells, which are drawn from the [[DNDSRD/35eSRD/Spells/ByClasses/Paladin spell list|Paladin spell list]]. A paladin must choose and prepare her spells in advance.
+**Spells**: Beginning at 4th level, a paladin gains the ability to cast a small number of divine spells, which are drawn from the [[DNDSRD/35eSRD/Spells/ByClasses/Paladin spell list\|Paladin spell list]]. A paladin must choose and prepare her spells in advance.
 
 To prepare or cast a spell, a paladin must have a Wisdom score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a paladin’s spell is 10 + the spell level + the paladin’s Wisdom modifier.
 
