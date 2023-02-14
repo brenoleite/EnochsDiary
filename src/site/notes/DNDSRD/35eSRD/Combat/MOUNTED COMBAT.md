@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dndsrd/35e-srd/combat/mounted-combat/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/dndsrd/35e-srd/combat/mounted-combat/"}
 ---
 
 
@@ -17,7 +17,7 @@ A horse (not a pony) is a Large creature and thus takes up a space 10 feet (2 sq
 
 When you attack a creature smaller than your mount that is on foot, you get the +1 bonus on melee attacks for being on higher ground. If your mount moves more than 5 feet, you can only make a single melee attack. Essentially, you have to wait until the mount gets to your enemy before attacking, so you can’t make a full attack. Even at your mount’s full speed, you don’t take any penalty on melee attacks while mounted.
 
-If your mount charges, you also take the AC penalty associated with a charge. If you make an attack at the end of the charge, you receive the bonus gained from the charge. When charging on horseback, you deal double damage with a lance (see [[DNDSRD/35eSRD/Combat/CHARGE|Charge]]).
+If your mount charges, you also take the AC penalty associated with a charge. If you make an attack at the end of the charge, you receive the bonus gained from the charge. When charging on horseback, you deal double damage with a lance (see [[DNDSRD/35eSRD/Combat/CHARGE\|Charge]]).
 
 You can use ranged weapons while your mount is taking a double move, but at a –4 penalty on the attack roll. You can use ranged weapons while your mount is running (quadruple speed), at a –8 penalty. In either case, you make the attack roll when your mount has completed half its movement. You can make a full attack with a ranged weapon while your mount is moving. Likewise, you can take move actions normally
 
