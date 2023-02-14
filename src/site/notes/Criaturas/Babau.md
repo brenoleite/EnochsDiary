@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/criaturas/babau/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/criaturas/babau/"}
 ---
 
 Página em construção
