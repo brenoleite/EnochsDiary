@@ -1,25 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/mundo/cidade-de-nemis/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/mundo/cidade-de-nemis/"}
 ---
 
 
-==[[Mundo/Teia|Teia]]== | [[Home|Home]] 
+==[[Mundo/Teia\|Teia]]== | [[Home\|Home]] 
 
 # Cidade de Nemis
 A segunda maior cidade e a segunda mais espiritualizada. É uma cidade muito cultural.
 
 ## Informações
-**Regente**: [[Personagens/Conde Julian|Conde Julian]] (11º na linha de sucessão do trono)
+**Regente**: [[Personagens/Conde Julian\|Conde Julian]] (11º na linha de sucessão do trono)
 **NPCs**:
- - [[Iuxor|Iuxor]] - paladino de [[Personagens/Heironeous|Heironeous]]
- - [[Elaine|Elaine]] - Sacerdotisa de [[Personagens/Pelor|Pelor]] 
+ - [[Iuxor\|Iuxor]] - paladino de [[Personagens/Heironeous\|Heironeous]]
+ - [[Elaine\|Elaine]] - Sacerdotisa de [[Personagens/Pelor\|Pelor]] 
 
 **Lojas**:
- - [[Mundo/Esplendorosa Biblioteca de Magia|Esplendorosa Biblioteca de Magia]]
- - [[Mundo/Grande Biblioteca de história e religião|Grande Biblioteca de história e religião]]
+ - [[Mundo/Esplendorosa Biblioteca de Magia\|Esplendorosa Biblioteca de Magia]]
+ - [[Mundo/Grande Biblioteca de história e religião\|Grande Biblioteca de história e religião]]
 
 **Pontos de Interesse**
- - [[Mundo/Taberna Alasao Veloz (resistencia)|Taberna Alasao Veloz (resistencia)]]
+ - [[Mundo/Taberna Alasao Veloz (resistencia)\|Taberna Alasao Veloz (resistencia)]]
 
 ### Outras informações relevantes
 Fica a 8 dias de viagem do monastério.
@@ -37,4 +37,4 @@ Nemis, o demônio, ao descobrir que poderia ser morto pelos humanos voltou ao in
 A estrutura criada para dar suporte a batalha porém já havia se tornado uma verdadeira cidade, e com o advento da paz passou a atrair ainda mais pessoas interessadas em cultura e conhecimento
 
 ---
-[[mundo|mundo]] [[cidades|cidades]] 
+[[mundo\|mundo]] [[cidades\|cidades]] 
