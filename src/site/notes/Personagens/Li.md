@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/personagens/li/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/personagens/li/"}
 ---
 
 
-[[Home|Home]] | [[Personagens/triade|Tríade]] | [[Personagens/Enoch|Enoch]] 
+[[Home\|Home]] | [[Personagens/triade\|Tríade]] | [[Personagens/Enoch\|Enoch]] 
 # Li
 nome: Li Jimbao
-Raça: [[Humano|Humano]]
-Classe: [[DNDSRD/35eSRD/Classes/Monk|monge]]
-Deus: [[Personagens/Heironeous|Heironeous]]
+Raça: [[Humano\|Humano]]
+Classe: [[DNDSRD/35eSRD/Classes/Monk\|monge]]
+Deus: [[Personagens/Heironeous\|Heironeous]]
 Alinhamento: Leal Bom
 Nível: 11
 
-irmão de [[Personagens/Enoch|Enoch]]
+irmão de [[Personagens/Enoch\|Enoch]]
