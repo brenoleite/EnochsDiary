@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/dndsrd/35e-srd/spells/all/inflict-minor-wounds/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/dndsrd/35e-srd/spells/all/inflict-minor-wounds/"}
 ---
 
-[[DeD 3.5|DeD 3.5]] [[magia|magia]]
+[[DeD 3.5\|DeD 3.5]] [[magia\|magia]]
 
 # Inflict Minor Wounds
-[[DNDSRD/35eSRD/Magic Overview/Magic Descriptions/Necromancy|Necromancy]]  <s class="aside-hide">![[Inflict Minor Wounds.png|Inflict Minor Wounds.png]]</s>
+[[DNDSRD/35eSRD/Magic Overview/Magic Descriptions/Necromancy\|Necromancy]]  <s class="aside-hide">![[Inflict Minor Wounds.png\|Inflict Minor Wounds.png]]</s>
 **Level**:: Cleric0 
 **Components**:: V S 
 **CastingTime**:: 1 standard 
-**Range**:: [[touch|touch]]
+**Range**:: [[touch\|touch]]
 **Target**:: creature touched
 **Area**:: 
 **Duration**:: Instantaneous
