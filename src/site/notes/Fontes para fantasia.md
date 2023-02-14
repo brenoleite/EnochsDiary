@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fontes-para-fantasia/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/fontes-para-fantasia/"}
 ---
 
 
@@ -392,5 +392,5 @@ THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
 
 
 ---
-[[D&D|D&D]]
+[[D&D\|D&D]]
 
