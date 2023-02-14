@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/mundo/grifo/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/mundo/grifo/"}
 ---
 
 
-==[[Mundo/Teia|Teia]]== | [[Home|Home]] 
+==[[Mundo/Teia\|Teia]]== | [[Home\|Home]] 
 
 # Grifo
 
@@ -15,8 +15,8 @@
 **Lojas**:
 
 ## História
-Os personagens da tríade concluíram missões na cidade antes de [[Personagens/Enoch|Enoch]] se juntar a [[Personagens/triade|triade]], e há um monumento na cidade em homenagem a eles
-O prefeito da cidade prometeu a [[Personagens/Aladrail|Aladrail]] todo homem que consegue carregar uma espada para [[exército de Heironeous|exército de Heironeous]].
+Os personagens da tríade concluíram missões na cidade antes de [[Personagens/Enoch\|Enoch]] se juntar a [[Personagens/triade\|triade]], e há um monumento na cidade em homenagem a eles
+O prefeito da cidade prometeu a [[Personagens/Aladrail\|Aladrail]] todo homem que consegue carregar uma espada para [[exército de Heironeous\|exército de Heironeous]].
 
 ---
-[[mundo|mundo]] [[cidades|cidades]]
+[[mundo\|mundo]] [[cidades\|cidades]]
